@@ -47,7 +47,7 @@ for p in primes6:
 from math import floor 
 
 nmax = 1000000
-nmax = 100000
+nmax = 1000000
 
 primes = []
 
@@ -95,18 +95,66 @@ for p in primes:
     if len(str(p))==2:
         primes2.append(p)
 
+p_trunc =[]
+
+for p in primes6:
+    if rightTrunc(p,1) in primes5:
+        if leftTrunc(p,1) in primes5:
+            if rightTrunc(p,2) in primes4:
+                if leftTrunc(p,2) in primes4:
+                    if rightTrunc(p,3) in primes3:
+                        if leftTrunc(p,3) in primes3:
+                            if rightTrunc(p,4) in primes2:
+                                if leftTrunc(p,4) in primes2:
+                                    if rightTrunc(p,5) in primes1:
+                                        if leftTrunc(p,5) in primes1:
+                                            p_trunc.append(p)
+
 for p in primes5:
     if rightTrunc(p,1) in primes4:
         if leftTrunc(p,1) in primes4:
-            print(str(p) +' is 4 truncatable')
             if rightTrunc(p,2) in primes3:
                 if leftTrunc(p,2) in primes3:
-                    print(str(p) +' is 3 truncatable')
                     if rightTrunc(p,3) in primes2:
                         if leftTrunc(p,3) in primes2:
-                            print(str(p) +' is 2 truncatable')
                             if rightTrunc(p,4) in primes1:
                                 if leftTrunc(p,4) in primes1:
-                                    print(str(p) +' is 1 truncatable')
+                                    p_trunc.append(p)
+
+for p in primes4:
+    if rightTrunc(p,1) in primes3:
+        if leftTrunc(p,1) in primes3:
+            if rightTrunc(p,2) in primes2:
+                if leftTrunc(p,2) in primes2:
+                    if rightTrunc(p,3) in primes1:
+                        if leftTrunc(p,3) in primes1:
+                            p_trunc.append(p)
+
+for p in primes3:
+    if rightTrunc(p,1) in primes2:
+        if leftTrunc(p,1) in primes2:
+            if rightTrunc(p,2) in primes1:
+                if leftTrunc(p,2) in primes1:
+                    p_trunc.append(p)
+
+for p in primes2:
+    if rightTrunc(p,1) in primes1:
+        if leftTrunc(p,1) in primes1:
+            p_trunc.append(p)
+
+print(p_trunc)
+
+p_temp=p_trunc.copy()
+p_temp.sort()
+print(p_temp)
+p_final=[]
+for p in p_temp:
+    if p in p_final:
+        continue
+    if len(str(p))<2:
+        continue
+    p_final.append(p)
 
 
+print(p_final)
+print(sum(p_final))
