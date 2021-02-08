@@ -41,17 +41,19 @@ print('Primes generated')
 # check for rotation in list of primes...
 
 def hasEven(candidate):
-    if str(candidate).find(0)>0:
+    if candidate == 2:
+        return False
+    if str(candidate).find('0')>0:
         return True
-    if str(candidate).find(2)>0:
+    if str(candidate).find('2')>0:
         return True
-    if str(candidate).find(4)>0:
+    if str(candidate).find('4')>0:
         return True
-    if str(candidate).find(6)>0:
+    if str(candidate).find('6')>0:
         return True
-    if str(candidate).find(8)>0:
+    if str(candidate).find('8')>0:
         return True
-    else return False
+    else: return False
 
 def checkPrime(candidate):
     if candidate in primes:
@@ -74,7 +76,10 @@ for prime in primes:
     loops = 0
     primetest = []
     # the "in" is too slow...
+    # hasEven() speeds things up significantly
     print('Testing {}...'.format(prime))
+    if hasEven(prime):
+        continue
     while loops < len(str(prime)):
         testing = rotatePrime(prime,loops)
         if testing%2 == 0 and prime > 2:

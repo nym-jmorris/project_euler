@@ -106,7 +106,7 @@ with open('p054_poker.txt', newline='') as f:
     
     data = list(reader)
 
-f = open('output.txt','w')
+f = open('p54_output.txt','w')
 
 def evalofKind(hand):
     khand = []

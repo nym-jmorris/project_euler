@@ -1,0 +1,5000 @@
+Same type of hand.
+Player A holds: 8C TS KC 9H 4S | 0 points, High Card, 13,10,9 high
+Player B holds: 7D 2S 5D 3S AC | 0 points, High Card, 14,7,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 5C AD 5D AC 9C | 40 points, Two Pair, 14,5,9 high
+Player B holds: 7C 5H 8D TD KS | 0 points, High Card, 13,10,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 3H 7H 6S KC JS | 0 points, High Card, 13,11,7 high
+Player B holds: QH TD JC 2D 8S | 0 points, High Card, 12,11,10 high
+A Wins
+
+Same type of hand.
+Player A holds: TH 8H 5C QS TC | 30 points, One Pair, 10,12,8 high
+Player B holds: 9H 4D JC KS JS | 30 points, One Pair, 11,13,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 7C 5H KC QH JD | 0 points, High Card, 13,12,11 high
+Player B holds: AS KH 4C AD 4S | 40 points, Two Pair, 14,4,13 high
+B Wins
+
+Same type of hand.
+Player A holds: 5H KS 9C 7D 9H | 30 points, One Pair, 9,13,7 high
+Player B holds: 8D 3S 5D 5C AH | 30 points, One Pair, 5,14,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 6H 4H 5C 3H 2H | 60 points, Straight, 6,5,4 high
+Player B holds: 3S QH 5S 6S AS | 0 points, High Card, 14,12,6 high
+A Wins
+
+Same type of hand.
+Player A holds: TD 8C 4H 7C TC | 30 points, One Pair, 10,8,7 high
+Player B holds: KC 4C 3H 7S KS | 30 points, One Pair, 13,7,4 high
+B Wins
+
+Different type of hands.
+Player A holds: 7C 9C 6D KD 3H | 0 points, High Card, 13,9,7 high
+Player B holds: 4C QS QC AC KH | 30 points, One Pair, 12,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: JC 6S 5H 2H 2D | 30 points, One Pair, 2,11,6 high
+Player B holds: KD 9D 7C AS JS | 0 points, High Card, 14,13,11 high
+A Wins
+
+Different type of hands.
+Player A holds: AD QH TH 9D 8H | 0 points, High Card, 14,12,10 high
+Player B holds: TS 6D 3S AS AC | 30 points, One Pair, 14,10,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 2H 4S 5C 5S TC | 30 points, One Pair, 5,10,4 high
+Player B holds: KC JD 6C TS 3C | 0 points, High Card, 13,11,10 high
+A Wins
+
+Same type of hand.
+Player A holds: QD AS 6H JS 2C | 0 points, High Card, 14,12,11 high
+Player B holds: 3D 9H KC 4H 8S | 0 points, High Card, 13,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: KD 8S 9S 7C 2S | 0 points, High Card, 13,9,8 high
+Player B holds: 3S 6D 6S 4H KC | 30 points, One Pair, 6,13,4 high
+B Wins
+
+Different type of hands.
+Player A holds: 3C 8C 2D 7D 4D | 0 points, High Card, 8,7,4 high
+Player B holds: 9S 4S QH 4H JD | 30 points, One Pair, 4,12,11 high
+B Wins
+
+Same type of hand.
+Player A holds: 8C KC 7S TC 2D | 0 points, High Card, 13,10,8 high
+Player B holds: TS 8H QD AC 5C | 0 points, High Card, 14,12,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 3D KH QD 6C 6S | 30 points, One Pair, 6,13,12 high
+Player B holds: AD AS 8H 2H QS | 30 points, One Pair, 14,12,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 6S 8D 4C 8S 6C | 40 points, Two Pair, 8,6,4 high
+Player B holds: QH TC 6D 7D 9D | 0 points, High Card, 12,10,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 2S 8D 8C 4C TS | 30 points, One Pair, 8,10,4 high
+Player B holds: 9S 9D 9C AC 3D | 30 points, One Pair, 9,14,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 3C QS 2S 4H JH | 0 points, High Card, 12,11,4 high
+Player B holds: 3D 2D TD 8S 9H | 0 points, High Card, 10,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 5H QS 8S 6D 3C | 0 points, High Card, 12,8,6 high
+Player B holds: 8C JD AS 7H 7D | 30 points, One Pair, 7,14,11 high
+B Wins
+
+Same type of hand.
+Player A holds: 6H TD 9D AS JH | 0 points, High Card, 14,11,10 high
+Player B holds: 6C QC 9S KD JC | 0 points, High Card, 13,12,11 high
+A Wins
+
+Different type of hands.
+Player A holds: AH 8S QS 4D TH | 0 points, High Card, 14,12,10 high
+Player B holds: AC TS 3C 3D 5C | 30 points, One Pair, 3,14,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 5S 4D JS 3D 8H | 0 points, High Card, 11,8,5 high
+Player B holds: 6C TS 3S AD 8C | 0 points, High Card, 14,10,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 6D 7C 5D 5H 3S | 30 points, One Pair, 5,7,6 high
+Player B holds: 5C JC 2H 5S 3D | 30 points, One Pair, 5,11,3 high
+B Wins
+
+Different type of hands.
+Player A holds: 5H 6H 2S KS 3D | 0 points, High Card, 13,6,5 high
+Player B holds: 5D JD 7H JS 8H | 30 points, One Pair, 11,8,7 high
+B Wins
+
+Same type of hand.
+Player A holds: KH 4H AS JS QS | 0 points, High Card, 14,13,12 high
+Player B holds: QC TC 6D 7C KS | 0 points, High Card, 13,12,10 high
+A Wins
+
+Same type of hand.
+Player A holds: 3D QS TS 2H JS | 0 points, High Card, 12,11,10 high
+Player B holds: 4D AS 9S JC KD | 0 points, High Card, 14,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: QD 5H 4D 5D KH | 30 points, One Pair, 5,13,12 high
+Player B holds: 7H 3D JS KD 4H | 0 points, High Card, 13,11,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 2C 9H 6H 5C 9D | 30 points, One Pair, 9,6,5 high
+Player B holds: 6C JC 2D TH 9S | 0 points, High Card, 11,10,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 7D 6D AS QD JH | 0 points, High Card, 14,12,11 high
+Player B holds: 4D JS 7C QS 5C | 0 points, High Card, 12,11,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 3H KH QD AD 8C | 0 points, High Card, 14,13,12 high
+Player B holds: 8H 3S TH 9D 5S | 0 points, High Card, 10,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: AH 9S 4D 9D 8S | 30 points, One Pair, 9,14,8 high
+Player B holds: 4H JS 3C TC 8D | 0 points, High Card, 11,10,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 2C KS 5H QD 3S | 0 points, High Card, 13,12,5 high
+Player B holds: TS 9H AH AD 8S | 30 points, One Pair, 14,10,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 5C 7H 5D KD 9H | 30 points, One Pair, 5,13,9 high
+Player B holds: 4D 3D 2D KS AD | 0 points, High Card, 14,13,4 high
+A Wins
+
+Different type of hands.
+Player A holds: KS KC 9S 6D 2C | 30 points, One Pair, 13,9,6 high
+Player B holds: QH 9D 9H TS TC | 40 points, Two Pair, 10,9,12 high
+B Wins
+
+Same type of hand.
+Player A holds: 9C 6H 5D QH 4D | 0 points, High Card, 12,9,6 high
+Player B holds: AD 6D QC JS KH | 0 points, High Card, 14,13,12 high
+B Wins
+
+Different type of hands.
+Player A holds: 9S 3H 9D JD 5C | 30 points, One Pair, 9,11,5 high
+Player B holds: 4D 9H AS TC QH | 0 points, High Card, 14,12,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 2C 6D JC 9C 3C | 0 points, High Card, 11,9,6 high
+Player B holds: AD 9S KH 9D 7D | 30 points, One Pair, 9,14,13 high
+B Wins
+
+Same type of hand.
+Player A holds: KC 9C 7C JC JS | 30 points, One Pair, 11,13,9 high
+Player B holds: KD 3H AS 3C 7D | 30 points, One Pair, 3,14,13 high
+A Wins
+
+Different type of hands.
+Player A holds: QD KH QS 2C 3S | 30 points, One Pair, 12,13,3 high
+Player B holds: 8S 8H 9H 9C JC | 40 points, Two Pair, 9,8,11 high
+B Wins
+
+Different type of hands.
+Player A holds: QH 8D 3C KC 4C | 0 points, High Card, 13,12,8 high
+Player B holds: 4H 6D AD 9H 9D | 30 points, One Pair, 9,14,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 3S KS QS 7H KH | 30 points, One Pair, 13,12,7 high
+Player B holds: 7D 5H 5D JD AD | 30 points, One Pair, 5,14,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 2H 2C 6H TH TC | 40 points, Two Pair, 10,2,6 high
+Player B holds: 7D 8D 4H 8C AS | 30 points, One Pair, 8,14,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 4S 2H AC QC 3S | 0 points, High Card, 14,12,4 high
+Player B holds: 6D TH 4D 4C KH | 30 points, One Pair, 4,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 4D TC KS AS 7C | 0 points, High Card, 14,13,10 high
+Player B holds: 3C 6D 2D 9H 6C | 30 points, One Pair, 6,9,3 high
+B Wins
+
+Different type of hands.
+Player A holds: 8C TD 5D QS 2C | 0 points, High Card, 12,10,8 high
+Player B holds: 7H 4C 9C 3H 9H | 30 points, One Pair, 9,7,4 high
+B Wins
+
+Same type of hand.
+Player A holds: 5H JH TS 7S TD | 30 points, One Pair, 10,11,7 high
+Player B holds: 6H AD QD 8H 8S | 30 points, One Pair, 8,14,12 high
+A Wins
+
+Different type of hands.
+Player A holds: 5S AD 9C 8C 7C | 0 points, High Card, 14,9,8 high
+Player B holds: 8D 5H 9D 8S 2S | 30 points, One Pair, 8,9,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 4H KH KS 9S 2S | 30 points, One Pair, 13,9,4 high
+Player B holds: KC 5S AD 4S 7D | 0 points, High Card, 14,13,7 high
+A Wins
+
+Same type of hand.
+Player A holds: QS 9C QD 6H JS | 30 points, One Pair, 12,11,9 high
+Player B holds: 5D AC 8D 2S AS | 30 points, One Pair, 14,8,5 high
+B Wins
+
+Different type of hands.
+Player A holds: KH AC JC 3S 9D | 0 points, High Card, 14,13,11 high
+Player B holds: 9S 3C 9C 5S JS | 30 points, One Pair, 9,11,5 high
+B Wins
+
+Different type of hands.
+Player A holds: AD 3C 3D KS 3S | 50 points, Three of a Kind, 3,14,13 high
+Player B holds: 5C 9C 8C TS 4S | 0 points, High Card, 10,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: JH 8D 5D 6H KD | 0 points, High Card, 13,11,8 high
+Player B holds: QS QD 3D 6C KC | 30 points, One Pair, 12,13,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 8S JD 6C 3S 8C | 30 points, One Pair, 8,11,6 high
+Player B holds: TC QC 3C QH JS | 30 points, One Pair, 12,11,10 high
+B Wins
+
+Different type of hands.
+Player A holds: KC JC 8H 2S 9H | 0 points, High Card, 13,11,9 high
+Player B holds: 9C JH 8S 8C 9S | 40 points, Two Pair, 9,8,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 8S 2H QH 4D QC | 30 points, One Pair, 12,8,4 high
+Player B holds: 9D KC AS TH 3C | 0 points, High Card, 14,13,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 8S 6H TH 7C 2H | 0 points, High Card, 10,8,7 high
+Player B holds: 6S 3C 3H AS 7S | 30 points, One Pair, 3,14,7 high
+B Wins
+
+Same type of hand.
+Player A holds: QH 5S JS 4H 5H | 30 points, One Pair, 5,12,11 high
+Player B holds: TS 8H AH AC JC | 30 points, One Pair, 14,11,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 9D 8H 2S 4S TC | 0 points, High Card, 10,9,8 high
+Player B holds: JC 3C 7H 3H 5C | 30 points, One Pair, 3,11,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 3D AD 3C 3S 4C | 50 points, Three of a Kind, 3,14,4 high
+Player B holds: QC AS 5D TH 8C | 0 points, High Card, 14,12,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 6S 9D 4C JS KH | 0 points, High Card, 13,11,9 high
+Player B holds: AH TS JD 8H AD | 30 points, One Pair, 14,11,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 4C 6S 9D 7S AC | 0 points, High Card, 14,9,7 high
+Player B holds: 4D 3D 3S TC JD | 30 points, One Pair, 3,11,10 high
+B Wins
+
+Different type of hands.
+Player A holds: AD 7H 6H 4H JH | 0 points, High Card, 14,11,7 high
+Player B holds: KC TD TS 7D 6S | 30 points, One Pair, 10,13,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 8H JH TC 3S 8D | 30 points, One Pair, 8,11,10 high
+Player B holds: 8C 9S 2C 5C 4D | 0 points, High Card, 9,8,5 high
+A Wins
+
+Same type of hand.
+Player A holds: 2C 9D KC QH TH | 0 points, High Card, 13,12,10 high
+Player B holds: QS JC 9C 4H TS | 0 points, High Card, 12,11,10 high
+A Wins
+
+Same type of hand.
+Player A holds: QS 3C QD 8H KH | 30 points, One Pair, 12,13,8 high
+Player B holds: 4H 8D TD 8S AC | 30 points, One Pair, 8,14,10 high
+A Wins
+
+Same type of hand.
+Player A holds: 7C 3C TH 5S 8H | 0 points, High Card, 10,8,7 high
+Player B holds: 8C 9C JD TC KD | 0 points, High Card, 13,11,10 high
+B Wins
+
+Different type of hands.
+Player A holds: QC TC JD TS 8C | 30 points, One Pair, 10,12,11 high
+Player B holds: 3H 6H KD 7C TD | 0 points, High Card, 13,10,7 high
+A Wins
+
+Different type of hands.
+Player A holds: JH QS KS 9C 6D | 0 points, High Card, 13,12,11 high
+Player B holds: 6S AS 9H KH 6H | 30 points, One Pair, 6,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: 2H 4D AH 2D JH | 30 points, One Pair, 2,14,11 high
+Player B holds: 6H TD 5D 4H JD | 0 points, High Card, 11,10,6 high
+A Wins
+
+Same type of hand.
+Player A holds: KD 8C 9S JH QD | 0 points, High Card, 13,12,11 high
+Player B holds: JS 2C QS 5C 7C | 0 points, High Card, 12,11,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 4S TC 7H 8D 2S | 0 points, High Card, 10,8,7 high
+Player B holds: 6H 7S 9C 7C KC | 30 points, One Pair, 7,13,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 8C 5D 7H 4S TD | 0 points, High Card, 10,8,7 high
+Player B holds: QC 8S JS 4H KS | 0 points, High Card, 13,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: AD 8S JH 6D TD | 0 points, High Card, 14,11,10 high
+Player B holds: KD 7C 6C 2D 7D | 30 points, One Pair, 7,13,6 high
+B Wins
+
+Different type of hands.
+Player A holds: JC 6H 6S JS 4H | 40 points, Two Pair, 11,6,4 high
+Player B holds: QH 9H AH 4C 3C | 0 points, High Card, 14,12,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 6H 5H AS 7C 7S | 30 points, One Pair, 7,14,6 high
+Player B holds: 3D KH KC 5D 5C | 40 points, Two Pair, 13,5,3 high
+B Wins
+
+Different type of hands.
+Player A holds: JC 3D TD AS 4D | 0 points, High Card, 14,11,10 high
+Player B holds: 6D 6S QH JD KS | 30 points, One Pair, 6,13,12 high
+B Wins
+
+Different type of hands.
+Player A holds: 8C 7S 8S QH 2S | 30 points, One Pair, 8,12,7 high
+Player B holds: JD 5C 7H AH QD | 0 points, High Card, 14,12,11 high
+A Wins
+
+Same type of hand.
+Player A holds: 8S 3C 6H 6C 2C | 30 points, One Pair, 6,8,3 high
+Player B holds: 8D TD 7D 4C 4D | 30 points, One Pair, 4,10,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 5D QH KH 7C 2S | 0 points, High Card, 13,12,7 high
+Player B holds: 7H JS 6D QC QD | 30 points, One Pair, 12,11,7 high
+B Wins
+
+Different type of hands.
+Player A holds: AD 6C 6S 7D TH | 30 points, One Pair, 6,14,10 high
+Player B holds: 6H 2H 8H KH 4H | 70 points, Flush, 13,8,6 high
+B Wins
+
+Different type of hands.
+Player A holds: KS JS KD 5D 2D | 30 points, One Pair, 13,11,5 high
+Player B holds: KH 7D 9C 8C 3D | 0 points, High Card, 13,9,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 9C 6D QD 3C KS | 0 points, High Card, 13,12,9 high
+Player B holds: 3S 7S AH JD 2D | 0 points, High Card, 14,11,7 high
+B Wins
+
+Different type of hands.
+Player A holds: AH QH AS JC 8S | 30 points, One Pair, 14,12,11 high
+Player B holds: 8H 4C KC TH 7D | 0 points, High Card, 13,10,8 high
+A Wins
+
+Different type of hands.
+Player A holds: JC 5H TD 7C 5D | 30 points, One Pair, 5,11,10 high
+Player B holds: KD 4C AD 8H JS | 0 points, High Card, 14,13,11 high
+A Wins
+
+Different type of hands.
+Player A holds: KC 2H AC AH 7D | 30 points, One Pair, 14,13,7 high
+Player B holds: JH KH 5D 7S 6D | 0 points, High Card, 13,11,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 9S 5S 9C 6H 8S | 30 points, One Pair, 9,8,6 high
+Player B holds: TD JD 9H 6C AC | 0 points, High Card, 14,11,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 7D 8S 6D TS KD | 0 points, High Card, 13,10,8 high
+Player B holds: 7H AC 5S 7C 5D | 40 points, Two Pair, 7,5,14 high
+B Wins
+
+Different type of hands.
+Player A holds: AH QC JC 4C TC | 0 points, High Card, 14,12,11 high
+Player B holds: 8C 2H TS 2C 7D | 30 points, One Pair, 2,10,8 high
+B Wins
+
+Same type of hand.
+Player A holds: KD KC 6S 3D 7D | 30 points, One Pair, 13,7,6 high
+Player B holds: 2S 8S 3H 5S 5C | 30 points, One Pair, 5,8,3 high
+A Wins
+
+Same type of hand.
+Player A holds: 8S 5D 8H 4C 6H | 30 points, One Pair, 8,6,5 high
+Player B holds: KC 3H 7C 5S KD | 30 points, One Pair, 13,7,5 high
+B Wins
+
+Same type of hand.
+Player A holds: JH 8C 3D 3C 6C | 30 points, One Pair, 3,11,8 high
+Player B holds: KC TD 7H 7C 4C | 30 points, One Pair, 7,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: JC KC 6H TS QS | 0 points, High Card, 13,12,11 high
+Player B holds: TD KS 8H 8C 9S | 30 points, One Pair, 8,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 6C 5S 9C QH 7D | 0 points, High Card, 12,9,7 high
+Player B holds: AH KS KC 9S 2C | 30 points, One Pair, 13,14,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 4D 4S 8H TD 9C | 30 points, One Pair, 4,10,9 high
+Player B holds: 3S 7D 9D AS TH | 0 points, High Card, 14,10,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 6S 7D 3C 6H 5D | 30 points, One Pair, 6,7,5 high
+Player B holds: KD 2C 5C 9D 9C | 30 points, One Pair, 9,13,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 2H KC 3D AD 3H | 30 points, One Pair, 3,14,13 high
+Player B holds: QD QS 8D JC 4S | 30 points, One Pair, 12,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 8C 3H 9C 7C AD | 0 points, High Card, 14,9,8 high
+Player B holds: 5D JC 9D JS AS | 30 points, One Pair, 11,14,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 5D 9H 5C 7H 6S | 30 points, One Pair, 5,9,7 high
+Player B holds: 6C QC JC QD 9S | 30 points, One Pair, 12,11,9 high
+B Wins
+
+Different type of hands.
+Player A holds: JC QS JH 2C 6S | 30 points, One Pair, 11,12,6 high
+Player B holds: 9C QC 3D 4S TC | 0 points, High Card, 12,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 4H 5S 8D 3D 4D | 30 points, One Pair, 4,8,5 high
+Player B holds: 2S KC 2H JS 2C | 50 points, Three of a Kind, 2,13,11 high
+B Wins
+
+Same type of hand.
+Player A holds: TD 3S TH KD 4D | 30 points, One Pair, 10,13,4 high
+Player B holds: 7H JH JS KS AC | 30 points, One Pair, 11,14,13 high
+B Wins
+
+Same type of hand.
+Player A holds: 7S 8C 9S 2D 8S | 30 points, One Pair, 8,9,7 high
+Player B holds: 7D 5C AD 9D AS | 30 points, One Pair, 14,9,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 8C 7H 2S 6C TH | 0 points, High Card, 10,8,7 high
+Player B holds: 3H 4C 3S 8H AC | 30 points, One Pair, 3,14,8 high
+B Wins
+
+Different type of hands.
+Player A holds: KD 5H JC 8H JD | 30 points, One Pair, 11,13,8 high
+Player B holds: 2D 4H TD JH 5C | 0 points, High Card, 11,10,5 high
+A Wins
+
+Different type of hands.
+Player A holds: 3D AS QH KS 7H | 0 points, High Card, 14,13,12 high
+Player B holds: JD 8S 5S 6D 5H | 30 points, One Pair, 5,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 9S 6S TC QS JC | 0 points, High Card, 12,11,10 high
+Player B holds: 5C 5D 9C TH 8C | 30 points, One Pair, 5,10,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 5H 3S JH 9H 2S | 0 points, High Card, 11,9,5 high
+Player B holds: 2C 6S 7S AS KS | 0 points, High Card, 14,13,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 8C QD JC QS TC | 30 points, One Pair, 12,11,10 high
+Player B holds: QC 4H AC KH 6C | 0 points, High Card, 14,13,12 high
+A Wins
+
+Same type of hand.
+Player A holds: TC 5H 7D JH 4H | 0 points, High Card, 11,10,7 high
+Player B holds: 2H 8D JC KS 4D | 0 points, High Card, 13,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 5S 9C KH KD 9H | 40 points, Two Pair, 13,9,5 high
+Player B holds: 5C TS 3D 7D 2D | 0 points, High Card, 10,7,5 high
+A Wins
+
+Same type of hand.
+Player A holds: 5H AS TC 4D 8C | 0 points, High Card, 14,10,8 high
+Player B holds: 2C TS 9D 3H 8D | 0 points, High Card, 10,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 6H 8D 2D 9H JD | 0 points, High Card, 11,9,8 high
+Player B holds: 6C 4S 5H 5S 6D | 40 points, Two Pair, 6,5,4 high
+B Wins
+
+Different type of hands.
+Player A holds: AD 9C JC 7D 6H | 0 points, High Card, 14,11,9 high
+Player B holds: 9S 6D JS 9H 3C | 30 points, One Pair, 9,11,6 high
+B Wins
+
+Different type of hands.
+Player A holds: AD JH TC QS 4C | 0 points, High Card, 14,12,11 high
+Player B holds: 5D 9S 7C 9C AH | 30 points, One Pair, 9,14,7 high
+B Wins
+
+Different type of hands.
+Player A holds: KD 6H 2H TH 8S | 0 points, High Card, 13,10,8 high
+Player B holds: QD KS 9D 9H AS | 30 points, One Pair, 9,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: 4H 8H 8D 5H 6C | 30 points, One Pair, 8,6,5 high
+Player B holds: AH 5S AS AD 8S | 50 points, Three of a Kind, 14,8,5 high
+B Wins
+
+Same type of hand.
+Player A holds: QS 5D 4S 2H TD | 0 points, High Card, 12,10,5 high
+Player B holds: KS 5H AC 3H JC | 0 points, High Card, 14,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 9C 7D QD KD AC | 0 points, High Card, 14,13,12 high
+Player B holds: 6D 5H QH 6H 5S | 40 points, Two Pair, 6,5,12 high
+B Wins
+
+Same type of hand.
+Player A holds: KC AH QH 2H 7D | 0 points, High Card, 14,13,12 high
+Player B holds: QS 3H KS 7S JD | 0 points, High Card, 13,12,11 high
+A Wins
+
+Same type of hand.
+Player A holds: 6C 8S 3H 6D KS | 30 points, One Pair, 6,13,8 high
+Player B holds: QD 5D 5C 8H TC | 30 points, One Pair, 5,12,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 9H 4D 4S 6S 9D | 40 points, Two Pair, 9,4,6 high
+Player B holds: KH QC 4H 6C JD | 0 points, High Card, 13,12,11 high
+A Wins
+
+Same type of hand.
+Player A holds: TD 2D QH 4S 6H | 0 points, High Card, 12,10,6 high
+Player B holds: JH KD 3C QD 8C | 0 points, High Card, 13,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 4S 6H 7C QD 9D | 0 points, High Card, 12,9,7 high
+Player B holds: AS AH 6S AD 3C | 50 points, Three of a Kind, 14,6,3 high
+B Wins
+
+Different type of hands.
+Player A holds: 2C KC TH 6H 8D | 0 points, High Card, 13,10,8 high
+Player B holds: AH 5C 6D 8S 5D | 30 points, One Pair, 5,14,8 high
+B Wins
+
+Different type of hands.
+Player A holds: TD TS 7C AD JC | 30 points, One Pair, 10,14,11 high
+Player B holds: QD 9H 3C KC 7H | 0 points, High Card, 13,12,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 5D 4D 5S 8H 4H | 40 points, Two Pair, 5,4,8 high
+Player B holds: 7D 3H JD KD 2D | 0 points, High Card, 13,11,7 high
+A Wins
+
+Different type of hands.
+Player A holds: JH TD 6H QS 4S | 0 points, High Card, 12,11,10 high
+Player B holds: KD 5C 8S 7D 8H | 30 points, One Pair, 8,13,7 high
+B Wins
+
+Different type of hands.
+Player A holds: AC 3D AS 8C TD | 30 points, One Pair, 14,10,8 high
+Player B holds: 7H KH 5D 6C JD | 0 points, High Card, 13,11,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 9D KS 7C 6D QH | 0 points, High Card, 13,12,9 high
+Player B holds: TC JD KD AS KC | 30 points, One Pair, 13,14,11 high
+B Wins
+
+Different type of hands.
+Player A holds: JH 8S 5S 7S 7D | 30 points, One Pair, 7,11,8 high
+Player B holds: AS 2D 3D AD 2H | 40 points, Two Pair, 14,2,3 high
+B Wins
+
+Different type of hands.
+Player A holds: 2H 5D AS 3C QD | 0 points, High Card, 14,12,5 high
+Player B holds: KC 6H 9H 9S 2C | 30 points, One Pair, 9,13,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 9D 5D TH 4C JH | 0 points, High Card, 11,10,9 high
+Player B holds: 3H 8D TC 8H 9H | 30 points, One Pair, 8,10,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 6H KD 2C TD 2H | 30 points, One Pair, 2,13,10 high
+Player B holds: 6C 9D 2D JS 8C | 0 points, High Card, 11,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: KD 7S 3C 7C AS | 30 points, One Pair, 7,14,13 high
+Player B holds: QH TS AD 8C 2S | 0 points, High Card, 14,12,10 high
+A Wins
+
+Different type of hands.
+Player A holds: QS 8H 6C JS 4C | 0 points, High Card, 12,11,8 high
+Player B holds: 9S QC AD TD TS | 30 points, One Pair, 10,14,12 high
+B Wins
+
+Different type of hands.
+Player A holds: 2H 7C TS TC 8C | 30 points, One Pair, 10,8,7 high
+Player B holds: 3C 9H 2D 6D JC | 0 points, High Card, 11,9,6 high
+A Wins
+
+Different type of hands.
+Player A holds: TC 2H 8D JH KS | 0 points, High Card, 13,11,10 high
+Player B holds: 6D 3H TD TH 8H | 30 points, One Pair, 10,8,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 9D TD 9H QC 5D | 30 points, One Pair, 9,12,10 high
+Player B holds: 6C 8H 8C KC TS | 30 points, One Pair, 8,13,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 2H 8C 3D AH 4D | 0 points, High Card, 14,8,4 high
+Player B holds: TH TC 7D 8H KC | 30 points, One Pair, 10,13,8 high
+B Wins
+
+Different type of hands.
+Player A holds: TS 5C 2D 8C 6S | 0 points, High Card, 10,8,6 high
+Player B holds: KH AH 5H 6H KC | 30 points, One Pair, 13,14,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 5S 5D AH TC 4C | 30 points, One Pair, 5,14,10 high
+Player B holds: JD 8D 6H 8C 6C | 40 points, Two Pair, 8,6,11 high
+B Wins
+
+Same type of hand.
+Player A holds: KC QD 3D 8H 2D | 0 points, High Card, 13,12,8 high
+Player B holds: JC 9H 4H AD 2S | 0 points, High Card, 14,11,9 high
+B Wins
+
+Same type of hand.
+Player A holds: TD 6S 7D JS KD | 0 points, High Card, 13,11,10 high
+Player B holds: 4H QS 2S 3S 8C | 0 points, High Card, 12,8,4 high
+A Wins
+
+Different type of hands.
+Player A holds: 4C 9H JH TS 3S | 0 points, High Card, 11,10,9 high
+Player B holds: 4H QC 5S 9S 9C | 30 points, One Pair, 9,12,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 2C KD 9H JS 9S | 30 points, One Pair, 9,13,11 high
+Player B holds: 3H JC TS 5D AC | 0 points, High Card, 14,11,10 high
+A Wins
+
+Different type of hands.
+Player A holds: AS 2H 5D AD 5H | 40 points, Two Pair, 14,5,2 high
+Player B holds: JC 7S TD JS 4C | 30 points, One Pair, 11,10,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 2D 4S 8H 3D 7D | 0 points, High Card, 8,7,4 high
+Player B holds: 2C AD KD 9C TS | 0 points, High Card, 14,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 7H QD JH 5H JS | 30 points, One Pair, 11,12,7 high
+Player B holds: AC 3D TH 4C 8H | 0 points, High Card, 14,10,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 6D KH KC QD 5C | 30 points, One Pair, 13,12,6 high
+Player B holds: AD 7C 2D 4H AC | 30 points, One Pair, 14,7,4 high
+B Wins
+
+Different type of hands.
+Player A holds: 3D 9D TC 8S QD | 0 points, High Card, 12,10,9 high
+Player B holds: 2C JC 4H JD AH | 30 points, One Pair, 11,14,4 high
+B Wins
+
+Different type of hands.
+Player A holds: 6C TD 5S TC 8S | 30 points, One Pair, 10,8,6 high
+Player B holds: AH 2C 5D AS AC | 50 points, Three of a Kind, 14,5,2 high
+B Wins
+
+Different type of hands.
+Player A holds: TH 7S 3D AS 6C | 0 points, High Card, 14,10,7 high
+Player B holds: 4C 7H 7D 4H AH | 40 points, Two Pair, 7,4,14 high
+B Wins
+
+Different type of hands.
+Player A holds: 5C 2H KS 6H 7S | 0 points, High Card, 13,7,6 high
+Player B holds: 4H 5H 3D 3C 7H | 30 points, One Pair, 3,7,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 3C 9S AC 7S QH | 0 points, High Card, 14,12,9 high
+Player B holds: 2H 3D 6S 3S 3H | 30 points, One Pair, 3,6,3 high
+B Wins
+
+Same type of hand.
+Player A holds: 2D 3H AS 2C 6H | 30 points, One Pair, 2,14,6 high
+Player B holds: TC JS 6S 9C 6C | 30 points, One Pair, 6,11,10 high
+B Wins
+
+Different type of hands.
+Player A holds: QH KD QD 6D AC | 30 points, One Pair, 12,14,13 high
+Player B holds: 6H KH 2C TS 8C | 0 points, High Card, 13,10,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 8H 7D 3S 9H 5D | 0 points, High Card, 9,8,7 high
+Player B holds: 3H 4S QC 9S 5H | 0 points, High Card, 12,9,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 2D 9D 7H 6H 3C | 0 points, High Card, 9,7,6 high
+Player B holds: 8S 5H 4D 3S 4S | 30 points, One Pair, 4,8,5 high
+B Wins
+
+Same type of hand.
+Player A holds: KD 9S 4S TC 7S | 0 points, High Card, 13,10,9 high
+Player B holds: QC 3S 8S 2H 7H | 0 points, High Card, 12,8,7 high
+A Wins
+
+Same type of hand.
+Player A holds: TC 3D 8C 3H 6C | 30 points, One Pair, 3,10,8 high
+Player B holds: 2H 6H KS KD 4D | 30 points, One Pair, 13,6,4 high
+B Wins
+
+Same type of hand.
+Player A holds: KC 3D 9S 3H JS | 30 points, One Pair, 3,13,11 high
+Player B holds: 4S 8H 2D 6C 8S | 30 points, One Pair, 8,6,4 high
+B Wins
+
+Different type of hands.
+Player A holds: 6H QS 6C TC QD | 40 points, Two Pair, 12,6,10 high
+Player B holds: 9H 7D 7C 5H 4D | 30 points, One Pair, 7,9,5 high
+A Wins
+
+Same type of hand.
+Player A holds: TD 9D 8D 6S 6C | 30 points, One Pair, 6,10,9 high
+Player B holds: TC 5D TS JS 8H | 30 points, One Pair, 10,11,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 4H KC JD 9H TC | 0 points, High Card, 13,11,10 high
+Player B holds: 2C 6S 5H 8H AS | 0 points, High Card, 14,8,6 high
+B Wins
+
+Different type of hands.
+Player A holds: JS 9C 5C 6S 9D | 30 points, One Pair, 9,11,6 high
+Player B holds: JD 8H KC 4C 6D | 0 points, High Card, 13,11,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 4D 8D 8S 6C 7C | 30 points, One Pair, 8,7,6 high
+Player B holds: 6H 7H 8H 5C KC | 0 points, High Card, 13,8,7 high
+A Wins
+
+Different type of hands.
+Player A holds: TC 3D JC 6D KS | 0 points, High Card, 13,11,10 high
+Player B holds: 9S 6H 7S 9C 2C | 30 points, One Pair, 9,7,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 6C 3S KD 5H TS | 0 points, High Card, 13,10,6 high
+Player B holds: 7D 9H 9S 6H KH | 30 points, One Pair, 9,13,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 3D QD 4C 6H TS | 0 points, High Card, 12,10,6 high
+Player B holds: AC 3S 5C 2H KD | 0 points, High Card, 14,13,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 4C AS JS 9S 7C | 0 points, High Card, 14,11,9 high
+Player B holds: TS 7H 9H JC KS | 0 points, High Card, 13,11,10 high
+A Wins
+
+Same type of hand.
+Player A holds: 4H 8C JD 3H 6H | 0 points, High Card, 11,8,6 high
+Player B holds: AD 9S 4S 5S KS | 0 points, High Card, 14,13,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 4C 2C 7D 3D AS | 0 points, High Card, 14,7,4 high
+Player B holds: 9C 2S QS KC 6C | 0 points, High Card, 13,12,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 8S 5H 3D 2S AC | 0 points, High Card, 14,8,5 high
+Player B holds: 9D 6S 3S 4D TD | 0 points, High Card, 10,9,6 high
+A Wins
+
+Different type of hands.
+Player A holds: QD TH 7S TS 3D | 30 points, One Pair, 10,12,7 high
+Player B holds: AC 7H 6C 5D QC | 0 points, High Card, 14,12,7 high
+A Wins
+
+Same type of hand.
+Player A holds: TC QD AD 9C QS | 30 points, One Pair, 12,14,10 high
+Player B holds: 5C 8D KD 3D 3C | 30 points, One Pair, 3,13,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 9D 8H AS 3S 7C | 0 points, High Card, 14,9,8 high
+Player B holds: 8S JD 2D 8D KC | 30 points, One Pair, 8,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 4C TH AC QH JS | 0 points, High Card, 14,12,11 high
+Player B holds: 8D 7D 7S 9C KH | 30 points, One Pair, 7,13,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 9D 8D 4C JH 2C | 0 points, High Card, 11,9,8 high
+Player B holds: 2S QD KD TS 4H | 0 points, High Card, 13,12,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 4D 6D 5D 2D JH | 0 points, High Card, 11,6,5 high
+Player B holds: 3S 8S 3H TC KH | 30 points, One Pair, 3,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: AD 4D 2C QS 8C | 0 points, High Card, 14,12,8 high
+Player B holds: KD JH JD AH 5C | 30 points, One Pair, 11,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: 5C 6C 5H 2H JH | 30 points, One Pair, 5,11,6 high
+Player B holds: 4H KS 7C TC 3H | 0 points, High Card, 13,10,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 3C 4C QC 5D JH | 0 points, High Card, 12,11,5 high
+Player B holds: 9C QD KH 8D TC | 0 points, High Card, 13,12,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 3H 9C JS 7H QH | 0 points, High Card, 12,11,9 high
+Player B holds: AS 7C 9H 5H JC | 0 points, High Card, 14,11,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 2D 5S QD 4S 3C | 0 points, High Card, 12,5,4 high
+Player B holds: KC 6S 6C 5C 4C | 30 points, One Pair, 6,13,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 5D KH 2D TS 8S | 0 points, High Card, 13,10,8 high
+Player B holds: 9C AS 9S 7C 4C | 30 points, One Pair, 9,14,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 7C AH 8C 8D 5S | 30 points, One Pair, 8,14,7 high
+Player B holds: KD QH QS JH 2C | 30 points, One Pair, 12,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 8C 9D AH 2H AC | 30 points, One Pair, 14,9,8 high
+Player B holds: QC 5S 8H 7H 2C | 0 points, High Card, 12,8,7 high
+A Wins
+
+Different type of hands.
+Player A holds: QD 9H 5S QS QC | 50 points, Three of a Kind, 12,9,5 high
+Player B holds: 9C 5H JC TH 4H | 0 points, High Card, 11,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 6C 6S 3H 5H 3S | 40 points, Two Pair, 6,3,5 high
+Player B holds: 6H KS 8D AC 7S | 0 points, High Card, 14,13,8 high
+A Wins
+
+Different type of hands.
+Player A holds: AC QH 7H 8C 4S | 0 points, High Card, 14,12,8 high
+Player B holds: KC 6C 3D 3S TC | 30 points, One Pair, 3,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 9D 3D JS TH AC | 0 points, High Card, 14,11,10 high
+Player B holds: 5H 3H 8S 3S TC | 30 points, One Pair, 3,10,8 high
+B Wins
+
+Same type of hand.
+Player A holds: QD KH JS KS 9S | 30 points, One Pair, 13,12,11 high
+Player B holds: QC 8D AH 3C AC | 30 points, One Pair, 14,12,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 5H 6C KH 3S 9S | 0 points, High Card, 13,9,6 high
+Player B holds: JH 2D QD AS 8C | 0 points, High Card, 14,12,11 high
+B Wins
+
+Same type of hand.
+Player A holds: 6C 4D 7S 7H 5S | 30 points, One Pair, 7,6,5 high
+Player B holds: JC 6S 9H 4H JH | 30 points, One Pair, 11,9,6 high
+B Wins
+
+Different type of hands.
+Player A holds: AH 5S 6H 9S AD | 30 points, One Pair, 14,9,6 high
+Player B holds: 3S TH 2H 9D 8C | 0 points, High Card, 10,9,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 4C 8D 9H 7C QC | 0 points, High Card, 12,9,8 high
+Player B holds: AD 4S 9C KC 5S | 0 points, High Card, 14,13,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 9D 6H 4D TC 4C | 30 points, One Pair, 4,10,9 high
+Player B holds: JH 2S 5D 3S AS | 0 points, High Card, 14,11,5 high
+A Wins
+
+Same type of hand.
+Player A holds: 2H 6C 7C KH 5C | 0 points, High Card, 13,7,6 high
+Player B holds: AD QS TH JD 8S | 0 points, High Card, 14,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 3S 4S 7S AH AS | 30 points, One Pair, 14,7,4 high
+Player B holds: KC JS 2S AD TH | 0 points, High Card, 14,13,11 high
+A Wins
+
+Different type of hands.
+Player A holds: JS KC 2S 7D 8C | 0 points, High Card, 13,11,8 high
+Player B holds: 5C 9C TS 5H 9D | 40 points, Two Pair, 9,5,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 7S 9S 4D TD JH | 0 points, High Card, 11,10,9 high
+Player B holds: JS KH 6H 5D 2C | 0 points, High Card, 13,11,6 high
+B Wins
+
+Different type of hands.
+Player A holds: JD JS JC TH 2D | 50 points, Three of a Kind, 11,10,2 high
+Player B holds: 3D QD 8C AC 5H | 0 points, High Card, 14,12,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 7S KH 5S 9D 5D | 30 points, One Pair, 5,13,9 high
+Player B holds: TD 4S 6H 3C 2D | 0 points, High Card, 10,6,4 high
+A Wins
+
+Different type of hands.
+Player A holds: 4S 5D AC 8D 4D | 30 points, One Pair, 4,14,8 high
+Player B holds: 7C AD AS AH 9C | 50 points, Three of a Kind, 14,9,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 6S TH TS KS 2C | 30 points, One Pair, 10,13,6 high
+Player B holds: QC AH AS 3C 4S | 30 points, One Pair, 14,12,4 high
+B Wins
+
+Different type of hands.
+Player A holds: 2H 8C 3S JC 5C | 0 points, High Card, 11,8,5 high
+Player B holds: 7C 3H 3C KH JH | 30 points, One Pair, 3,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 7S 3H JC 5S 6H | 0 points, High Card, 11,7,6 high
+Player B holds: 4C 2S 4D KC 7H | 30 points, One Pair, 4,13,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 4D 7C 4H 9S 8S | 30 points, One Pair, 4,9,8 high
+Player B holds: 6S AD TC 6C JC | 30 points, One Pair, 6,14,11 high
+B Wins
+
+Different type of hands.
+Player A holds: KH QS 3S TC 4C | 0 points, High Card, 13,12,10 high
+Player B holds: 8H 8S AC 3C TS | 30 points, One Pair, 8,14,10 high
+B Wins
+
+Different type of hands.
+Player A holds: QD QS TH 3C TS | 40 points, Two Pair, 12,10,3 high
+Player B holds: 7H 7D AH TD JC | 30 points, One Pair, 7,14,11 high
+A Wins
+
+Different type of hands.
+Player A holds: TD JD QC 4D 9S | 0 points, High Card, 12,11,10 high
+Player B holds: 7S TS AD 7D AC | 40 points, Two Pair, 14,7,10 high
+B Wins
+
+Different type of hands.
+Player A holds: AH 7H 4S 6D 7C | 30 points, One Pair, 7,14,6 high
+Player B holds: 2H 9D KS JC TD | 0 points, High Card, 13,11,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 7C AH JD 4H 6D | 0 points, High Card, 14,11,7 high
+Player B holds: QS TS 2H 2C 5C | 30 points, One Pair, 2,12,10 high
+B Wins
+
+Different type of hands.
+Player A holds: TC KC 8C 9S 4C | 0 points, High Card, 13,10,9 high
+Player B holds: JS 3C JC 6S AH | 30 points, One Pair, 11,14,6 high
+B Wins
+
+Different type of hands.
+Player A holds: AS 7D QC 3D 5S | 0 points, High Card, 14,12,7 high
+Player B holds: JC JD 9D TD KH | 30 points, One Pair, 11,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: TH 3C 2S 6H AH | 0 points, High Card, 14,10,6 high
+Player B holds: AC 5H 5C 7S 8H | 30 points, One Pair, 5,14,8 high
+B Wins
+
+Different type of hands.
+Player A holds: QC 2D AC QD 2S | 40 points, Two Pair, 12,2,14 high
+Player B holds: 3S JD QS 6S 8H | 0 points, High Card, 12,11,8 high
+A Wins
+
+Different type of hands.
+Player A holds: KC 4H 3C 9D JS | 0 points, High Card, 13,11,9 high
+Player B holds: 6H 3S 8S AS 8C | 30 points, One Pair, 8,14,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 7H KC 7D JD 2H | 30 points, One Pair, 7,13,11 high
+Player B holds: JC QH 5S 3H QS | 30 points, One Pair, 12,11,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 9H TD 3S 8H 7S | 0 points, High Card, 10,9,8 high
+Player B holds: AC 5C 6C AH 7C | 30 points, One Pair, 14,7,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 8D 9H AH JD TD | 0 points, High Card, 14,11,10 high
+Player B holds: QS 7D 3S 9C 8S | 0 points, High Card, 12,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: AH QH 3C JD KC | 0 points, High Card, 14,13,12 high
+Player B holds: 4S 5S 5D TD KS | 30 points, One Pair, 5,13,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 9H 7H 6S JH TH | 0 points, High Card, 11,10,9 high
+Player B holds: 4C 7C AD 5C 2D | 0 points, High Card, 14,7,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 7C KD 5S TC 9D | 0 points, High Card, 13,10,9 high
+Player B holds: 6S 6C 5D 2S TH | 30 points, One Pair, 6,10,5 high
+B Wins
+
+Same type of hand.
+Player A holds: KC 9H 8D 5H 7H | 0 points, High Card, 13,9,8 high
+Player B holds: 4H QC 3D 7C AS | 0 points, High Card, 14,12,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 6S 8S QC TD 4S | 0 points, High Card, 12,10,8 high
+Player B holds: 5C TH QS QD 2S | 30 points, One Pair, 12,10,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 8S 5H TH QC 9H | 0 points, High Card, 12,10,9 high
+Player B holds: 6S KC 7D 7C 5C | 30 points, One Pair, 7,13,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 7H KD AH 4D KH | 30 points, One Pair, 13,14,7 high
+Player B holds: 5C 4S 2D KC QH | 0 points, High Card, 13,12,5 high
+A Wins
+
+Different type of hands.
+Player A holds: 6S 2C TD JC AS | 0 points, High Card, 14,11,10 high
+Player B holds: 4D 6C 8C 4H 5S | 30 points, One Pair, 4,8,6 high
+B Wins
+
+Same type of hand.
+Player A holds: JC TC JD 5S 6S | 30 points, One Pair, 11,10,6 high
+Player B holds: 8D AS 9D AD 3S | 30 points, One Pair, 14,9,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 6D 6H 5D 5S TC | 40 points, Two Pair, 6,5,10 high
+Player B holds: 3D 7D QS 9D QD | 30 points, One Pair, 12,9,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 4S 6C 8S 3S 7S | 0 points, High Card, 8,7,6 high
+Player B holds: AD KS 2D 7D 7C | 30 points, One Pair, 7,14,13 high
+B Wins
+
+Same type of hand.
+Player A holds: KC QH JC AC QD | 30 points, One Pair, 12,14,13 high
+Player B holds: 5D 8D QS 7H 7D | 30 points, One Pair, 7,12,8 high
+A Wins
+
+Same type of hand.
+Player A holds: JS AH 8S 5H 3D | 0 points, High Card, 14,11,8 high
+Player B holds: TD 3H 4S 6C JH | 0 points, High Card, 11,10,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 4S QS 7D AS 9H | 0 points, High Card, 14,12,9 high
+Player B holds: JS KS 6D TC 5C | 0 points, High Card, 13,11,10 high
+A Wins
+
+Same type of hand.
+Player A holds: 2D 5C 6H TC 4D | 0 points, High Card, 10,6,5 high
+Player B holds: QH 3D 9H 8S 6C | 0 points, High Card, 12,9,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 6D 7H TC TH 5S | 30 points, One Pair, 10,7,6 high
+Player B holds: JD 5C 9C KS KD | 30 points, One Pair, 13,11,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 8D TD QH 6S 4S | 0 points, High Card, 12,10,8 high
+Player B holds: 6C 8S KC 5C TC | 0 points, High Card, 13,10,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 5S 3D KS AC 4S | 0 points, High Card, 14,13,5 high
+Player B holds: 7D QD 4C TH 2S | 0 points, High Card, 12,10,7 high
+A Wins
+
+Different type of hands.
+Player A holds: TS 8H 9S 6S 7S | 60 points, Straight, 10,9,8 high
+Player B holds: QH 3C AH 7H 8C | 0 points, High Card, 14,12,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 4C 8C TS JS QC | 0 points, High Card, 12,11,10 high
+Player B holds: 3D 7D 5D 7S JH | 30 points, One Pair, 7,11,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 8S 7S 9D QC AC | 0 points, High Card, 14,12,9 high
+Player B holds: 7C 6D 2H JH KC | 0 points, High Card, 13,11,7 high
+A Wins
+
+Same type of hand.
+Player A holds: JS KD 3C 6S 4S | 0 points, High Card, 13,11,6 high
+Player B holds: 7C AH QC KS 5H | 0 points, High Card, 14,13,12 high
+B Wins
+
+Same type of hand.
+Player A holds: KS 6S 4H JD QS | 0 points, High Card, 13,12,11 high
+Player B holds: TC 8H KC 6H AS | 0 points, High Card, 14,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: KH 7C TC 6S TD | 30 points, One Pair, 10,13,7 high
+Player B holds: JC 5C 7D AH 3S | 0 points, High Card, 14,11,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 3H 4C 4H TC TH | 40 points, Two Pair, 10,4,3 high
+Player B holds: 6S 7H 6D 9C QH | 30 points, One Pair, 6,12,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 7D 5H 4S 8C JS | 0 points, High Card, 11,8,7 high
+Player B holds: 4D 3D 8S QH KC | 0 points, High Card, 13,12,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 3H 6S AD 7H 3S | 30 points, One Pair, 3,14,7 high
+Player B holds: QC 8S 4S 7S JS | 0 points, High Card, 12,11,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 3S JD KH TH 6H | 0 points, High Card, 13,11,10 high
+Player B holds: QS 9C 6C 2D QD | 30 points, One Pair, 12,9,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 4S QH 4D 5H KC | 30 points, One Pair, 4,13,12 high
+Player B holds: 7D 6D 8D TH 5S | 0 points, High Card, 10,8,7 high
+A Wins
+
+Different type of hands.
+Player A holds: TD AD 6S 7H KD | 0 points, High Card, 14,13,10 high
+Player B holds: KH 9H 5S KC JC | 30 points, One Pair, 13,11,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 3H QC AS TS 4S | 0 points, High Card, 14,12,10 high
+Player B holds: QD KS 9C 7S KC | 30 points, One Pair, 13,12,9 high
+B Wins
+
+Different type of hands.
+Player A holds: TS 6S QC 6C TH | 40 points, Two Pair, 10,6,12 high
+Player B holds: TC 9D 5C 5D KD | 30 points, One Pair, 5,13,10 high
+A Wins
+
+Same type of hand.
+Player A holds: JS 3S 4H KD 4C | 30 points, One Pair, 4,13,11 high
+Player B holds: QD 6D 9S JC 9D | 30 points, One Pair, 9,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 8S JS 6D 4H JH | 30 points, One Pair, 11,8,6 high
+Player B holds: 6H 6S 6C KS KH | 50 points, Three of a Kind, 6,13,13 high
+B Wins
+
+Different type of hands.
+Player A holds: AC 7D 5D TC 9S | 0 points, High Card, 14,10,9 high
+Player B holds: KH 6S QD 6H AS | 30 points, One Pair, 6,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: AS 7H 6D QH 8D | 0 points, High Card, 14,12,8 high
+Player B holds: TH 2S KH 5C 5H | 30 points, One Pair, 5,13,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 4C 7C 3D QC TC | 0 points, High Card, 12,10,7 high
+Player B holds: 4S KH 8C 2D JS | 0 points, High Card, 13,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 6H 5D 7S 5H 9C | 30 points, One Pair, 5,9,7 high
+Player B holds: 9H JH 8S TH 7H | 60 points, Straight, 11,10,9 high
+B Wins
+
+Different type of hands.
+Player A holds: AS JS 2S QD KH | 0 points, High Card, 14,13,12 high
+Player B holds: 8H 4S AC 8D 8S | 30 points, One Pair, 8,14,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 3H 4C TD KD 8C | 0 points, High Card, 13,10,8 high
+Player B holds: JC 5C QS 2D JD | 30 points, One Pair, 11,12,5 high
+B Wins
+
+Same type of hand.
+Player A holds: TS 7D 5D 6C 2C | 0 points, High Card, 10,7,6 high
+Player B holds: QS 2H 3C AH KS | 0 points, High Card, 14,13,12 high
+B Wins
+
+Different type of hands.
+Player A holds: 4S 7C 9C 7D JH | 30 points, One Pair, 7,11,9 high
+Player B holds: 6C 5C 8H 9D QD | 0 points, High Card, 12,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 2S TD 7S 6D 9C | 0 points, High Card, 10,9,7 high
+Player B holds: 9S QS KH QH 5C | 30 points, One Pair, 12,13,9 high
+B Wins
+
+Different type of hands.
+Player A holds: JC 6S 9C QH JH | 30 points, One Pair, 11,12,9 high
+Player B holds: 8D 7S JS KH 2H | 0 points, High Card, 13,11,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 8D 5H TH KC 4D | 0 points, High Card, 13,10,8 high
+Player B holds: 4S 3S 6S 3D QS | 30 points, One Pair, 3,12,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 2D JD 4C TD 7C | 0 points, High Card, 11,10,7 high
+Player B holds: 6D TH 7S JC AH | 0 points, High Card, 14,11,10 high
+B Wins
+
+Same type of hand.
+Player A holds: QS 7S 4C TH 9D | 0 points, High Card, 12,10,9 high
+Player B holds: TS AD 4D 3H 6H | 0 points, High Card, 14,10,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 2D 3H 7D JD 3D | 30 points, One Pair, 3,11,7 high
+Player B holds: AS 2S 9C QC 8S | 0 points, High Card, 14,12,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 4H 9H 9C 2C 7S | 30 points, One Pair, 9,7,4 high
+Player B holds: JH KD 5C 5D 6H | 30 points, One Pair, 5,13,11 high
+A Wins
+
+Different type of hands.
+Player A holds: TC 9H 8H JC 3C | 0 points, High Card, 11,10,9 high
+Player B holds: 9S 8D KS AD KC | 30 points, One Pair, 13,14,9 high
+B Wins
+
+Different type of hands.
+Player A holds: TS 5H JD QS QH | 30 points, One Pair, 12,11,10 high
+Player B holds: QC 8D 5D KH AH | 0 points, High Card, 14,13,12 high
+A Wins
+
+Different type of hands.
+Player A holds: 5D AS 8S 6S 4C | 0 points, High Card, 14,8,6 high
+Player B holds: AH QC QD TH 7H | 30 points, One Pair, 12,14,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 3H 4H 7D 6S 4S | 30 points, One Pair, 4,7,6 high
+Player B holds: 9H AS 8H JS 9D | 30 points, One Pair, 9,14,11 high
+B Wins
+
+Different type of hands.
+Player A holds: JD 8C 2C 9D 7D | 0 points, High Card, 11,9,8 high
+Player B holds: 5H 5S 9S JC KD | 30 points, One Pair, 5,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: KD 9C 4S QD AH | 0 points, High Card, 14,13,12 high
+Player B holds: 7C AD 9D AC TD | 30 points, One Pair, 14,10,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 6S 4H 4S 9C 8D | 30 points, One Pair, 4,9,8 high
+Player B holds: KS TC 9D JH 7C | 0 points, High Card, 13,11,10 high
+A Wins
+
+Same type of hand.
+Player A holds: 5S JC 5H 4S QH | 30 points, One Pair, 5,12,11 high
+Player B holds: AC 2C JS 2S 9S | 30 points, One Pair, 2,14,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 8C 5H AS QD AD | 30 points, One Pair, 14,12,8 high
+Player B holds: 5C 7D 8S QC TD | 0 points, High Card, 12,10,8 high
+A Wins
+
+Different type of hands.
+Player A holds: JC 4C 8D 5C KH | 0 points, High Card, 13,11,8 high
+Player B holds: QS 4D 6H 2H 2C | 30 points, One Pair, 2,12,6 high
+B Wins
+
+Different type of hands.
+Player A holds: TH 4S 2D KC 3H | 0 points, High Card, 13,10,4 high
+Player B holds: QD AC 7H AD 9D | 30 points, One Pair, 14,12,9 high
+B Wins
+
+Different type of hands.
+Player A holds: KH QD AS 8H TH | 0 points, High Card, 14,13,12 high
+Player B holds: KC 8D 7S QH 8C | 30 points, One Pair, 8,13,12 high
+B Wins
+
+Different type of hands.
+Player A holds: JC 6C 7D 8C KH | 0 points, High Card, 13,11,8 high
+Player B holds: AD QS 2H 6S 2D | 30 points, One Pair, 2,14,12 high
+B Wins
+
+Same type of hand.
+Player A holds: JC KH 2D 7D JS | 30 points, One Pair, 11,13,7 high
+Player B holds: QC 5H 4C 5D AD | 30 points, One Pair, 5,14,12 high
+A Wins
+
+Different type of hands.
+Player A holds: TS 3S AD 4S TD | 30 points, One Pair, 10,14,4 high
+Player B holds: 2D TH 6S 9H JH | 0 points, High Card, 11,10,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 9H 2D QS 2C 4S | 30 points, One Pair, 2,12,9 high
+Player B holds: 3D KH AS AC 9D | 30 points, One Pair, 14,13,9 high
+B Wins
+
+Same type of hand.
+Player A holds: KH 6S 8H 4S KD | 30 points, One Pair, 13,8,6 high
+Player B holds: 7D 9D TS QD QC | 30 points, One Pair, 12,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: JH 5H AH KS AS | 30 points, One Pair, 14,13,11 high
+Player B holds: AD JC QC 5S KH | 0 points, High Card, 14,13,12 high
+A Wins
+
+Same type of hand.
+Player A holds: 5D 7D 6D KS KD | 30 points, One Pair, 13,7,6 high
+Player B holds: 3D 7C 4D JD 3S | 30 points, One Pair, 3,11,7 high
+A Wins
+
+Different type of hands.
+Player A holds: AC JS 8D 5H 9C | 0 points, High Card, 14,11,9 high
+Player B holds: 3H 4H 4D TS 2C | 30 points, One Pair, 4,10,3 high
+B Wins
+
+Same type of hand.
+Player A holds: 6H KS KH 9D 7C | 30 points, One Pair, 13,9,7 high
+Player B holds: 2S 6S 8S 2H 3D | 30 points, One Pair, 2,8,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 6H AC JS 7S 3S | 0 points, High Card, 14,11,7 high
+Player B holds: TD 8H 3H 4H TH | 30 points, One Pair, 10,8,4 high
+B Wins
+
+Same type of hand.
+Player A holds: 9H TC QC KC 5C | 0 points, High Card, 13,12,10 high
+Player B holds: KS 6H 4H AC 8S | 0 points, High Card, 14,13,8 high
+B Wins
+
+Different type of hands.
+Player A holds: TC 7D QH 4S JC | 0 points, High Card, 12,11,10 high
+Player B holds: TS 6D 6C AC KH | 30 points, One Pair, 6,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: QH 7D 7C JH QS | 40 points, Two Pair, 12,7,11 high
+Player B holds: QD TH 3H 5D KS | 0 points, High Card, 13,12,10 high
+A Wins
+
+Same type of hand.
+Player A holds: 3D 5S 8D JS 4C | 0 points, High Card, 11,8,5 high
+Player B holds: 2C KS 7H 9C 4H | 0 points, High Card, 13,9,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 5H 8S 4H TD 2C | 0 points, High Card, 10,8,5 high
+Player B holds: 3S QD QC 3H KC | 40 points, Two Pair, 12,3,13 high
+B Wins
+
+Different type of hands.
+Player A holds: QC JS KD 9C AD | 0 points, High Card, 14,13,12 high
+Player B holds: 5S 9D 7D 7H TS | 30 points, One Pair, 7,10,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 8C JC KH 7C 7S | 30 points, One Pair, 7,13,11 high
+Player B holds: 6C TS 2C QD TH | 30 points, One Pair, 10,12,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 5S 9D TH 3C 7S | 0 points, High Card, 10,9,7 high
+Player B holds: QH 8S 9C 2H 5H | 0 points, High Card, 12,9,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 5D 9H 6H 2S JS | 0 points, High Card, 11,9,6 high
+Player B holds: KH 3H 7C 2H 5S | 0 points, High Card, 13,7,5 high
+B Wins
+
+Same type of hand.
+Player A holds: JD 5D 5S 2C TC | 30 points, One Pair, 5,11,10 high
+Player B holds: 2S 6S 6C 3C 8S | 30 points, One Pair, 6,8,3 high
+B Wins
+
+Different type of hands.
+Player A holds: 4D KH 8H 4H 2D | 30 points, One Pair, 4,13,8 high
+Player B holds: KS 3H 5C 2S 9H | 0 points, High Card, 13,9,5 high
+A Wins
+
+Same type of hand.
+Player A holds: 3S 2D TD 7H 8S | 0 points, High Card, 10,8,7 high
+Player B holds: 6H JD KC 9C 8D | 0 points, High Card, 13,11,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 6S QD JH 7C 9H | 0 points, High Card, 12,11,9 high
+Player B holds: 5H 8S 8H TH TD | 40 points, Two Pair, 10,8,5 high
+B Wins
+
+Different type of hands.
+Player A holds: QS 7S TD 7D TS | 40 points, Two Pair, 10,7,12 high
+Player B holds: JC KD 7C 3C 2C | 0 points, High Card, 13,11,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 3C JD 8S 4H 2D | 0 points, High Card, 11,8,4 high
+Player B holds: 2S TD AS 4D AC | 30 points, One Pair, 14,10,4 high
+B Wins
+
+Different type of hands.
+Player A holds: AH KS 6C 4C 4S | 30 points, One Pair, 4,14,13 high
+Player B holds: 7D 8C 9H 6H AS | 0 points, High Card, 14,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 5S 3C 9S 2C QS | 0 points, High Card, 12,9,5 high
+Player B holds: KD 4D 4S AC 5D | 30 points, One Pair, 4,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: 2D TS 2C JS KH | 30 points, One Pair, 2,13,11 high
+Player B holds: QH 5D 8C AS KC | 0 points, High Card, 14,13,12 high
+A Wins
+
+Same type of hand.
+Player A holds: KD 3H 6C TH 8S | 0 points, High Card, 13,10,8 high
+Player B holds: 7S KH 6H 9S AC | 0 points, High Card, 14,13,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 6H 7S 6C QS AH | 30 points, One Pair, 6,14,12 high
+Player B holds: 2S 2H 4H 5D 5H | 40 points, Two Pair, 5,2,4 high
+B Wins
+
+Different type of hands.
+Player A holds: 5H JC QD 2C 2S | 30 points, One Pair, 2,12,11 high
+Player B holds: JD AS QC 6S 7D | 0 points, High Card, 14,12,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 6C TC AS KD 8H | 0 points, High Card, 14,13,10 high
+Player B holds: 9D 2C 7D JH 9S | 30 points, One Pair, 9,11,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 2H 4C 6C AH 8S | 0 points, High Card, 14,8,6 high
+Player B holds: TD 3H TH 7C TS | 50 points, Three of a Kind, 10,7,3 high
+B Wins
+
+Different type of hands.
+Player A holds: KD 4S TS 6C QH | 0 points, High Card, 13,12,10 high
+Player B holds: 8D 9D 9C AH 7D | 30 points, One Pair, 9,14,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 6D JS 5C QD QC | 30 points, One Pair, 12,11,6 high
+Player B holds: 9C 5D 8C 2H KD | 0 points, High Card, 13,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 3C QH JH AD 6S | 0 points, High Card, 14,12,11 high
+Player B holds: AH KC 8S 6D 6H | 30 points, One Pair, 6,14,13 high
+B Wins
+
+Same type of hand.
+Player A holds: 3D 7C 4C 7S 5S | 30 points, One Pair, 7,5,4 high
+Player B holds: 3S 6S 5H JC 3C | 30 points, One Pair, 3,11,6 high
+A Wins
+
+Different type of hands.
+Player A holds: QH 7C 5H 3C 3S | 30 points, One Pair, 3,12,7 high
+Player B holds: 8C TS 4C KD 9C | 0 points, High Card, 13,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: QD 3S 7S 5H 7H | 30 points, One Pair, 7,12,5 high
+Player B holds: QH JC 7C 8C KD | 0 points, High Card, 13,12,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 3C KD KH 2S 4C | 30 points, One Pair, 13,4,3 high
+Player B holds: TS AC 6S 2C 7C | 0 points, High Card, 14,10,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 2C KH 3C 4C 6H | 0 points, High Card, 13,6,4 high
+Player B holds: 4D 5H 5S 7S QD | 30 points, One Pair, 5,12,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 4D 7C 8S QD TS | 0 points, High Card, 12,10,8 high
+Player B holds: 9D KS 6H KD 3C | 30 points, One Pair, 13,9,6 high
+B Wins
+
+Different type of hands.
+Player A holds: QS 4D TS 7S 4C | 30 points, One Pair, 4,12,10 high
+Player B holds: 3H QD 8D 9S TC | 0 points, High Card, 12,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: TS QH AC 6S 3C | 0 points, High Card, 14,12,10 high
+Player B holds: 9H 9D QS 8S 6H | 30 points, One Pair, 9,12,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 3S 7S 5D 4S JS | 0 points, High Card, 11,7,5 high
+Player B holds: 2D 6C QH 6S TH | 30 points, One Pair, 6,12,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 4C 4H AS JS 5D | 30 points, One Pair, 4,14,11 high
+Player B holds: 3D TS 9C AC 8S | 0 points, High Card, 14,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 6S 9C 7C 3S 5C | 0 points, High Card, 9,7,6 high
+Player B holds: QS AD AS 6H 3C | 30 points, One Pair, 14,12,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 9S 8C 7H 3H 6S | 0 points, High Card, 9,8,7 high
+Player B holds: 7C AS 9H JD KH | 0 points, High Card, 14,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 3D 3H 7S 4D 6C | 30 points, One Pair, 3,7,6 high
+Player B holds: 7C AC 2H 9C TH | 0 points, High Card, 14,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 4H 5S 3H AC TC | 0 points, High Card, 14,10,5 high
+Player B holds: TH 9C 9H 9S 8D | 30 points, One Pair, 9,10,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 8D 9H 5H 4D 6C | 0 points, High Card, 9,8,6 high
+Player B holds: 2H QD 6S 5D 3S | 0 points, High Card, 12,6,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 4C 5C JD QS 4D | 30 points, One Pair, 4,12,11 high
+Player B holds: 3H TH AC QH 8C | 0 points, High Card, 14,12,10 high
+A Wins
+
+Different type of hands.
+Player A holds: QC 5S 3C 7H AD | 0 points, High Card, 14,12,7 high
+Player B holds: 4C KS 4H JD 6D | 30 points, One Pair, 4,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: QS AH 3H KS 9H | 0 points, High Card, 14,13,12 high
+Player B holds: 2S JS JH 5H 2H | 40 points, Two Pair, 11,2,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 2H 5S TH 6S TS | 30 points, One Pair, 10,6,5 high
+Player B holds: 3S KS 3C 5H JS | 30 points, One Pair, 3,13,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 2D 9S 7H 3D KC | 0 points, High Card, 13,9,7 high
+Player B holds: JH 6D 7D JS TD | 30 points, One Pair, 11,10,7 high
+B Wins
+
+Same type of hand.
+Player A holds: AC JS 8H 2C 8C | 30 points, One Pair, 8,14,11 high
+Player B holds: JH JC 2D TH 7S | 30 points, One Pair, 11,10,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 5D 9S 8H 2H 3D | 0 points, High Card, 9,8,5 high
+Player B holds: TC AH JC KD 9C | 0 points, High Card, 14,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 9D QD JC 2H 6D | 0 points, High Card, 12,11,9 high
+Player B holds: KH TS 9S QH TH | 30 points, One Pair, 10,13,12 high
+B Wins
+
+Different type of hands.
+Player A holds: 2C 8D 4S JD 5H | 0 points, High Card, 11,8,5 high
+Player B holds: 3H TH TC 9C KC | 30 points, One Pair, 10,13,9 high
+B Wins
+
+Same type of hand.
+Player A holds: AS 3D 9H 7D 4D | 0 points, High Card, 14,9,7 high
+Player B holds: TH KH 2H 7S 3H | 0 points, High Card, 13,10,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 4H 7S KS 2S JS | 0 points, High Card, 13,11,7 high
+Player B holds: TS 8S 2H QD 8D | 30 points, One Pair, 8,12,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 5S 6H JH KS 8H | 0 points, High Card, 13,11,8 high
+Player B holds: 2S QC AC 6S 3S | 0 points, High Card, 14,12,6 high
+B Wins
+
+Same type of hand.
+Player A holds: JC AS AD QS 8H | 30 points, One Pair, 14,12,11 high
+Player B holds: 6C KH 4C 4D QD | 30 points, One Pair, 4,13,12 high
+A Wins
+
+Different type of hands.
+Player A holds: 2S 3D TS TD 9S | 30 points, One Pair, 10,9,3 high
+Player B holds: KS 6S QS 5C 8D | 0 points, High Card, 13,12,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 3C 6D 4S QC KC | 0 points, High Card, 13,12,6 high
+Player B holds: JH QD TH KH AD | 60 points, Straight, 14,13,12 high
+B Wins
+
+Different type of hands.
+Player A holds: 9H AH 4D KS 2S | 0 points, High Card, 14,13,9 high
+Player B holds: 8D JH JC 7C QS | 30 points, One Pair, 11,12,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 2D 6C TH 3C 8H | 0 points, High Card, 10,8,6 high
+Player B holds: QD QH 2S 3S KS | 30 points, One Pair, 12,13,3 high
+B Wins
+
+Different type of hands.
+Player A holds: 6H 5D 9S 4C TS | 0 points, High Card, 10,9,6 high
+Player B holds: TD JS QD 9D JD | 30 points, One Pair, 11,12,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 5H 8H KH 8S KS | 40 points, Two Pair, 13,8,5 high
+Player B holds: 7C TD AD 4S KD | 0 points, High Card, 14,13,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 2C 7C JC 5S AS | 0 points, High Card, 14,11,7 high
+Player B holds: 6C 7D 8S 5H 9C | 60 points, Straight, 9,8,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 6S QD 9S TS KH | 0 points, High Card, 13,12,10 high
+Player B holds: QS 5S QH 3C KC | 30 points, One Pair, 12,13,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 7D 3H 3C KD 5C | 30 points, One Pair, 3,13,7 high
+Player B holds: AS JH 7H 6H JD | 30 points, One Pair, 11,14,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 9D 5C 9H KC 8H | 30 points, One Pair, 9,13,8 high
+Player B holds: KS 4S AD 4D 2S | 30 points, One Pair, 4,14,13 high
+A Wins
+
+Different type of hands.
+Player A holds: 3S JD QD 8D 2S | 0 points, High Card, 12,11,8 high
+Player B holds: 7C 5S 6S 5H TS | 30 points, One Pair, 5,10,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 6D 9S KC TD 3S | 0 points, High Card, 13,10,9 high
+Player B holds: 6H QD JD 5C 8D | 0 points, High Card, 12,11,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 5H 9D TS KD 8D | 0 points, High Card, 13,10,9 high
+Player B holds: 6H TD QC 4C 7D | 0 points, High Card, 12,10,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 6D 4S JD 9D AH | 0 points, High Card, 14,11,9 high
+Player B holds: 9S AS TD 9H QD | 30 points, One Pair, 9,14,12 high
+B Wins
+
+Same type of hand.
+Player A holds: 2D 5S 2H 9C 6H | 30 points, One Pair, 2,9,6 high
+Player B holds: 9S TD QC 7D TC | 30 points, One Pair, 10,12,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 3S 2H KS TS 2C | 30 points, One Pair, 2,13,10 high
+Player B holds: 9C 8S JS 9D 7D | 30 points, One Pair, 9,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 3C KC 6D 5D 6C | 30 points, One Pair, 6,13,5 high
+Player B holds: 6H 8S AS 7S QS | 0 points, High Card, 14,12,8 high
+A Wins
+
+Same type of hand.
+Player A holds: JH 9S 2H 8D 4C | 0 points, High Card, 11,9,8 high
+Player B holds: 8H 9H AD TH KH | 0 points, High Card, 14,13,10 high
+B Wins
+
+Same type of hand.
+Player A holds: QC AS 2S JS 5C | 0 points, High Card, 14,12,11 high
+Player B holds: 6H KD 3H 7H 2C | 0 points, High Card, 13,7,6 high
+A Wins
+
+Different type of hands.
+Player A holds: QD 8H 2S 8D 3S | 30 points, One Pair, 8,12,3 high
+Player B holds: 6D AH 2C TC 5C | 0 points, High Card, 14,10,6 high
+A Wins
+
+Different type of hands.
+Player A holds: JD JS TS 8S 3H | 30 points, One Pair, 11,10,8 high
+Player B holds: 5D TD KC JC 6H | 0 points, High Card, 13,11,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 6S QS TC 3H 5D | 0 points, High Card, 12,10,6 high
+Player B holds: AH JC 7C 7D 4H | 30 points, One Pair, 7,14,11 high
+B Wins
+
+Same type of hand.
+Player A holds: 7C 5D 8H 9C 2H | 0 points, High Card, 9,8,7 high
+Player B holds: 9H JH KH 5S 2C | 0 points, High Card, 13,11,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 9C 7H 6S TH 3S | 0 points, High Card, 10,9,7 high
+Player B holds: QC QD 4C AC JD | 30 points, One Pair, 12,14,11 high
+B Wins
+
+Same type of hand.
+Player A holds: 2H 5D 9S 7D KC | 0 points, High Card, 13,9,7 high
+Player B holds: 3S QS 2D AS KH | 0 points, High Card, 14,13,12 high
+B Wins
+
+Same type of hand.
+Player A holds: 2S 4S 2H 7D 5C | 30 points, One Pair, 2,7,5 high
+Player B holds: TD TH QH 9S 4D | 30 points, One Pair, 10,12,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 6D 3S TS 6H 4H | 30 points, One Pair, 6,10,4 high
+Player B holds: KS 9D 8H 5S 2D | 0 points, High Card, 13,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 9H KS 4H 3S 5C | 0 points, High Card, 13,9,5 high
+Player B holds: 5D KH 6H 6S JS | 30 points, One Pair, 6,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: KC AS 8C 4C JC | 0 points, High Card, 14,13,11 high
+Player B holds: KH QC TH QD AH | 30 points, One Pair, 12,14,13 high
+B Wins
+
+Same type of hand.
+Player A holds: 6S KH 9S 2C 5H | 0 points, High Card, 13,9,6 high
+Player B holds: TC 3C 7H JC 4D | 0 points, High Card, 11,10,7 high
+A Wins
+
+Different type of hands.
+Player A holds: JD 4S 6S 5S 8D | 0 points, High Card, 11,8,6 high
+Player B holds: 7H 7S 4D 4C 2H | 40 points, Two Pair, 7,4,2 high
+B Wins
+
+Different type of hands.
+Player A holds: 7H 9H 5D KH 9C | 30 points, One Pair, 9,13,7 high
+Player B holds: 7C TS TC 7S 5H | 40 points, Two Pair, 10,7,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 4C 8D QC TS 4S | 30 points, One Pair, 4,12,10 high
+Player B holds: 9H 3D AD JS 7C | 0 points, High Card, 14,11,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 8C QS 5C 5D 3H | 30 points, One Pair, 5,12,8 high
+Player B holds: JS AH KC 4S 9D | 0 points, High Card, 14,13,11 high
+A Wins
+
+Same type of hand.
+Player A holds: TS JD 8S QS TH | 30 points, One Pair, 10,12,11 high
+Player B holds: JH KH 2D QD JS | 30 points, One Pair, 11,13,12 high
+B Wins
+
+Same type of hand.
+Player A holds: JD QC 5D 6S 9H | 0 points, High Card, 12,11,9 high
+Player B holds: 3S 2C 8H 9S TS | 0 points, High Card, 10,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 2S 4C AD 7H JC | 0 points, High Card, 14,11,7 high
+Player B holds: 5C 2D 6D 4H 3D | 60 points, Straight, 6,5,4 high
+B Wins
+
+Same type of hand.
+Player A holds: 7S JS 2C 4H 8C | 0 points, High Card, 11,8,7 high
+Player B holds: AD QD 9C 3S TD | 0 points, High Card, 14,12,10 high
+B Wins
+
+Same type of hand.
+Player A holds: JD TS 4C 6H 9H | 0 points, High Card, 11,10,9 high
+Player B holds: 7D QD 6D 3C AS | 0 points, High Card, 14,12,7 high
+B Wins
+
+Different type of hands.
+Player A holds: AS 7C 4C 6S 5D | 0 points, High Card, 14,7,6 high
+Player B holds: 5S 5C JS QC 4S | 30 points, One Pair, 5,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: KD 6S 9S 7C 3C | 0 points, High Card, 13,9,7 high
+Player B holds: 5S 7D JH QD JS | 30 points, One Pair, 11,12,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 4S 7S JH 2C 8S | 0 points, High Card, 11,8,7 high
+Player B holds: 5D 7H 3D QH AD | 0 points, High Card, 14,12,7 high
+B Wins
+
+Same type of hand.
+Player A holds: TD 6H 2H 8D 4H | 0 points, High Card, 10,8,6 high
+Player B holds: 2D 7C AD KH 5D | 0 points, High Card, 14,13,7 high
+B Wins
+
+Same type of hand.
+Player A holds: TS 3S 5H 2C QD | 0 points, High Card, 12,10,5 high
+Player B holds: AH 2S 5C KH TD | 0 points, High Card, 14,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: KC 4D 8C 5D AS | 0 points, High Card, 14,13,8 high
+Player B holds: 6C 2H 2S 9H 7C | 30 points, One Pair, 2,9,7 high
+B Wins
+
+Different type of hands.
+Player A holds: KD JS QC TS QS | 30 points, One Pair, 12,13,11 high
+Player B holds: KH JH 2C 5D AD | 0 points, High Card, 14,13,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 3S 5H KC 6C 9H | 0 points, High Card, 13,9,6 high
+Player B holds: 3H 2H AD 7D 7S | 30 points, One Pair, 7,14,3 high
+B Wins
+
+Different type of hands.
+Player A holds: 7S JS JH KD 8S | 30 points, One Pair, 11,13,8 high
+Player B holds: 7D 2S 9H 7C 2H | 40 points, Two Pair, 7,2,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 9H 2D 8D QC 6S | 0 points, High Card, 12,9,8 high
+Player B holds: AD AS 8H 5H 6C | 30 points, One Pair, 14,8,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 2S 7H 6C 6D 7D | 40 points, Two Pair, 7,6,2 high
+Player B holds: 8C 5D 9D JC 3C | 0 points, High Card, 11,9,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 7C 9C 7H JD 2H | 30 points, One Pair, 7,11,9 high
+Player B holds: KD 3S KH AD 4S | 30 points, One Pair, 13,14,4 high
+B Wins
+
+Different type of hands.
+Player A holds: QH AS 9H 4D JD | 0 points, High Card, 14,12,11 high
+Player B holds: KS KD TS KH 5H | 50 points, Three of a Kind, 13,10,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 4C 8H 5S 3S 3D | 30 points, One Pair, 3,8,5 high
+Player B holds: 7D TD AD 7S KC | 30 points, One Pair, 7,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: JS 8S 5S JC 8H | 40 points, Two Pair, 11,8,5 high
+Player B holds: TH 9C 4D 5D KC | 0 points, High Card, 13,10,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 7C 5S 9C QD 2C | 0 points, High Card, 12,9,7 high
+Player B holds: QH JS 5H 8D KH | 0 points, High Card, 13,12,11 high
+B Wins
+
+Same type of hand.
+Player A holds: TD 2S KS 3D AD | 0 points, High Card, 14,13,10 high
+Player B holds: KC 7S TC 3C 5D | 0 points, High Card, 13,10,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 4C 2S AD QS 6C | 0 points, High Card, 14,12,6 high
+Player B holds: 9S QD TH QH 5C | 30 points, One Pair, 12,10,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 8C AD QS 2D 2S | 30 points, One Pair, 2,14,12 high
+Player B holds: KC JD KS 6C JC | 40 points, Two Pair, 13,11,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 8D 4D JS 2H 5D | 0 points, High Card, 11,8,5 high
+Player B holds: QD 7S 7D QH TS | 40 points, Two Pair, 12,7,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 6S 7H 3S 8C 8S | 30 points, One Pair, 8,7,6 high
+Player B holds: 9D QS 8H 6C 9S | 30 points, One Pair, 9,12,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 4S TC 2S 5C QD | 0 points, High Card, 12,10,5 high
+Player B holds: 4D QS 6D TH 6S | 30 points, One Pair, 6,12,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 3S 5C 9D 6H 8D | 0 points, High Card, 9,8,6 high
+Player B holds: 4C 7D TC 7C TD | 40 points, Two Pair, 10,7,4 high
+B Wins
+
+Different type of hands.
+Player A holds: AH 6S AS 7H 5S | 30 points, One Pair, 14,7,6 high
+Player B holds: KD 3H 5H AC 4C | 0 points, High Card, 14,13,5 high
+A Wins
+
+Different type of hands.
+Player A holds: 8D 8S AH KS QS | 30 points, One Pair, 8,14,13 high
+Player B holds: 2C AD 6H 7D 5D | 0 points, High Card, 14,7,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 6H 9H 9S 2H QS | 30 points, One Pair, 9,12,6 high
+Player B holds: 8S 9C 5D 2D KD | 0 points, High Card, 13,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: TS QC 5S JH 7D | 0 points, High Card, 12,11,10 high
+Player B holds: 7S TH 9S 9H AC | 30 points, One Pair, 9,14,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 7H 3H 6S KC 4D | 0 points, High Card, 13,7,6 high
+Player B holds: 6D 5C 4S QD TS | 0 points, High Card, 12,10,6 high
+A Wins
+
+Different type of hands.
+Player A holds: TD 2S 7C QD 3H | 0 points, High Card, 12,10,7 high
+Player B holds: JH 9D 4H 7S 7H | 30 points, One Pair, 7,11,9 high
+B Wins
+
+Different type of hands.
+Player A holds: KS 3D 4H 5H TC | 0 points, High Card, 13,10,5 high
+Player B holds: 2S AS 2D 6D 7D | 30 points, One Pair, 2,14,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 8H 3C 7H TD 3H | 30 points, One Pair, 3,10,8 high
+Player B holds: AD KC TH 9C KH | 30 points, One Pair, 13,14,10 high
+B Wins
+
+Different type of hands.
+Player A holds: TC 4C 2C 9S 9D | 30 points, One Pair, 9,10,4 high
+Player B holds: 9C 5C 2H JD 3C | 0 points, High Card, 11,9,5 high
+A Wins
+
+Different type of hands.
+Player A holds: 3H AC TS 5D AD | 30 points, One Pair, 14,10,5 high
+Player B holds: 8D 6H QC 6S 8C | 40 points, Two Pair, 8,6,12 high
+B Wins
+
+Different type of hands.
+Player A holds: 2S TS 3S JD 7H | 0 points, High Card, 11,10,7 high
+Player B holds: 8S QH 4C 5S 8D | 30 points, One Pair, 8,12,5 high
+B Wins
+
+Different type of hands.
+Player A holds: AC 4S 6C 3C KH | 0 points, High Card, 14,13,6 high
+Player B holds: 3D 7C 2D 8S 2H | 30 points, One Pair, 2,8,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 4H 6C 8S TH 2H | 0 points, High Card, 10,8,6 high
+Player B holds: 4S 8H 9S 3H 7S | 0 points, High Card, 9,8,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 7C 4C 9C 2C 5C | 70 points, Flush, 9,7,5 high
+Player B holds: AS 5D KD 4D QH | 0 points, High Card, 14,13,12 high
+A Wins
+
+Different type of hands.
+Player A holds: 9H 4H TS AS 7D | 0 points, High Card, 14,10,9 high
+Player B holds: 8D 5D 9S 8C 2H | 30 points, One Pair, 8,9,5 high
+B Wins
+
+Different type of hands.
+Player A holds: QC KD AC AD 2H | 30 points, One Pair, 14,13,12 high
+Player B holds: 7S AS 3S 2D 9S | 0 points, High Card, 14,9,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 2H QC 8H TC 6D | 0 points, High Card, 12,10,8 high
+Player B holds: QD QS 5D KH 3C | 30 points, One Pair, 12,13,5 high
+B Wins
+
+Different type of hands.
+Player A holds: TH JD QS 4C 2S | 0 points, High Card, 12,11,10 high
+Player B holds: 5S AD 7H 3S AS | 30 points, One Pair, 14,7,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 7H JS 3D 6C 3S | 30 points, One Pair, 3,11,7 high
+Player B holds: 6D AS 9S AC QS | 30 points, One Pair, 14,12,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 9C TS AS 8C TC | 30 points, One Pair, 10,14,9 high
+Player B holds: 8S 6H 9D 8D 6C | 40 points, Two Pair, 8,6,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 4D JD 9C KC 7C | 0 points, High Card, 13,11,9 high
+Player B holds: 6D KS 3S 8C AS | 0 points, High Card, 14,13,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 3H 6S TC 8D TS | 30 points, One Pair, 10,8,6 high
+Player B holds: 3S KC 9S 7C AS | 0 points, High Card, 14,13,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 8C QC 4H 4S 8S | 40 points, Two Pair, 8,4,12 high
+Player B holds: 6C 3S TC AH AC | 30 points, One Pair, 14,10,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 4D 7D 5C AS 2H | 0 points, High Card, 14,7,5 high
+Player B holds: 6S TS QC AD TC | 30 points, One Pair, 10,14,12 high
+B Wins
+
+Different type of hands.
+Player A holds: QD QC 8S 4S TH | 30 points, One Pair, 12,10,8 high
+Player B holds: 3D AH TS JH 4H | 0 points, High Card, 14,11,10 high
+A Wins
+
+Same type of hand.
+Player A holds: 5C 2D 9S 2C 3H | 30 points, One Pair, 2,9,5 high
+Player B holds: 3C 9D QD QH 7D | 30 points, One Pair, 12,9,7 high
+B Wins
+
+Different type of hands.
+Player A holds: KC 9H 6C KD 7S | 30 points, One Pair, 13,9,7 high
+Player B holds: 3C 4D AS TC 2D | 0 points, High Card, 14,10,4 high
+A Wins
+
+Different type of hands.
+Player A holds: 3D JS 4D 9D KS | 0 points, High Card, 13,11,9 high
+Player B holds: 7D TH QC 3H 3C | 30 points, One Pair, 3,12,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 8D 5S 2H 9D 3H | 0 points, High Card, 9,8,5 high
+Player B holds: 8C 4C 4H 3C TH | 30 points, One Pair, 4,10,8 high
+B Wins
+
+Same type of hand.
+Player A holds: JC TH 4S 6S JD | 30 points, One Pair, 11,10,6 high
+Player B holds: 2D 4D 6C 3D 4C | 30 points, One Pair, 4,6,3 high
+A Wins
+
+Different type of hands.
+Player A holds: TS 3S 2D 4H AC | 0 points, High Card, 14,10,4 high
+Player B holds: 2C 6S 2H JH 6H | 40 points, Two Pair, 6,2,11 high
+B Wins
+
+Different type of hands.
+Player A holds: TD 8S AD TC AH | 40 points, Two Pair, 14,10,8 high
+Player B holds: AC JH 9S 6S 7S | 0 points, High Card, 14,11,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 6C KC 4S JD 8D | 0 points, High Card, 13,11,8 high
+Player B holds: 9H 5S 7H QH AH | 0 points, High Card, 14,12,9 high
+B Wins
+
+Different type of hands.
+Player A holds: KD 8D TS JH 5C | 0 points, High Card, 13,11,10 high
+Player B holds: 5H 3H AD AS JS | 30 points, One Pair, 14,11,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 2D 4H 3D 6C 8C | 0 points, High Card, 8,6,4 high
+Player B holds: 7S AD 5D 5C 8S | 30 points, One Pair, 5,14,8 high
+B Wins
+
+Different type of hands.
+Player A holds: TD 5D 7S 9C 4S | 0 points, High Card, 10,9,7 high
+Player B holds: 5H 6C 8C 4C 8S | 30 points, One Pair, 8,6,5 high
+B Wins
+
+Different type of hands.
+Player A holds: JS QH 9C AS 5C | 0 points, High Card, 14,12,11 high
+Player B holds: QS JC 3D QC 7C | 30 points, One Pair, 12,11,7 high
+B Wins
+
+Different type of hands.
+Player A holds: JC 9C KH JH QS | 30 points, One Pair, 11,13,12 high
+Player B holds: QC 2C TS 3D AD | 0 points, High Card, 14,12,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 5D JH AC 5C 9S | 30 points, One Pair, 5,14,11 high
+Player B holds: TS 4C JD 8C KS | 0 points, High Card, 13,11,10 high
+A Wins
+
+Different type of hands.
+Player A holds: KC AS 2D KH 9H | 30 points, One Pair, 13,14,9 high
+Player B holds: 2C 5S 4D 3D 6H | 60 points, Straight, 6,5,4 high
+B Wins
+
+Different type of hands.
+Player A holds: TH AH 2D 8S JC | 0 points, High Card, 14,11,10 high
+Player B holds: 3D 8C QH 7S 3S | 30 points, One Pair, 3,12,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 8H QD 4H JC AS | 0 points, High Card, 14,12,11 high
+Player B holds: KH KS 3C 9S 6D | 30 points, One Pair, 13,9,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 9S QH 7D 9C 4S | 30 points, One Pair, 9,12,7 high
+Player B holds: AC 7H KH 4D KD | 30 points, One Pair, 13,14,7 high
+B Wins
+
+Same type of hand.
+Player A holds: AH AD TH 6D 9C | 30 points, One Pair, 14,10,9 high
+Player B holds: 9S KD KS QH 4H | 30 points, One Pair, 13,12,9 high
+A Wins
+
+Same type of hand.
+Player A holds: QD 6H 9C 7C QS | 30 points, One Pair, 12,9,7 high
+Player B holds: 6D 6S 9D 5S JH | 30 points, One Pair, 6,11,9 high
+A Wins
+
+Different type of hands.
+Player A holds: AH 8D 5H QD 2H | 0 points, High Card, 14,12,8 high
+Player B holds: JC KS 4H KH 5S | 30 points, One Pair, 13,11,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 5C 2S JS 8D 9C | 0 points, High Card, 11,9,8 high
+Player B holds: 8C 3D AS KC AH | 30 points, One Pair, 14,13,8 high
+B Wins
+
+Different type of hands.
+Player A holds: JD 9S 2H QS 8H | 0 points, High Card, 12,11,9 high
+Player B holds: 5S 8C TH 5C 4C | 30 points, One Pair, 5,10,8 high
+B Wins
+
+Different type of hands.
+Player A holds: QC QS 8C 2S 2C | 40 points, Two Pair, 12,2,8 high
+Player B holds: 3S 9C 4C KS KH | 30 points, One Pair, 13,9,4 high
+A Wins
+
+Different type of hands.
+Player A holds: 2D 5D 8S AH AD | 30 points, One Pair, 14,8,5 high
+Player B holds: TD 2C JS KS 8C | 0 points, High Card, 13,11,10 high
+A Wins
+
+Same type of hand.
+Player A holds: TC 5S 5H 8H QC | 30 points, One Pair, 5,12,10 high
+Player B holds: 9H 6H JD 4H 9S | 30 points, One Pair, 9,11,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 3C JH 4H 9H AH | 0 points, High Card, 14,11,9 high
+Player B holds: 4S 2H 4C 8D AC | 30 points, One Pair, 4,14,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 8S TH 4D 7D 6D | 0 points, High Card, 10,8,7 high
+Player B holds: QD QS 7S TC 7C | 40 points, Two Pair, 12,7,10 high
+B Wins
+
+Different type of hands.
+Player A holds: KH 6D 2D JD 5H | 0 points, High Card, 13,11,6 high
+Player B holds: JS QD JH 4H 4S | 40 points, Two Pair, 11,4,12 high
+B Wins
+
+Different type of hands.
+Player A holds: 9C 7S JH 4S 3S | 0 points, High Card, 11,9,7 high
+Player B holds: TS QC 8C TC 4H | 30 points, One Pair, 10,12,8 high
+B Wins
+
+Same type of hand.
+Player A holds: QH 9D 4D JH QS | 30 points, One Pair, 12,11,9 high
+Player B holds: 3S 2C 7C 6C 2D | 30 points, One Pair, 2,7,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 4H 9S JD 5C 5H | 30 points, One Pair, 5,11,9 high
+Player B holds: AH 9D TS 2D 4C | 0 points, High Card, 14,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: KS JH TS 5D 2D | 0 points, High Card, 13,11,10 high
+Player B holds: AH JS 7H AS 8D | 30 points, One Pair, 14,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: JS AH 8C AD KS | 30 points, One Pair, 14,13,11 high
+Player B holds: 5S 8H 2C 6C TH | 0 points, High Card, 10,8,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 2H 5D AD AC KS | 30 points, One Pair, 14,13,5 high
+Player B holds: 3D 8H TS 6H QC | 0 points, High Card, 12,10,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 6D 4H TS 9C 5H | 0 points, High Card, 10,9,6 high
+Player B holds: JS JH 6S JD 4C | 50 points, Three of a Kind, 11,6,4 high
+B Wins
+
+Same type of hand.
+Player A holds: JH QH 4H 2C 6D | 0 points, High Card, 12,11,6 high
+Player B holds: 3C 5D 4C QS KC | 0 points, High Card, 13,12,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 6H 4H 6C 7H 6S | 30 points, One Pair, 6,7,6 high
+Player B holds: 2S 8S KH QC 8C | 30 points, One Pair, 8,13,12 high
+B Wins
+
+Same type of hand.
+Player A holds: 3H 3D 5D KS 4H | 30 points, One Pair, 3,13,5 high
+Player B holds: TD AD 3S 4D TS | 30 points, One Pair, 10,14,4 high
+B Wins
+
+Different type of hands.
+Player A holds: 5S 7C 8S 7D 2C | 30 points, One Pair, 7,8,5 high
+Player B holds: KS 7S 6C 8C JS | 0 points, High Card, 13,11,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 5D 2H 3S 7C 5C | 30 points, One Pair, 5,7,3 high
+Player B holds: QD 5H 6D 9C 9H | 30 points, One Pair, 9,12,6 high
+B Wins
+
+Different type of hands.
+Player A holds: JS 2S KD 9S 8D | 0 points, High Card, 13,11,9 high
+Player B holds: TD TS AC 8C 9D | 30 points, One Pair, 10,14,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 5H QD 2S AC 8C | 0 points, High Card, 14,12,8 high
+Player B holds: 9H KS 7C 4S 3C | 0 points, High Card, 13,9,7 high
+A Wins
+
+Different type of hands.
+Player A holds: KH AS 3H 8S 9C | 0 points, High Card, 14,13,9 high
+Player B holds: JS QS 4S AD 4D | 30 points, One Pair, 4,14,12 high
+B Wins
+
+Different type of hands.
+Player A holds: AS 2S TD AD 4D | 30 points, One Pair, 14,10,4 high
+Player B holds: 9H JC 4C 5H QS | 0 points, High Card, 12,11,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 5D 7C 4H TC 2D | 0 points, High Card, 10,7,5 high
+Player B holds: 6C JS 4S KC 3S | 0 points, High Card, 13,11,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 4C 2C 5D AC 9H | 0 points, High Card, 14,9,5 high
+Player B holds: 3D JD 8S QS QH | 30 points, One Pair, 12,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 2C 8S 6H 3C QH | 0 points, High Card, 12,8,6 high
+Player B holds: 6D TC KD AC AH | 30 points, One Pair, 14,13,10 high
+B Wins
+
+Same type of hand.
+Player A holds: QC 6C 3S QS 4S | 30 points, One Pair, 12,6,4 high
+Player B holds: AC 8D 5C AD KH | 30 points, One Pair, 14,13,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 5S 4C AC KH AS | 30 points, One Pair, 14,13,5 high
+Player B holds: QC 2C 5C 8D 9C | 0 points, High Card, 12,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 8H JD 3C KH 8D | 30 points, One Pair, 8,13,11 high
+Player B holds: 5C 9C QD QH 9D | 40 points, Two Pair, 12,9,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 7H TS 2C 8C 4S | 0 points, High Card, 10,8,7 high
+Player B holds: TD JC 9C 5H QH | 0 points, High Card, 12,11,10 high
+B Wins
+
+Same type of hand.
+Player A holds: JS 4S 2C 7C TH | 0 points, High Card, 11,10,7 high
+Player B holds: 6C AS KS 7S JD | 0 points, High Card, 14,13,11 high
+B Wins
+
+Same type of hand.
+Player A holds: JH 7C 9H 7H TC | 30 points, One Pair, 7,11,10 high
+Player B holds: 5H 3D 6D 5D 4D | 30 points, One Pair, 5,6,4 high
+A Wins
+
+Different type of hands.
+Player A holds: 2C QD JH 2H 9D | 30 points, One Pair, 2,12,11 high
+Player B holds: 5S 3D TD AD KS | 0 points, High Card, 14,13,10 high
+A Wins
+
+Same type of hand.
+Player A holds: JD QH 3S 4D TH | 0 points, High Card, 12,11,10 high
+Player B holds: 7D 6S QS KS 4H | 0 points, High Card, 13,12,7 high
+B Wins
+
+Same type of hand.
+Player A holds: TC KS 5S 8D 8H | 30 points, One Pair, 8,13,10 high
+Player B holds: AD 2S 2D 4C JH | 30 points, One Pair, 2,14,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 5S JH TC 3S 2D | 0 points, High Card, 11,10,5 high
+Player B holds: QS 9D 4C KD 9S | 30 points, One Pair, 9,13,12 high
+B Wins
+
+Same type of hand.
+Player A holds: AC KH 3H AS 9D | 30 points, One Pair, 14,13,9 high
+Player B holds: KC 9H QD 6C 6S | 30 points, One Pair, 6,13,12 high
+A Wins
+
+Different type of hands.
+Player A holds: 9H 7S 3D 5C 7D | 30 points, One Pair, 7,9,5 high
+Player B holds: KC TD 8H 4H 6S | 0 points, High Card, 13,10,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 3C 7H 8H TC QD | 0 points, High Card, 12,10,8 high
+Player B holds: 4D 7S 6S QH 6C | 30 points, One Pair, 6,12,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 6D AD 4C QD 6C | 30 points, One Pair, 6,14,12 high
+Player B holds: 5D 7D 9D KS TS | 0 points, High Card, 13,10,9 high
+A Wins
+
+Same type of hand.
+Player A holds: JH 2H JD 9S 7S | 30 points, One Pair, 11,9,7 high
+Player B holds: TS KH 8D 5D 8H | 30 points, One Pair, 8,13,10 high
+A Wins
+
+Same type of hand.
+Player A holds: 2D 9S 4C 7D 9D | 30 points, One Pair, 9,7,4 high
+Player B holds: 5H QD 6D AC 6S | 30 points, One Pair, 6,14,12 high
+A Wins
+
+Different type of hands.
+Player A holds: 7S 6D JC QD JH | 30 points, One Pair, 11,12,7 high
+Player B holds: 4C 6S QS 2H 7D | 0 points, High Card, 12,7,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 8C TD JH KD 2H | 0 points, High Card, 13,11,10 high
+Player B holds: 5C QS 2C JS 7S | 0 points, High Card, 12,11,7 high
+A Wins
+
+Different type of hands.
+Player A holds: TC 5H 4H JH QD | 0 points, High Card, 12,11,10 high
+Player B holds: 3S 5S 5D 8S KH | 30 points, One Pair, 5,13,8 high
+B Wins
+
+Different type of hands.
+Player A holds: KS KH 7C 2C 5D | 30 points, One Pair, 13,7,5 high
+Player B holds: JH 6S 9C 6D JC | 40 points, Two Pair, 11,6,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 5H AH JD 9C JS | 30 points, One Pair, 11,14,9 high
+Player B holds: KC 2H 6H 4D 5S | 0 points, High Card, 13,6,5 high
+A Wins
+
+Different type of hands.
+Player A holds: AS 3C TH QC 6H | 0 points, High Card, 14,12,10 high
+Player B holds: 9C 8S 8C TD 7C | 30 points, One Pair, 8,10,9 high
+B Wins
+
+Different type of hands.
+Player A holds: KC 2C QD 9C KH | 30 points, One Pair, 13,12,9 high
+Player B holds: 4D 7S 3C TS 9H | 0 points, High Card, 10,9,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 9C QC 2S TS 8C | 0 points, High Card, 12,10,9 high
+Player B holds: TD 9S QD 3S 3C | 30 points, One Pair, 3,12,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 4D 9D TH JH AH | 0 points, High Card, 14,11,10 high
+Player B holds: 6S 2S JD QH JS | 30 points, One Pair, 11,12,6 high
+B Wins
+
+Same type of hand.
+Player A holds: QD 9H 6C KD 7D | 0 points, High Card, 13,12,9 high
+Player B holds: 7H 5D 6S 8H AH | 0 points, High Card, 14,8,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 8H 3C 4S 2H 5H | 0 points, High Card, 8,5,4 high
+Player B holds: QS QH 7S 4H AC | 30 points, One Pair, 12,14,7 high
+B Wins
+
+Same type of hand.
+Player A holds: QS 3C 7S 9S 4H | 0 points, High Card, 12,9,7 high
+Player B holds: 3S AH KS 9D 7C | 0 points, High Card, 14,13,9 high
+B Wins
+
+Different type of hands.
+Player A holds: AD 5S 6S 2H 2D | 30 points, One Pair, 2,14,6 high
+Player B holds: 5H TC 4S 3C 8C | 0 points, High Card, 10,8,5 high
+A Wins
+
+Same type of hand.
+Player A holds: QH TS 6S 4D JS | 0 points, High Card, 12,11,10 high
+Player B holds: KS JH AS 8S 6D | 0 points, High Card, 14,13,11 high
+B Wins
+
+Same type of hand.
+Player A holds: 2C 8S 2S TD 5H | 30 points, One Pair, 2,10,8 high
+Player B holds: AS TC TS 6C KC | 30 points, One Pair, 10,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: KC TS 8H 2H 3H | 0 points, High Card, 13,10,8 high
+Player B holds: 7C 4C 5S TH TD | 30 points, One Pair, 10,7,5 high
+B Wins
+
+Different type of hands.
+Player A holds: KD AD KH 7H 7S | 40 points, Two Pair, 13,7,14 high
+Player B holds: 5D 5H 5S 2D 9C | 30 points, One Pair, 5,9,5 high
+A Wins
+
+Different type of hands.
+Player A holds: AD 9S 3D 7S 8C | 0 points, High Card, 14,9,8 high
+Player B holds: QC 7C 9C KD KS | 30 points, One Pair, 13,12,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 3C QC 9S 8C 4D | 0 points, High Card, 12,9,8 high
+Player B holds: 5C AS QD 6C 2C | 0 points, High Card, 14,12,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 2H KC 8S JD 7S | 0 points, High Card, 13,11,8 high
+Player B holds: AC 8D 5C 2S 4D | 0 points, High Card, 14,8,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 9D QH 3D 2S TC | 0 points, High Card, 12,10,9 high
+Player B holds: 3S KS 3C 9H TD | 30 points, One Pair, 3,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: KD 6S AC 2C 7H | 0 points, High Card, 14,13,7 high
+Player B holds: 5H 3S 6C 6H 8C | 30 points, One Pair, 6,8,5 high
+B Wins
+
+Different type of hands.
+Player A holds: QH TC 8S 6S KH | 0 points, High Card, 13,12,10 high
+Player B holds: TH 4H 5D TS 4D | 40 points, Two Pair, 10,4,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 8C JS 4H 6H 2C | 0 points, High Card, 11,8,6 high
+Player B holds: 2H 7D AC QD 3D | 0 points, High Card, 14,12,7 high
+B Wins
+
+Different type of hands.
+Player A holds: QS KC 6S 2D 5S | 0 points, High Card, 13,12,6 high
+Player B holds: 4H TD 3H JH 4C | 30 points, One Pair, 4,11,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 7S 5H 7H 8H KH | 30 points, One Pair, 7,13,8 high
+Player B holds: 6H QS TH KD 7D | 0 points, High Card, 13,12,10 high
+A Wins
+
+Same type of hand.
+Player A holds: 5H AD KD 7C KH | 30 points, One Pair, 13,14,7 high
+Player B holds: 5S TD 6D 3C 6C | 30 points, One Pair, 6,10,5 high
+A Wins
+
+Different type of hands.
+Player A holds: 8C 9C 5H JD 7C | 0 points, High Card, 11,9,8 high
+Player B holds: KC KH 7H 2H 3S | 30 points, One Pair, 13,7,3 high
+B Wins
+
+Different type of hands.
+Player A holds: 7S 4H AD 4D 8S | 30 points, One Pair, 4,14,8 high
+Player B holds: QS TH 3D 7H 5S | 0 points, High Card, 12,10,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 8D TC KS KD 9S | 30 points, One Pair, 13,10,9 high
+Player B holds: 6D AD JD 5C 2S | 0 points, High Card, 14,11,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 7H 8H 6C QD 2H | 0 points, High Card, 12,8,7 high
+Player B holds: 6H 9D TC 9S 7C | 30 points, One Pair, 9,10,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 8D 6D 4C 7C 6C | 30 points, One Pair, 6,8,7 high
+Player B holds: 3C TH KH JS JH | 30 points, One Pair, 11,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 5S 3S 8S JS 9H | 0 points, High Card, 11,9,8 high
+Player B holds: AS AD 8H 7S KD | 30 points, One Pair, 14,13,8 high
+B Wins
+
+Different type of hands.
+Player A holds: JH 7C 2C KC 5H | 0 points, High Card, 13,11,7 high
+Player B holds: AS AD 9C 9S JS | 40 points, Two Pair, 14,9,11 high
+B Wins
+
+Same type of hand.
+Player A holds: AD AC 2C 6S QD | 30 points, One Pair, 14,12,6 high
+Player B holds: 7C 3H TH KS KD | 30 points, One Pair, 13,10,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 9D JD 4H 8H 4C | 30 points, One Pair, 4,11,9 high
+Player B holds: KH 7S TS 8C KC | 30 points, One Pair, 13,10,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 3S 5S 2H 7S 6H | 0 points, High Card, 7,6,5 high
+Player B holds: 7D KS 5C 6D AD | 0 points, High Card, 14,13,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 5S 8C 9H QS 7H | 0 points, High Card, 12,9,8 high
+Player B holds: 7S 2H 6C 7D TD | 30 points, One Pair, 7,10,6 high
+B Wins
+
+Same type of hand.
+Player A holds: QS 5S TD AC 9D | 0 points, High Card, 14,12,10 high
+Player B holds: KC 3D TC 2D 4D | 0 points, High Card, 13,10,4 high
+A Wins
+
+Same type of hand.
+Player A holds: TD 2H 7D JD QD | 0 points, High Card, 12,11,10 high
+Player B holds: 4C 7H 5D KC 3D | 0 points, High Card, 13,7,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 4C 3H 8S KD QH | 0 points, High Card, 13,12,8 high
+Player B holds: 5S QC 9H TC 5H | 30 points, One Pair, 5,12,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 9C QD TH 5H TS | 30 points, One Pair, 10,12,9 high
+Player B holds: 5C 9H AH QH 2C | 0 points, High Card, 14,12,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 4D 6S 3C AC 6C | 30 points, One Pair, 6,14,4 high
+Player B holds: 3D 2C 2H TD TH | 40 points, Two Pair, 10,2,3 high
+B Wins
+
+Different type of hands.
+Player A holds: AC 9C 5D QC 4D | 0 points, High Card, 14,12,9 high
+Player B holds: AD 8D 6D 8C KC | 30 points, One Pair, 8,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: AD 3C 4H AC 8D | 30 points, One Pair, 14,8,4 high
+Player B holds: 8H 7S 9S TD JC | 60 points, Straight, 11,10,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 4H 9H QH JS 2D | 0 points, High Card, 12,11,9 high
+Player B holds: TH TD TC KD KS | 50 points, Three of a Kind, 10,13,13 high
+B Wins
+
+Different type of hands.
+Player A holds: 5S 6S 9S 8D TH | 0 points, High Card, 10,9,8 high
+Player B holds: AS KH 5H 5C 8S | 30 points, One Pair, 5,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: JD 2S 9S 6S 5S | 0 points, High Card, 11,9,6 high
+Player B holds: 8S 5D 7S 7H 9D | 30 points, One Pair, 7,9,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 5D 8C 4C 9D AD | 0 points, High Card, 14,9,8 high
+Player B holds: TS 2C 7D KD TC | 30 points, One Pair, 10,13,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 8S QS 4D KC 5C | 0 points, High Card, 13,12,8 high
+Player B holds: 8D 4S KH JD KD | 30 points, One Pair, 13,11,8 high
+B Wins
+
+Same type of hand.
+Player A holds: AS 5C AD QH 7D | 30 points, One Pair, 14,12,7 high
+Player B holds: 2H 9S 7H 7C TC | 30 points, One Pair, 7,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 2S 8S JD KH 7S | 0 points, High Card, 13,11,8 high
+Player B holds: 6C 6D AD 5D QC | 30 points, One Pair, 6,14,12 high
+B Wins
+
+Same type of hand.
+Player A holds: 9H 6H 3S 8C 8H | 30 points, One Pair, 8,9,6 high
+Player B holds: AH TC 4H JS TD | 30 points, One Pair, 10,14,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 2C TS 4D 7H 2D | 30 points, One Pair, 2,10,7 high
+Player B holds: QC 9C 5D TH 7C | 0 points, High Card, 12,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 6C 8H QC 5D TS | 0 points, High Card, 12,10,8 high
+Player B holds: JH 5C 5H 9H 4S | 30 points, One Pair, 5,11,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 2D QC 7H AS JS | 0 points, High Card, 14,12,11 high
+Player B holds: 8S 2H 4C 4H 8D | 40 points, Two Pair, 8,4,2 high
+B Wins
+
+Same type of hand.
+Player A holds: JS 6S AC KD 3D | 0 points, High Card, 14,13,11 high
+Player B holds: 3C 4S 7H TH KC | 0 points, High Card, 13,10,7 high
+A Wins
+
+Different type of hands.
+Player A holds: QH KH 6S QS 5S | 30 points, One Pair, 12,13,6 high
+Player B holds: 4H 3C QD 3S 3H | 50 points, Three of a Kind, 3,12,4 high
+B Wins
+
+Same type of hand.
+Player A holds: 7H AS KH 8C 4H | 0 points, High Card, 14,13,8 high
+Player B holds: 9C 5S 3D 6S TS | 0 points, High Card, 10,9,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 9C 7C 3H 5S QD | 0 points, High Card, 12,9,7 high
+Player B holds: 2C 3D AD AC 5H | 30 points, One Pair, 14,5,3 high
+B Wins
+
+Same type of hand.
+Player A holds: JH TD 2D 4C TS | 30 points, One Pair, 10,11,4 high
+Player B holds: 3H KH AD 3S 7S | 30 points, One Pair, 3,14,13 high
+A Wins
+
+Different type of hands.
+Player A holds: AS 4C 5H 4D 6S | 30 points, One Pair, 4,14,6 high
+Player B holds: KD JC 3C 6H 2D | 0 points, High Card, 13,11,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 3H 6S 8C 2D TH | 0 points, High Card, 10,8,6 high
+Player B holds: 4S AH QH AD 5H | 30 points, One Pair, 14,12,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 7C 2S 9H 7H KC | 30 points, One Pair, 7,13,9 high
+Player B holds: 5C 6D 5S 3H JC | 30 points, One Pair, 5,11,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 3C TC 9C 4H QD | 0 points, High Card, 12,10,9 high
+Player B holds: TD JH 6D 9H 5S | 0 points, High Card, 11,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 7C 6S 5C 5D 6C | 40 points, Two Pair, 6,5,7 high
+Player B holds: 4S 7H 9H 6H AH | 0 points, High Card, 14,9,7 high
+A Wins
+
+Different type of hands.
+Player A holds: AD 2H 7D KC 2C | 30 points, One Pair, 2,14,13 high
+Player B holds: 4C 2S 9S 7H 3S | 0 points, High Card, 9,7,4 high
+A Wins
+
+Different type of hands.
+Player A holds: TH 4C 8S 6S 3S | 0 points, High Card, 10,8,6 high
+Player B holds: AD KS AS JH TD | 30 points, One Pair, 14,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 5C TD 4S 4D AD | 30 points, One Pair, 4,14,10 high
+Player B holds: 6S 5D TC 9C 7D | 0 points, High Card, 10,9,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 8H 3S 4D 4S 5S | 30 points, One Pair, 4,8,5 high
+Player B holds: 6H 5C AC 3H 3D | 30 points, One Pair, 3,14,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 9H 3C AC 4S QS | 0 points, High Card, 14,12,9 high
+Player B holds: 8S 9D QH 5H 4D | 0 points, High Card, 12,9,8 high
+A Wins
+
+Same type of hand.
+Player A holds: JC 6C 5H TS AC | 0 points, High Card, 14,11,10 high
+Player B holds: 9C JD 8C 7C QD | 0 points, High Card, 12,11,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 8S 8H 9C JD 2D | 30 points, One Pair, 8,11,9 high
+Player B holds: QC QH 6H 3C 8D | 30 points, One Pair, 12,8,6 high
+B Wins
+
+Different type of hands.
+Player A holds: KS JS 2H 6H 5H | 0 points, High Card, 13,11,6 high
+Player B holds: QH QS 3H 7C 6D | 30 points, One Pair, 12,7,6 high
+B Wins
+
+Same type of hand.
+Player A holds: TC 3H 4S 7H QC | 0 points, High Card, 12,10,7 high
+Player B holds: 2H 3S 8C JS KH | 0 points, High Card, 13,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: AH 8H 5S 4C 9H | 0 points, High Card, 14,9,8 high
+Player B holds: JD 3H 7S JC AC | 30 points, One Pair, 11,14,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 3C 2D 4C 5S 6C | 60 points, Straight, 6,5,4 high
+Player B holds: 4S QS 3S JD 3D | 30 points, One Pair, 3,12,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 5H 2D TC AH KS | 0 points, High Card, 14,13,10 high
+Player B holds: 6D 7H AD 8C 6H | 30 points, One Pair, 6,14,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 6C 7S 3C JD 7C | 30 points, One Pair, 7,11,6 high
+Player B holds: 8H KS KH AH 6D | 30 points, One Pair, 13,14,8 high
+B Wins
+
+Different type of hands.
+Player A holds: AH 7D 3H 8H 8S | 30 points, One Pair, 8,14,7 high
+Player B holds: 7H QS 5H 9D 2D | 0 points, High Card, 12,9,7 high
+A Wins
+
+Different type of hands.
+Player A holds: JD AC 4H 7S 8S | 0 points, High Card, 14,11,8 high
+Player B holds: 9S KS AS 9D QH | 30 points, One Pair, 9,14,13 high
+B Wins
+
+Same type of hand.
+Player A holds: 7S 2C 8S 5S JH | 0 points, High Card, 11,8,7 high
+Player B holds: QS JC AH KD 4C | 0 points, High Card, 14,13,12 high
+B Wins
+
+Different type of hands.
+Player A holds: AH 2S 9H 4H 8D | 0 points, High Card, 14,9,8 high
+Player B holds: TS TD 6H QH JD | 30 points, One Pair, 10,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 4H JC 3H QS 6D | 0 points, High Card, 12,11,6 high
+Player B holds: 7S 9C 8S 9D 8D | 40 points, Two Pair, 9,8,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 5H TD 4S 9S 4C | 30 points, One Pair, 4,10,9 high
+Player B holds: 8C 8D 7H 3H 3D | 40 points, Two Pair, 8,3,7 high
+B Wins
+
+Different type of hands.
+Player A holds: QS KH 3S 2C 2S | 30 points, One Pair, 2,13,12 high
+Player B holds: 3C 7S TD 4S QD | 0 points, High Card, 12,10,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 7C TD 4D 5S KH | 0 points, High Card, 13,10,7 high
+Player B holds: AC AS 7H 4C 6C | 30 points, One Pair, 14,7,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 2S 5H 6D JD 9H | 0 points, High Card, 11,9,6 high
+Player B holds: QS 8S 2C 2H TD | 30 points, One Pair, 2,12,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 2S TS 6H 9H 7S | 0 points, High Card, 10,9,7 high
+Player B holds: 4H JC 4C 5D 5S | 40 points, Two Pair, 5,4,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 2C 5H 7D 4H 3S | 0 points, High Card, 7,5,4 high
+Player B holds: QH JC JS 6D 8H | 30 points, One Pair, 11,12,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 4C QH 7C QD 3S | 30 points, One Pair, 12,7,4 high
+Player B holds: AD TH 8S 5S TS | 30 points, One Pair, 10,14,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 9H TC 2S TD JC | 30 points, One Pair, 10,11,9 high
+Player B holds: 7D 3S 3D TH QH | 30 points, One Pair, 3,12,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 7D 4C 8S 5C JH | 0 points, High Card, 11,8,7 high
+Player B holds: 8H 6S 3S KC 3H | 30 points, One Pair, 3,13,8 high
+B Wins
+
+Same type of hand.
+Player A holds: JC 3H KH TC QH | 0 points, High Card, 13,12,11 high
+Player B holds: TH 6H 2C AC 5H | 0 points, High Card, 14,10,6 high
+B Wins
+
+Different type of hands.
+Player A holds: QS 2H 9D 2C AS | 30 points, One Pair, 2,14,12 high
+Player B holds: 6S 6C 2S 8C 8S | 40 points, Two Pair, 8,6,2 high
+B Wins
+
+Same type of hand.
+Player A holds: 9H 7D QC TH 4H | 0 points, High Card, 12,10,9 high
+Player B holds: KD QS AC 7S 3C | 0 points, High Card, 14,13,12 high
+B Wins
+
+Same type of hand.
+Player A holds: 4D JH 6S 5S 8H | 0 points, High Card, 11,8,6 high
+Player B holds: KS 9S QC 3S AS | 0 points, High Card, 14,13,12 high
+B Wins
+
+Different type of hands.
+Player A holds: JD 2D 6S 7S TC | 0 points, High Card, 11,10,7 high
+Player B holds: 9H KC 3H 7D KD | 30 points, One Pair, 13,9,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 2H KH 7C 4D 4S | 30 points, One Pair, 4,13,7 high
+Player B holds: 3H JS QD 7D KC | 0 points, High Card, 13,12,11 high
+A Wins
+
+Same type of hand.
+Player A holds: 4C JC AS 9D 3C | 0 points, High Card, 14,11,9 high
+Player B holds: JS 6C 8H QD 4D | 0 points, High Card, 12,11,8 high
+A Wins
+
+Different type of hands.
+Player A holds: AH JS 3S 6C 4C | 0 points, High Card, 14,11,6 high
+Player B holds: 3D JH 6D 9C 9H | 30 points, One Pair, 9,11,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 9H 2D 8C 7H 5S | 0 points, High Card, 9,8,7 high
+Player B holds: KS 6H 9C 2S TC | 0 points, High Card, 13,10,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 6C 8C AD 7H 6H | 30 points, One Pair, 6,14,8 high
+Player B holds: 3D KH AS 5D TH | 0 points, High Card, 14,13,10 high
+A Wins
+
+Same type of hand.
+Player A holds: KS 8C 3S TS 8S | 30 points, One Pair, 8,13,10 high
+Player B holds: 4D 5S 9S 6C 4H | 30 points, One Pair, 4,9,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 9H 4S 4H 5C 7D | 30 points, One Pair, 4,9,7 high
+Player B holds: KC 2D 2H 9D JH | 30 points, One Pair, 2,13,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 5C JS TC 9D 9H | 30 points, One Pair, 9,11,10 high
+Player B holds: 5H 7S KH JC 6S | 0 points, High Card, 13,11,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 7C 9H 8H 4D JC | 0 points, High Card, 11,9,8 high
+Player B holds: KH JD 2H TD TC | 30 points, One Pair, 10,13,11 high
+B Wins
+
+Same type of hand.
+Player A holds: 8H 6C 2H 2C KH | 30 points, One Pair, 2,13,8 high
+Player B holds: 6H 9D QS QH 5H | 30 points, One Pair, 12,9,6 high
+B Wins
+
+Different type of hands.
+Player A holds: AC 7D 2S 3D QD | 0 points, High Card, 14,12,7 high
+Player B holds: JC 2D 8D JD JH | 50 points, Three of a Kind, 11,8,2 high
+B Wins
+
+Different type of hands.
+Player A holds: 2H JC 2D 7H 2C | 50 points, Three of a Kind, 2,11,7 high
+Player B holds: 3C 8D KD TD 4H | 0 points, High Card, 13,10,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 3S 4H 6D 8D TS | 0 points, High Card, 10,8,6 high
+Player B holds: 3H TD 3D 6H TH | 40 points, Two Pair, 10,3,6 high
+B Wins
+
+Different type of hands.
+Player A holds: JH JC 3S AC QH | 30 points, One Pair, 11,14,12 high
+Player B holds: 9H 7H 8S QC 2C | 0 points, High Card, 12,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 7H TD QS 4S 8S | 0 points, High Card, 12,10,8 high
+Player B holds: 9C 2S 5D 4D 2H | 30 points, One Pair, 2,9,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 3D TS 3H 2S QC | 30 points, One Pair, 3,12,10 high
+Player B holds: 8H 6H KC JC KS | 30 points, One Pair, 13,11,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 5D JD 7D TC 8C | 0 points, High Card, 11,10,8 high
+Player B holds: 6C 9S 3D 8D AC | 0 points, High Card, 14,9,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 8H 6H JH 6C 5D | 30 points, One Pair, 6,11,8 high
+Player B holds: 8D 8S 4H AD 2C | 30 points, One Pair, 8,14,4 high
+B Wins
+
+Same type of hand.
+Player A holds: 9D 4H 2D 2C 3S | 30 points, One Pair, 2,9,4 high
+Player B holds: TS AS TC 3C 5D | 30 points, One Pair, 10,14,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 4D TH 5H KS QS | 0 points, High Card, 13,12,10 high
+Player B holds: 6C 4S 2H 3D AD | 0 points, High Card, 14,6,4 high
+B Wins
+
+Same type of hand.
+Player A holds: 5C KC 6H 2C 5S | 30 points, One Pair, 5,13,6 high
+Player B holds: 3C 4D 2D 9H 9S | 30 points, One Pair, 9,4,3 high
+B Wins
+
+Different type of hands.
+Player A holds: JD 4C 3H TH QH | 0 points, High Card, 12,11,10 high
+Player B holds: 9H 5S AH 8S AC | 30 points, One Pair, 14,9,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 7D 9S 6S 2H TD | 0 points, High Card, 10,9,7 high
+Player B holds: 9C 4H 8H QS 4C | 30 points, One Pair, 4,12,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 3C 6H 5D 4H 8C | 0 points, High Card, 8,6,5 high
+Player B holds: 9C KC 6S QD QS | 30 points, One Pair, 12,13,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 3S 9H KD TC 2D | 0 points, High Card, 13,10,9 high
+Player B holds: JS 8C 6S 4H 4S | 30 points, One Pair, 4,11,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 2S 4C 8S QS 6H | 0 points, High Card, 12,8,6 high
+Player B holds: KH 3H TH 8C 5D | 0 points, High Card, 13,10,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 2C KH 5S 3S 7S | 0 points, High Card, 13,7,5 high
+Player B holds: 7H 6C 9D QD 8D | 0 points, High Card, 12,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 8H KS AC 2D KH | 30 points, One Pair, 13,14,8 high
+Player B holds: TS 6C JS KC 7H | 0 points, High Card, 13,11,10 high
+A Wins
+
+Same type of hand.
+Player A holds: 9C KS 5C TD QC | 0 points, High Card, 13,12,10 high
+Player B holds: AH 6C 5H 9S 7C | 0 points, High Card, 14,9,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 5D 4D 3H 4H 6S | 30 points, One Pair, 4,6,5 high
+Player B holds: 7C 7S AH QD TD | 30 points, One Pair, 7,14,12 high
+B Wins
+
+Same type of hand.
+Player A holds: 2H 7D QC 6S TC | 0 points, High Card, 12,10,7 high
+Player B holds: TS AH 7S 9D 3H | 0 points, High Card, 14,10,9 high
+B Wins
+
+Different type of hands.
+Player A holds: TH 5H QD 9S KS | 0 points, High Card, 13,12,10 high
+Player B holds: 7S 7C 6H 8C TD | 30 points, One Pair, 7,10,8 high
+B Wins
+
+Same type of hand.
+Player A holds: TH 2D 4D QC 5C | 0 points, High Card, 12,10,5 high
+Player B holds: 7D JD AH 9C 4H | 0 points, High Card, 14,11,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 4H 3H AH 8D 6H | 0 points, High Card, 14,8,6 high
+Player B holds: QC QH 9H 2H 2C | 40 points, Two Pair, 12,2,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 2D AD 4C TS 6H | 0 points, High Card, 14,10,6 high
+Player B holds: 7S TH 4H QS TD | 30 points, One Pair, 10,12,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 3C KD 2H 3H QS | 30 points, One Pair, 3,13,12 high
+Player B holds: JD TC QC 5D 8H | 0 points, High Card, 12,11,10 high
+A Wins
+
+Different type of hands.
+Player A holds: KS JC QD TH 9S | 60 points, Straight, 13,12,11 high
+Player B holds: KD 8D 8C 2D 9C | 30 points, One Pair, 8,13,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 3C QD KD 6D 4D | 0 points, High Card, 13,12,6 high
+Player B holds: 8D AH AD QC 8S | 40 points, Two Pair, 14,8,12 high
+B Wins
+
+Same type of hand.
+Player A holds: 8H 3S 9D 2S 3H | 30 points, One Pair, 3,9,8 high
+Player B holds: KS 6H 4C 7C KC | 30 points, One Pair, 13,7,6 high
+B Wins
+
+Same type of hand.
+Player A holds: TH 9S 5C 3D 7D | 0 points, High Card, 10,9,7 high
+Player B holds: 6H AC 7S 4D 2C | 0 points, High Card, 14,7,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 5C 3D JD 4D 2D | 0 points, High Card, 11,5,4 high
+Player B holds: 6D 5H 9H 4C KH | 0 points, High Card, 13,9,6 high
+B Wins
+
+Different type of hands.
+Player A holds: AS 7H TD 6C 2H | 0 points, High Card, 14,10,7 high
+Player B holds: 3D QD KS 4C 4S | 30 points, One Pair, 4,13,12 high
+B Wins
+
+Different type of hands.
+Player A holds: JC 3C AC 7C JD | 30 points, One Pair, 11,14,7 high
+Player B holds: JS 8H 9S QC 5D | 0 points, High Card, 12,11,9 high
+A Wins
+
+Same type of hand.
+Player A holds: JD 6S 5S 2H AS | 0 points, High Card, 14,11,6 high
+Player B holds: 8C 7D 5H JH 3D | 0 points, High Card, 11,8,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 8D TC 5S 9S 8S | 30 points, One Pair, 8,10,9 high
+Player B holds: 3H JC 5H 7S AS | 0 points, High Card, 14,11,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 5C TD 3D 7D 4H | 0 points, High Card, 10,7,5 high
+Player B holds: 8D 7H 4D 5D JS | 0 points, High Card, 11,8,7 high
+B Wins
+
+Same type of hand.
+Player A holds: QS 9C KS TD 2S | 0 points, High Card, 13,12,10 high
+Player B holds: 8S 5C 2H 4H AS | 0 points, High Card, 14,8,5 high
+B Wins
+
+Same type of hand.
+Player A holds: TH 7S 4H 7D 3H | 30 points, One Pair, 7,10,4 high
+Player B holds: JD KD 5D 2S KC | 30 points, One Pair, 13,11,5 high
+B Wins
+
+Different type of hands.
+Player A holds: JD 7H 4S 8H 4C | 30 points, One Pair, 4,11,8 high
+Player B holds: JS 6H QH 5S 4H | 0 points, High Card, 12,11,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 2C QS 8C 5S 3H | 0 points, High Card, 12,8,5 high
+Player B holds: QC 2S 6C QD AD | 30 points, One Pair, 12,14,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 8C 3D JD TC 4H | 0 points, High Card, 11,10,8 high
+Player B holds: 2H AD 5S AC 2S | 40 points, Two Pair, 14,2,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 5D 2C JS 2D AD | 30 points, One Pair, 2,14,11 high
+Player B holds: 9D 3D 4C 4S JH | 30 points, One Pair, 4,11,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 8D 5H 5D 6H 7S | 30 points, One Pair, 5,8,7 high
+Player B holds: 4D KS 9D TD JD | 0 points, High Card, 13,11,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 3D 6D 9C 2S AS | 0 points, High Card, 14,9,6 high
+Player B holds: 7D 5S 5C 8H JD | 30 points, One Pair, 5,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 7C 8S 3S 6S 5H | 0 points, High Card, 8,7,6 high
+Player B holds: JD TC AD 7H 7S | 30 points, One Pair, 7,14,11 high
+B Wins
+
+Same type of hand.
+Player A holds: 2S 9D TS 4D AC | 0 points, High Card, 14,10,9 high
+Player B holds: 8D 6C QD JD 3H | 0 points, High Card, 12,11,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 9S KH 2C 3C AC | 0 points, High Card, 14,13,9 high
+Player B holds: 3D 5H 6H 8D 5D | 30 points, One Pair, 5,8,6 high
+B Wins
+
+Different type of hands.
+Player A holds: KS 3D 2D 6S AS | 0 points, High Card, 14,13,6 high
+Player B holds: 4C 2S 7C 7H KH | 30 points, One Pair, 7,13,4 high
+B Wins
+
+Same type of hand.
+Player A holds: AC 2H 3S JC 5C | 0 points, High Card, 14,11,5 high
+Player B holds: QH 4D 2D 5H 7S | 0 points, High Card, 12,7,5 high
+A Wins
+
+Different type of hands.
+Player A holds: TS AS JD 8C 6H | 0 points, High Card, 14,11,10 high
+Player B holds: JC 8S 5S 2C 5D | 30 points, One Pair, 5,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 7S QH 7H 6C QC | 40 points, Two Pair, 12,7,6 high
+Player B holds: 8H 2D 7C JD 2S | 30 points, One Pair, 2,11,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 2C QD 2S 2H JC | 50 points, Three of a Kind, 2,12,11 high
+Player B holds: 9C 5D 2D JD JH | 30 points, One Pair, 11,9,5 high
+A Wins
+
+Same type of hand.
+Player A holds: 7C 5C 9C 8S 7D | 30 points, One Pair, 7,9,8 high
+Player B holds: 6D 8D 6C 9S JH | 30 points, One Pair, 6,11,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 2C AD 6S 5H 3S | 0 points, High Card, 14,6,5 high
+Player B holds: KS 7S 9D KH 4C | 30 points, One Pair, 13,9,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 7H 6C 2C 5C TH | 0 points, High Card, 10,7,6 high
+Player B holds: 9D 8D 3S QC AH | 0 points, High Card, 14,12,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 5S KC 6H TC 5H | 30 points, One Pair, 5,13,10 high
+Player B holds: 8S TH 6D 3C AH | 0 points, High Card, 14,10,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 9C KD 4H AD TD | 0 points, High Card, 14,13,10 high
+Player B holds: 9S 4S 7D 6H 5D | 0 points, High Card, 9,7,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 7H 5C 5H 6D AS | 30 points, One Pair, 5,14,7 high
+Player B holds: 4C KD KH 4H 9D | 40 points, Two Pair, 13,4,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 3C 2S 5C 6C JD | 0 points, High Card, 11,6,5 high
+Player B holds: QS 2H 9D 7D 3H | 0 points, High Card, 12,9,7 high
+B Wins
+
+Different type of hands.
+Player A holds: AC 2S 6S 7S JS | 0 points, High Card, 14,11,7 high
+Player B holds: QD 5C QS 6H AD | 30 points, One Pair, 12,14,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 5H TH QC 7H TC | 30 points, One Pair, 10,12,7 high
+Player B holds: 3S 7C 6D KC 3D | 30 points, One Pair, 3,13,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 4H 3D QC 9S 8H | 0 points, High Card, 12,9,8 high
+Player B holds: 2C 3S JC KS 5C | 0 points, High Card, 13,11,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 4S 6S 2C 6H 8S | 30 points, One Pair, 6,8,4 high
+Player B holds: 3S 3D 9H 3H JS | 50 points, Three of a Kind, 3,11,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 4S 8C 4D 2D 8H | 40 points, Two Pair, 8,4,2 high
+Player B holds: 9H 7D 9D AH TS | 30 points, One Pair, 9,14,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 9S 2C 9H 4C 8D | 30 points, One Pair, 9,8,4 high
+Player B holds: AS 7D 3D 6D 5S | 0 points, High Card, 14,7,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 6S 4C 7H 8C 3H | 0 points, High Card, 8,7,6 high
+Player B holds: 5H JC AH 9D 9C | 30 points, One Pair, 9,14,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 2S 7C 5S JD 8C | 0 points, High Card, 11,8,7 high
+Player B holds: 3S 3D 4D 7D 6S | 30 points, One Pair, 3,7,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 3C KC 4S 5D 7D | 0 points, High Card, 13,7,5 high
+Player B holds: 3D JD 7H 3H 4H | 30 points, One Pair, 3,11,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 9C 9H 4H 4D TH | 40 points, Two Pair, 9,4,10 high
+Player B holds: 6D QD 8S 9S 7S | 0 points, High Card, 12,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 2H AC 8S 4S AD | 30 points, One Pair, 14,8,4 high
+Player B holds: 8C 2C AH 7D TC | 0 points, High Card, 14,10,8 high
+A Wins
+
+Different type of hands.
+Player A holds: TS 9H 3C AD KS | 0 points, High Card, 14,13,10 high
+Player B holds: TC 3D 8C 8H JD | 30 points, One Pair, 8,11,10 high
+B Wins
+
+Different type of hands.
+Player A holds: QC 8D 2C 3C 7D | 0 points, High Card, 12,8,7 high
+Player B holds: 7C JD 9H 9C 6C | 30 points, One Pair, 9,11,7 high
+B Wins
+
+Different type of hands.
+Player A holds: AH 6S JS JH 5D | 30 points, One Pair, 11,14,6 high
+Player B holds: AS QC 2C JD TD | 0 points, High Card, 14,12,11 high
+A Wins
+
+Same type of hand.
+Player A holds: 9H KD 2H 5D 2D | 30 points, One Pair, 2,13,9 high
+Player B holds: 3S 7D TC AH TS | 30 points, One Pair, 10,14,7 high
+B Wins
+
+Different type of hands.
+Player A holds: TD 8H AS 5D AH | 30 points, One Pair, 14,10,8 high
+Player B holds: QC AC 6S TC 5H | 0 points, High Card, 14,12,10 high
+A Wins
+
+Different type of hands.
+Player A holds: KS 4S 7H 4D 8D | 30 points, One Pair, 4,13,8 high
+Player B holds: 9C TC 2H 6H 3H | 0 points, High Card, 10,9,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 3H KD 4S QD QH | 30 points, One Pair, 12,13,4 high
+Player B holds: 3D 8H 8C TD 7S | 30 points, One Pair, 8,10,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 8S JD TC AH JS | 30 points, One Pair, 11,14,10 high
+Player B holds: QS 2D KH KS 4D | 30 points, One Pair, 13,12,4 high
+B Wins
+
+Different type of hands.
+Player A holds: 3C AD JC KD JS | 30 points, One Pair, 11,14,13 high
+Player B holds: KH 4S TH 9H 2C | 0 points, High Card, 13,10,9 high
+A Wins
+
+Same type of hand.
+Player A holds: QC 5S JS 9S KS | 0 points, High Card, 13,12,11 high
+Player B holds: AS 7C QD 2S JD | 0 points, High Card, 14,12,11 high
+B Wins
+
+Same type of hand.
+Player A holds: KC 5S QS 3S 2D | 0 points, High Card, 13,12,5 high
+Player B holds: AC 5D 9H 8H KS | 0 points, High Card, 14,13,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 6H 9C TC AD 2C | 0 points, High Card, 14,10,9 high
+Player B holds: 6D 5S JD 6C 7C | 30 points, One Pair, 6,11,7 high
+B Wins
+
+Different type of hands.
+Player A holds: QS KH TD QD 2C | 30 points, One Pair, 12,13,10 high
+Player B holds: 3H 8S 2S QC AH | 0 points, High Card, 14,12,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 9D 9H JH TC QH | 30 points, One Pair, 9,12,11 high
+Player B holds: 3C 2S JS 5C 7H | 0 points, High Card, 11,7,5 high
+A Wins
+
+Same type of hand.
+Player A holds: 6C 3S 3D 2S 4S | 30 points, One Pair, 3,6,4 high
+Player B holds: QD 2D TH 5D 2C | 30 points, One Pair, 2,12,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 2D 6H 6D 2S JC | 40 points, Two Pair, 6,2,11 high
+Player B holds: QH AS 7H 4H KH | 0 points, High Card, 14,13,12 high
+A Wins
+
+Different type of hands.
+Player A holds: 5H 6S KS AD TC | 0 points, High Card, 14,13,10 high
+Player B holds: TS 7C AC 4S 4H | 30 points, One Pair, 4,14,10 high
+B Wins
+
+Different type of hands.
+Player A holds: AD 3C 4H QS 8C | 0 points, High Card, 14,12,8 high
+Player B holds: 9D KS 2H 2D 4D | 30 points, One Pair, 2,13,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 4S 9D 6C 6D 9C | 40 points, Two Pair, 9,6,4 high
+Player B holds: AC 8D 3H 7H KD | 0 points, High Card, 14,13,8 high
+A Wins
+
+Different type of hands.
+Player A holds: JC AH 6C TS JD | 30 points, One Pair, 11,14,10 high
+Player B holds: 6D AD 3S 5D QD | 0 points, High Card, 14,12,6 high
+A Wins
+
+Different type of hands.
+Player A holds: JC JH JD 3S 7S | 50 points, Three of a Kind, 11,7,3 high
+Player B holds: 8S JS QC 3H 4S | 0 points, High Card, 12,11,8 high
+A Wins
+
+Different type of hands.
+Player A holds: JD TH 5C 2C AD | 0 points, High Card, 14,11,10 high
+Player B holds: JS 7H 9S 2H 7S | 30 points, One Pair, 7,11,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 8D 3S JH 4D QC | 0 points, High Card, 12,11,8 high
+Player B holds: AS JD 2C KC 6H | 0 points, High Card, 14,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 2C AC 5H KD 5S | 30 points, One Pair, 5,14,13 high
+Player B holds: 7H QD JH AH 2D | 0 points, High Card, 14,12,11 high
+A Wins
+
+Same type of hand.
+Player A holds: JC QH 8D 8S TC | 30 points, One Pair, 8,12,11 high
+Player B holds: 5H 5C AH 8C 6C | 30 points, One Pair, 5,14,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 3H JS 8S QD JH | 30 points, One Pair, 11,12,8 high
+Player B holds: 3C 4H 6D 5C 3S | 30 points, One Pair, 3,6,5 high
+A Wins
+
+Different type of hands.
+Player A holds: 6D 4S 4C AH 5H | 30 points, One Pair, 4,14,6 high
+Player B holds: 5S 3H JD 7C 8D | 0 points, High Card, 11,8,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 8H AH 2H 3H JS | 0 points, High Card, 14,11,8 high
+Player B holds: 3C 7D QC 4H KD | 0 points, High Card, 13,12,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 6S 2H KD 5H 8H | 0 points, High Card, 13,8,6 high
+Player B holds: 2D 3C 8S 7S QD | 0 points, High Card, 12,8,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 2S 7S KC QC AH | 0 points, High Card, 14,13,12 high
+Player B holds: TC QS 6D 4C 8D | 0 points, High Card, 12,10,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 5S 9H 2C 3S QD | 0 points, High Card, 12,9,5 high
+Player B holds: 7S 6C 2H 7C 9D | 30 points, One Pair, 7,9,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 3C 6C 5C 5S JD | 30 points, One Pair, 5,11,6 high
+Player B holds: JC KS 3S 5D TS | 0 points, High Card, 13,11,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 7C KS 6S 5S 2S | 0 points, High Card, 13,7,6 high
+Player B holds: 2D TC 2H 5H QS | 30 points, One Pair, 2,12,10 high
+B Wins
+
+Different type of hands.
+Player A holds: AS 7H 6S TS 5H | 0 points, High Card, 14,10,7 high
+Player B holds: 9S 9D 3C KD 2H | 30 points, One Pair, 9,13,3 high
+B Wins
+
+Different type of hands.
+Player A holds: 4S JS QS 3S 4H | 30 points, One Pair, 4,12,11 high
+Player B holds: 7C 2S AC 6S 9D | 0 points, High Card, 14,9,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 8C JH 2H 5H 7C | 0 points, High Card, 11,8,7 high
+Player B holds: 5D QH QS KH QC | 30 points, One Pair, 12,13,12 high
+B Wins
+
+Same type of hand.
+Player A holds: 3S TD 3H 7C KC | 30 points, One Pair, 3,13,10 high
+Player B holds: 8D 5H 8S KH 8C | 30 points, One Pair, 8,13,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 4H KH JD TS 3C | 0 points, High Card, 13,11,10 high
+Player B holds: 7H AS QC JS 5S | 0 points, High Card, 14,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: AH 9D 2C 8D 4D | 0 points, High Card, 14,9,8 high
+Player B holds: 2D 6H 6C KC 6S | 30 points, One Pair, 6,13,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 2S 6H 9D 3S 7H | 0 points, High Card, 9,7,6 high
+Player B holds: 4D KH 8H KD 3D | 30 points, One Pair, 13,8,4 high
+B Wins
+
+Same type of hand.
+Player A holds: 9C TC AC JH KH | 0 points, High Card, 14,13,11 high
+Player B holds: 4D JD 5H TD 3S | 0 points, High Card, 11,10,5 high
+A Wins
+
+Different type of hands.
+Player A holds: 7S 4H 9D AS 4C | 30 points, One Pair, 4,14,9 high
+Player B holds: 7D QS 9S 2S KH | 0 points, High Card, 13,12,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 3S 8D 8S KS 8C | 30 points, One Pair, 8,13,8 high
+Player B holds: JC 5C KH 2H 5D | 30 points, One Pair, 5,13,11 high
+A Wins
+
+Same type of hand.
+Player A holds: 8S QH 2C 4D KC | 0 points, High Card, 13,12,8 high
+Player B holds: JS QC 9D AC 6H | 0 points, High Card, 14,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 8S 8C 7C JS JD | 40 points, Two Pair, 11,8,7 high
+Player B holds: 6S 4C 9C AC 4S | 30 points, One Pair, 4,14,9 high
+A Wins
+
+Different type of hands.
+Player A holds: QH 5D 2C 7D JC | 0 points, High Card, 12,11,7 high
+Player B holds: 8S 2D JS JH 4C | 30 points, One Pair, 11,8,4 high
+B Wins
+
+Same type of hand.
+Player A holds: JS 4C 7S TS JH | 30 points, One Pair, 11,10,7 high
+Player B holds: KC KH 5H QD 4S | 30 points, One Pair, 13,12,5 high
+B Wins
+
+Different type of hands.
+Player A holds: QD 8C 8D 2D 6S | 30 points, One Pair, 8,12,6 high
+Player B holds: TD 9D AC QH 5S | 0 points, High Card, 14,12,10 high
+A Wins
+
+Different type of hands.
+Player A holds: QH QC JS 3D 3C | 40 points, Two Pair, 12,3,11 high
+Player B holds: 5C 4H KH 8S 7H | 0 points, High Card, 13,8,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 7C 2C 5S JC 8S | 0 points, High Card, 11,8,7 high
+Player B holds: 3H QC 5D 2H KC | 0 points, High Card, 13,12,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 5S 8D KD 6H 4H | 0 points, High Card, 13,8,6 high
+Player B holds: QD QH 6D AH 3D | 30 points, One Pair, 12,14,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 7S KS 6C 2S 4D | 0 points, High Card, 13,7,6 high
+Player B holds: AC QS 5H TS JD | 0 points, High Card, 14,12,11 high
+B Wins
+
+Same type of hand.
+Player A holds: 7C 2D TC 5D QS | 0 points, High Card, 12,10,7 high
+Player B holds: AC JS QC 6C KC | 0 points, High Card, 14,13,12 high
+B Wins
+
+Same type of hand.
+Player A holds: 2C KS 4D 3H TS | 0 points, High Card, 13,10,4 high
+Player B holds: 8S AD 4H 7S 9S | 0 points, High Card, 14,9,8 high
+B Wins
+
+Different type of hands.
+Player A holds: QD 9H QH 5H 4H | 30 points, One Pair, 12,9,5 high
+Player B holds: 4D KH 3S JC AD | 0 points, High Card, 14,13,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 4D AC KC 8D 6D | 0 points, High Card, 14,13,8 high
+Player B holds: 4C 2D KH 2C JD | 30 points, One Pair, 2,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 2C 9H 2D AH 3H | 30 points, One Pair, 2,14,9 high
+Player B holds: 6D 9C 7D TC KS | 0 points, High Card, 13,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 8C 3H KD 7C 5C | 0 points, High Card, 13,8,7 high
+Player B holds: 2S 4S 5H AS AH | 30 points, One Pair, 14,5,4 high
+B Wins
+
+Same type of hand.
+Player A holds: TH JD 4H KD 3H | 0 points, High Card, 13,11,10 high
+Player B holds: TC 5C 3S AC KH | 0 points, High Card, 14,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 6D 7H AH 7S QC | 30 points, One Pair, 7,14,12 high
+Player B holds: 6H 2D TD JD AS | 0 points, High Card, 14,11,10 high
+A Wins
+
+Same type of hand.
+Player A holds: JH 5D 7H TC 9S | 0 points, High Card, 11,10,9 high
+Player B holds: 7D JC AS 5S KH | 0 points, High Card, 14,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 2H 8C AD TH 6H | 0 points, High Card, 14,10,8 high
+Player B holds: QD KD 9H 6S 6C | 30 points, One Pair, 6,13,12 high
+B Wins
+
+Different type of hands.
+Player A holds: QH KC 9D 4D 3S | 0 points, High Card, 13,12,9 high
+Player B holds: JS JH 4H 2C 9H | 30 points, One Pair, 11,9,4 high
+B Wins
+
+Different type of hands.
+Player A holds: TC 7H KH 4H JC | 0 points, High Card, 13,11,10 high
+Player B holds: 7D 9S 3H QS 7S | 30 points, One Pair, 7,12,9 high
+B Wins
+
+Different type of hands.
+Player A holds: AD 7D JH 6C 7H | 30 points, One Pair, 7,14,11 high
+Player B holds: 4H 3S 3H 4D QH | 40 points, Two Pair, 4,3,12 high
+B Wins
+
+Same type of hand.
+Player A holds: JD 2H 5C AS 6C | 0 points, High Card, 14,11,6 high
+Player B holds: QC 4D 3C TC JH | 0 points, High Card, 12,11,10 high
+A Wins
+
+Different type of hands.
+Player A holds: AC JD 3H 6H 4C | 0 points, High Card, 14,11,6 high
+Player B holds: JC AD 7D 7H 9H | 30 points, One Pair, 7,14,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 4H TC TS 2C 8C | 30 points, One Pair, 10,8,4 high
+Player B holds: 6S KS 2H JD 9S | 0 points, High Card, 13,11,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 4C 3H QS QC 9S | 30 points, One Pair, 12,9,4 high
+Player B holds: 9H 6D KC 9D 9C | 30 points, One Pair, 9,13,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 5C AD 8C 2C QH | 0 points, High Card, 14,12,8 high
+Player B holds: TH QD JC 8D 8H | 30 points, One Pair, 8,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: QC 2C 2S QD 9C | 40 points, Two Pair, 12,2,9 high
+Player B holds: 4D 3S 8D JH QS | 0 points, High Card, 12,11,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 9D 3S 2C 7S 7C | 30 points, One Pair, 7,9,3 high
+Player B holds: JC TD 3C TC 9H | 30 points, One Pair, 10,11,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 3C TS 8H 5C 4C | 0 points, High Card, 10,8,5 high
+Player B holds: 2C 6S 8D 7C 4H | 0 points, High Card, 8,7,6 high
+A Wins
+
+Different type of hands.
+Player A holds: KS 7H 2H TC 4H | 0 points, High Card, 13,10,7 high
+Player B holds: 2C 3S AS AH QS | 30 points, One Pair, 14,12,3 high
+B Wins
+
+Different type of hands.
+Player A holds: 8C 2D 2H 2C 4S | 50 points, Three of a Kind, 2,8,4 high
+Player B holds: 4C 6S 7D 5S 3S | 60 points, Straight, 7,6,5 high
+B Wins
+
+Same type of hand.
+Player A holds: TH QC 5D TD 3C | 30 points, One Pair, 10,12,5 high
+Player B holds: QS KD KC KS AS | 30 points, One Pair, 13,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: 4D AH KD 9H KS | 30 points, One Pair, 13,14,9 high
+Player B holds: 5C 4C 6H JC 7S | 0 points, High Card, 11,7,6 high
+A Wins
+
+Same type of hand.
+Player A holds: KC 4H 5C QS TC | 0 points, High Card, 13,12,10 high
+Player B holds: 2H JC 9S AH QH | 0 points, High Card, 14,12,11 high
+B Wins
+
+Same type of hand.
+Player A holds: 4S 9H 3H 5H 3C | 30 points, One Pair, 3,9,5 high
+Player B holds: QD 2H QC JH 8H | 30 points, One Pair, 12,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 5D AS 7H 2C 3D | 0 points, High Card, 14,7,5 high
+Player B holds: JH 6H 4C 6S 7D | 30 points, One Pair, 6,11,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 9C JD 9H AH JS | 40 points, Two Pair, 11,9,14 high
+Player B holds: 8S QH 3H KS 8H | 30 points, One Pair, 8,13,12 high
+A Wins
+
+Different type of hands.
+Player A holds: 3S AC QC TS 4D | 0 points, High Card, 14,12,10 high
+Player B holds: AD 3D AH 8S 9H | 30 points, One Pair, 14,9,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 7H 3H QS 9C 9S | 30 points, One Pair, 9,12,7 high
+Player B holds: 5H JH JS AH AC | 40 points, Two Pair, 14,11,5 high
+B Wins
+
+Same type of hand.
+Player A holds: 8D 3C JD 2H AC | 0 points, High Card, 14,11,8 high
+Player B holds: 9C 7H 5S 4D 8H | 0 points, High Card, 9,8,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 7C JH 9H 6C JS | 30 points, One Pair, 11,9,7 high
+Player B holds: 9S 7H 8C 9D 4H | 30 points, One Pair, 9,8,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 2D AS 9S 6H 4D | 0 points, High Card, 14,9,6 high
+Player B holds: JS JH 9H AD QD | 30 points, One Pair, 11,14,12 high
+B Wins
+
+Same type of hand.
+Player A holds: 6H 7S JH KH AH | 0 points, High Card, 14,13,11 high
+Player B holds: 7H TD 5S 6S 2C | 0 points, High Card, 10,7,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 8H JH 6S 5H 5S | 30 points, One Pair, 5,11,8 high
+Player B holds: 9D TC 4C QC 9S | 30 points, One Pair, 9,12,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 7D 2C KD 3H 5H | 0 points, High Card, 13,7,5 high
+Player B holds: AS QD 7H JS 4D | 0 points, High Card, 14,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: TS QH 6C 8H TH | 30 points, One Pair, 10,12,8 high
+Player B holds: 5H 3C 3H 9C 9D | 40 points, Two Pair, 9,3,5 high
+B Wins
+
+Different type of hands.
+Player A holds: AD KH JS 5D 3H | 0 points, High Card, 14,13,11 high
+Player B holds: AS AC 9S 5C KC | 30 points, One Pair, 14,13,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 2C KH 8C JC QS | 0 points, High Card, 13,12,11 high
+Player B holds: 6D AH 2D KC TC | 0 points, High Card, 14,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 9D 3H 2S 7C 4D | 0 points, High Card, 9,7,4 high
+Player B holds: 6D KH KS 8D 7D | 30 points, One Pair, 13,8,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 9H 2S TC JH AC | 0 points, High Card, 14,11,10 high
+Player B holds: QC 3H 5S 3S 8H | 30 points, One Pair, 3,12,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 3S AS KD 8H 4C | 0 points, High Card, 14,13,8 high
+Player B holds: 3H 7C JH QH TS | 0 points, High Card, 12,11,10 high
+A Wins
+
+Same type of hand.
+Player A holds: 7S 6D 7H 9D JH | 30 points, One Pair, 7,11,9 high
+Player B holds: 4C 3D 3S 6C AS | 30 points, One Pair, 3,14,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 4S 2H 2C 4C 8S | 40 points, Two Pair, 4,2,8 high
+Player B holds: 5H KC 8C QC QD | 30 points, One Pair, 12,13,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 3H 3S 6C QS QC | 40 points, Two Pair, 12,3,6 high
+Player B holds: 2D 6S 5D 2C 9D | 30 points, One Pair, 2,9,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 2H 8D JH 2S 3H | 30 points, One Pair, 2,11,8 high
+Player B holds: 2D 6C 5C 7S AD | 0 points, High Card, 14,7,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 9H JS 5D QH 8S | 0 points, High Card, 12,11,9 high
+Player B holds: TS 2H 7S 6S AD | 0 points, High Card, 14,10,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 6D QC 9S 7H 5H | 0 points, High Card, 12,9,7 high
+Player B holds: 5C 7D KC JD 4H | 0 points, High Card, 13,11,7 high
+B Wins
+
+Different type of hands.
+Player A holds: QC 5S 9H 9C 4D | 30 points, One Pair, 9,12,5 high
+Player B holds: 6S KS 2S 4C 7C | 0 points, High Card, 13,7,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 9H 7C 4H 8D 3S | 0 points, High Card, 9,8,7 high
+Player B holds: 6H 5C 8H JS 7S | 0 points, High Card, 11,8,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 2D 6H JS TD 4H | 0 points, High Card, 11,10,6 high
+Player B holds: 4D JC TH 5H KC | 0 points, High Card, 13,11,10 high
+B Wins
+
+Different type of hands.
+Player A holds: AC 7C 8D TH 3H | 0 points, High Card, 14,10,8 high
+Player B holds: 9S 2D 4C KC 4D | 30 points, One Pair, 4,13,9 high
+B Wins
+
+Different type of hands.
+Player A holds: KD QS 9C 7S 3D | 0 points, High Card, 13,12,9 high
+Player B holds: KS AD TS 4C 4H | 30 points, One Pair, 4,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: QH 9C 8H 2S 7D | 0 points, High Card, 12,9,8 high
+Player B holds: KS 7H 5D KD 4C | 30 points, One Pair, 13,7,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 9C 2S 2H JC 6S | 30 points, One Pair, 2,11,9 high
+Player B holds: 6C TC QC JH 5C | 0 points, High Card, 12,11,10 high
+A Wins
+
+Same type of hand.
+Player A holds: 7S AC 8H KC 8S | 30 points, One Pair, 8,14,13 high
+Player B holds: 6H QS JC 3D 6S | 30 points, One Pair, 6,12,11 high
+A Wins
+
+Same type of hand.
+Player A holds: JS 2D JH 8C 4S | 30 points, One Pair, 11,8,4 high
+Player B holds: 6H 8H 6D 5D AD | 30 points, One Pair, 6,14,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 6H 7D 2S 4H 9H | 0 points, High Card, 9,7,6 high
+Player B holds: 7C AS AC 8H 5S | 30 points, One Pair, 14,8,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 3C JS 4S 6D 5H | 0 points, High Card, 11,6,5 high
+Player B holds: 2S QH 6S 9C 2C | 30 points, One Pair, 2,12,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 3D 5S 6S 9S 4C | 0 points, High Card, 9,6,5 high
+Player B holds: QS 8D QD 8S TC | 40 points, Two Pair, 12,8,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 9C 3D AH 9H 5S | 30 points, One Pair, 9,14,5 high
+Player B holds: 2C 7D AD JC 3S | 0 points, High Card, 14,11,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 7H TC AS 3C 6S | 0 points, High Card, 14,10,7 high
+Player B holds: 6D 7S KH KC 9H | 30 points, One Pair, 13,9,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 3S TC 8H 6S 5H | 0 points, High Card, 10,8,6 high
+Player B holds: JH 8C 7D AC 2S | 0 points, High Card, 14,11,8 high
+B Wins
+
+Same type of hand.
+Player A holds: QD 9D 9C 3S JC | 30 points, One Pair, 9,12,11 high
+Player B holds: 8C KS 8H 5D 4D | 30 points, One Pair, 8,13,5 high
+A Wins
+
+Different type of hands.
+Player A holds: JS AH JD 6D 9D | 30 points, One Pair, 11,14,9 high
+Player B holds: 8C 9H 9S 8H 3H | 40 points, Two Pair, 9,8,3 high
+B Wins
+
+Same type of hand.
+Player A holds: 2D 6S 4C 4D 8S | 30 points, One Pair, 4,8,6 high
+Player B holds: AD 4S TC AH 9H | 30 points, One Pair, 14,10,9 high
+B Wins
+
+Different type of hands.
+Player A holds: TS AC QC TH KC | 30 points, One Pair, 10,14,13 high
+Player B holds: 6D 4H 7S 8C 2H | 0 points, High Card, 8,7,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 3C QD JS 9D 5S | 0 points, High Card, 12,11,9 high
+Player B holds: JC AH 2H TS 9H | 0 points, High Card, 14,11,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 3H 4D QH 5D 9C | 0 points, High Card, 12,9,5 high
+Player B holds: 5H 7D 4S JC 3S | 0 points, High Card, 11,7,5 high
+A Wins
+
+Different type of hands.
+Player A holds: 8S TH 3H 7C 2H | 0 points, High Card, 10,8,7 high
+Player B holds: JD JS TS AC 8D | 30 points, One Pair, 11,14,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 9C 2H TD KC JD | 0 points, High Card, 13,11,10 high
+Player B holds: 2S 8C 5S AD 2C | 30 points, One Pair, 2,14,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 3D KD 7C 5H 4D | 0 points, High Card, 13,7,5 high
+Player B holds: QH QD TC 6H 7D | 30 points, One Pair, 12,10,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 7H 2C KC 5S KD | 30 points, One Pair, 13,7,5 high
+Player B holds: 6H AH QC 7S QH | 30 points, One Pair, 12,14,7 high
+A Wins
+
+Same type of hand.
+Player A holds: 6H 5C AC 5H 2C | 30 points, One Pair, 5,14,6 high
+Player B holds: 9C 2D 7C TD 2S | 30 points, One Pair, 2,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 4D 9D AH 3D 7C | 0 points, High Card, 14,9,7 high
+Player B holds: JD 4H 8C 4C KS | 30 points, One Pair, 4,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: TH 3C JS QH 8H | 0 points, High Card, 12,11,10 high
+Player B holds: 4C AS 3D QS QC | 30 points, One Pair, 12,14,4 high
+B Wins
+
+Same type of hand.
+Player A holds: 4D 7S 5H JH 6D | 0 points, High Card, 11,7,6 high
+Player B holds: 7D 6H JS KH 3C | 0 points, High Card, 13,11,7 high
+B Wins
+
+Different type of hands.
+Player A holds: QD 8S 7D 2H 2C | 30 points, One Pair, 2,12,8 high
+Player B holds: 7C JC 2S 5H 8C | 0 points, High Card, 11,8,7 high
+A Wins
+
+Same type of hand.
+Player A holds: QH 8S 9D TC 2H | 0 points, High Card, 12,10,9 high
+Player B holds: AD 7C 8D QD 6S | 0 points, High Card, 14,12,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 3S 7C AD 9H 2H | 0 points, High Card, 14,9,7 high
+Player B holds: 9S JD TS 4C 2D | 0 points, High Card, 11,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 3S AS 4H QC 2C | 0 points, High Card, 14,12,4 high
+Player B holds: 8H 8S 7S TD TC | 40 points, Two Pair, 10,8,7 high
+B Wins
+
+Same type of hand.
+Player A holds: JH TH TD 3S 4D | 30 points, One Pair, 10,11,4 high
+Player B holds: 4H 5S 5D QS 2C | 30 points, One Pair, 5,12,4 high
+A Wins
+
+Different type of hands.
+Player A holds: 8C QD QH TC 6D | 30 points, One Pair, 12,10,8 high
+Player B holds: 4S 9S 9D 4H QC | 40 points, Two Pair, 9,4,12 high
+B Wins
+
+Different type of hands.
+Player A holds: 8C JS 9D 6H JD | 30 points, One Pair, 11,9,8 high
+Player B holds: 3H AD 6S TD QC | 0 points, High Card, 14,12,10 high
+A Wins
+
+Same type of hand.
+Player A holds: KC 8S 3D 7C TD | 0 points, High Card, 13,10,8 high
+Player B holds: 7D 8D 9H 4S 3S | 0 points, High Card, 9,8,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 6C 4S 3D 9D KD | 0 points, High Card, 13,9,6 high
+Player B holds: TC KC KS AC 5S | 30 points, One Pair, 13,14,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 7C 6S QH 3D JS | 0 points, High Card, 12,11,7 high
+Player B holds: KD 6H 6D 2D 8C | 30 points, One Pair, 6,13,8 high
+B Wins
+
+Same type of hand.
+Player A holds: JD 2S 5S 4H 8S | 0 points, High Card, 11,8,5 high
+Player B holds: AC 2D 6S TS 5C | 0 points, High Card, 14,10,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 5H 8C 5S 3C 4S | 30 points, One Pair, 5,8,4 high
+Player B holds: 3D 7C 8D AS 3H | 30 points, One Pair, 3,14,8 high
+A Wins
+
+Same type of hand.
+Player A holds: AS TS 7C 3H AD | 30 points, One Pair, 14,10,7 high
+Player B holds: 7D JC QS 6C 6H | 30 points, One Pair, 6,12,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 3S 9S 4C AC QH | 0 points, High Card, 14,12,9 high
+Player B holds: 5H 5D 9H TS 4H | 30 points, One Pair, 5,10,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 6C 5C 7H 7S TD | 30 points, One Pair, 7,10,6 high
+Player B holds: AD JD 5S 2H 2S | 30 points, One Pair, 2,14,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 7D 6C KC 3S JD | 0 points, High Card, 13,11,7 high
+Player B holds: 8D 8S TS QS KH | 30 points, One Pair, 8,13,12 high
+B Wins
+
+Same type of hand.
+Player A holds: 8S QS 8D 6C TH | 30 points, One Pair, 8,12,10 high
+Player B holds: AC AH 2C 8H 9S | 30 points, One Pair, 14,9,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 7H TD KH QH 8S | 0 points, High Card, 13,12,10 high
+Player B holds: 3D 4D AH JD AS | 30 points, One Pair, 14,11,4 high
+B Wins
+
+Same type of hand.
+Player A holds: TS 3D 2H JC 2S | 30 points, One Pair, 2,11,10 high
+Player B holds: JH KH 6C QC JS | 30 points, One Pair, 11,13,12 high
+B Wins
+
+Same type of hand.
+Player A holds: KC TH 2D 6H 7S | 0 points, High Card, 13,10,7 high
+Player B holds: 2S TC 8C 9D QS | 0 points, High Card, 12,10,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 3C 9D 6S KH 8H | 0 points, High Card, 13,9,8 high
+Player B holds: 6D 5D TH 2C 2H | 30 points, One Pair, 2,10,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 6H TC 7D AD 4D | 0 points, High Card, 14,10,7 high
+Player B holds: 8S TS 9H TD 7S | 30 points, One Pair, 10,9,8 high
+B Wins
+
+Different type of hands.
+Player A holds: JS 6D JD JC 2H | 50 points, Three of a Kind, 11,6,2 high
+Player B holds: AC 6C 3D KH 8D | 0 points, High Card, 14,13,8 high
+A Wins
+
+Same type of hand.
+Player A holds: KH JD 9S 5D 4H | 0 points, High Card, 13,11,9 high
+Player B holds: 4C 3H 7S QS 5C | 0 points, High Card, 12,7,5 high
+A Wins
+
+Same type of hand.
+Player A holds: 4H JD 5D 3S 3C | 30 points, One Pair, 3,11,5 high
+Player B holds: 4D KH QH QS 7S | 30 points, One Pair, 12,13,7 high
+B Wins
+
+Different type of hands.
+Player A holds: JD TS 8S QD AH | 0 points, High Card, 14,12,11 high
+Player B holds: 4C 6H 3S 5S 2C | 60 points, Straight, 6,5,4 high
+B Wins
+
+Same type of hand.
+Player A holds: QS 3D JD AS 8D | 0 points, High Card, 14,12,11 high
+Player B holds: TH 7C 6S QC KS | 0 points, High Card, 13,12,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 7S 2H 8C QC 7H | 30 points, One Pair, 7,12,8 high
+Player B holds: AC 6D 2D TH KH | 0 points, High Card, 14,13,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 5S 6C 7H KH 7D | 30 points, One Pair, 7,13,6 high
+Player B holds: AH 8C 5C 7S 3D | 0 points, High Card, 14,8,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 3C KD AD 7D 6C | 0 points, High Card, 14,13,7 high
+Player B holds: 4D KS 2D 8C 4S | 30 points, One Pair, 4,13,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 7C 8D 5S 2D 2S | 30 points, One Pair, 2,8,7 high
+Player B holds: AH AD 2C 9D TD | 30 points, One Pair, 14,10,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 3C AD 4S KS JH | 0 points, High Card, 14,13,11 high
+Player B holds: 7C 5C 8C 9C TH | 0 points, High Card, 10,9,8 high
+A Wins
+
+Same type of hand.
+Player A holds: AS TD 4D 7C JD | 0 points, High Card, 14,11,10 high
+Player B holds: 8C QH 3C 5H 9S | 0 points, High Card, 12,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 3H 9C 8S 9S 6S | 30 points, One Pair, 9,8,6 high
+Player B holds: QD KS AH 5H JH | 0 points, High Card, 14,13,12 high
+A Wins
+
+Same type of hand.
+Player A holds: QC 9C 5S 4H 2H | 0 points, High Card, 12,9,5 high
+Player B holds: TD 7D AS 8C 9D | 0 points, High Card, 14,10,9 high
+B Wins
+
+Different type of hands.
+Player A holds: 8C 2C 9D KD TC | 0 points, High Card, 13,10,9 high
+Player B holds: 7S 3D KH QC 3C | 30 points, One Pair, 3,13,12 high
+B Wins
+
+Different type of hands.
+Player A holds: 4D AS 4C QS 5S | 30 points, One Pair, 4,14,12 high
+Player B holds: 9D 6S JD QH KS | 0 points, High Card, 13,12,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 6D AH 6C 4C 5H | 30 points, One Pair, 6,14,5 high
+Player B holds: TS 9H 7D 3D 5S | 0 points, High Card, 10,9,7 high
+A Wins
+
+Different type of hands.
+Player A holds: QS JD 7C 8D 9C | 0 points, High Card, 12,11,9 high
+Player B holds: AC 3S 6S 6C KH | 30 points, One Pair, 6,14,13 high
+B Wins
+
+Same type of hand.
+Player A holds: 8H JH 5D 9S 6D | 0 points, High Card, 11,9,8 high
+Player B holds: AS 6S 3S QC 7H | 0 points, High Card, 14,12,7 high
+B Wins
+
+Different type of hands.
+Player A holds: QD AD 5C JH 2H | 0 points, High Card, 14,12,11 high
+Player B holds: AH 4H AS KC 2C | 30 points, One Pair, 14,13,4 high
+B Wins
+
+Different type of hands.
+Player A holds: JH 9C 2C 6H 2D | 30 points, One Pair, 2,11,9 high
+Player B holds: JS 5D 9H KC 6D | 0 points, High Card, 13,11,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 7D 9D KD TH 3H | 0 points, High Card, 13,10,9 high
+Player B holds: AS 6S QC 6H AD | 40 points, Two Pair, 14,6,12 high
+B Wins
+
+Different type of hands.
+Player A holds: JD 4H 7D KC 3H | 0 points, High Card, 13,11,7 high
+Player B holds: JS 3C TH 3D QS | 30 points, One Pair, 3,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 4C 3H 8C QD 5H | 0 points, High Card, 12,8,5 high
+Player B holds: 6H AS 8H AD JD | 30 points, One Pair, 14,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: TH 8S KD 5D QC | 0 points, High Card, 13,12,10 high
+Player B holds: 7D JS 5S 5H TS | 30 points, One Pair, 5,11,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 7D KC 9D QS 3H | 0 points, High Card, 13,12,9 high
+Player B holds: 3C 6D TS 7S AH | 0 points, High Card, 14,10,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 7C 4H 7H AH QC | 30 points, One Pair, 7,14,12 high
+Player B holds: AC 4D 5D 6D TH | 0 points, High Card, 14,10,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 3C 4H 2S KD 8H | 0 points, High Card, 13,8,4 high
+Player B holds: 5H JH TC 6C JD | 30 points, One Pair, 11,10,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 4S 8C 3D 4H JS | 30 points, One Pair, 4,11,8 high
+Player B holds: TD 7S JH QS KD | 0 points, High Card, 13,12,11 high
+A Wins
+
+Same type of hand.
+Player A holds: 7C QC KD 4D 7H | 30 points, One Pair, 7,13,12 high
+Player B holds: 6S AD TD TC KH | 30 points, One Pair, 10,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: 5H 9H KC 3H 4D | 0 points, High Card, 13,9,5 high
+Player B holds: 3D AD 6S QD 6H | 30 points, One Pair, 6,14,12 high
+B Wins
+
+Different type of hands.
+Player A holds: TH 7C 6H TS QH | 30 points, One Pair, 10,12,7 high
+Player B holds: 5S 2C KC TD 6S | 0 points, High Card, 13,10,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 7C 4D 5S JD JH | 30 points, One Pair, 11,7,5 high
+Player B holds: 7D AC KD KH 4H | 30 points, One Pair, 13,14,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 7D 6C 8D 8H 5C | 30 points, One Pair, 8,7,6 high
+Player B holds: JH 8S QD TH JD | 30 points, One Pair, 11,12,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 8D 7D 6C 7C 9D | 30 points, One Pair, 7,9,8 high
+Player B holds: KD AS 5C QH JH | 0 points, High Card, 14,13,12 high
+A Wins
+
+Same type of hand.
+Player A holds: 9S 2C 8C 3C 4C | 0 points, High Card, 9,8,4 high
+Player B holds: KS JH 2D 8D 4H | 0 points, High Card, 13,11,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 7S 6C JH KH 8H | 0 points, High Card, 13,11,8 high
+Player B holds: 3H 9D 2D AH 6D | 0 points, High Card, 14,9,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 4D TC 9C 8D 7H | 0 points, High Card, 10,9,8 high
+Player B holds: TD KS TH KD 3C | 40 points, Two Pair, 13,10,3 high
+B Wins
+
+Different type of hands.
+Player A holds: JD 9H 8D QD AS | 0 points, High Card, 14,12,11 high
+Player B holds: KD 9D 2C 2S 9C | 40 points, Two Pair, 9,2,13 high
+B Wins
+
+Same type of hand.
+Player A holds: 8D 3H 5C 7H KS | 0 points, High Card, 13,8,7 high
+Player B holds: 5H QH 2D 8C 9H | 0 points, High Card, 12,9,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 2D TH 6D QD 6C | 30 points, One Pair, 6,12,10 high
+Player B holds: KC 3H 3S AD 4C | 30 points, One Pair, 3,14,13 high
+A Wins
+
+Same type of hand.
+Player A holds: 4H 3H JS 9D 3C | 30 points, One Pair, 3,11,9 high
+Player B holds: TC 5H QH QC JC | 30 points, One Pair, 12,11,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 3D 5C 6H 3S 3C | 50 points, Three of a Kind, 3,6,5 high
+Player B holds: JC 5S 7S 2S QH | 0 points, High Card, 12,11,7 high
+A Wins
+
+Same type of hand.
+Player A holds: AC 5C 8C 4D 5D | 30 points, One Pair, 5,14,8 high
+Player B holds: 4H 2S QD 3C 3H | 30 points, One Pair, 3,12,4 high
+A Wins
+
+Different type of hands.
+Player A holds: 2C TD AH 9C KD | 0 points, High Card, 14,13,10 high
+Player B holds: JS 6S QD 4C QC | 30 points, One Pair, 12,11,6 high
+B Wins
+
+Different type of hands.
+Player A holds: QS 8C 3S 4H TC | 0 points, High Card, 12,10,8 high
+Player B holds: JS 3H 7C JC AD | 30 points, One Pair, 11,14,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 5H 4D 9C KS JC | 0 points, High Card, 13,11,9 high
+Player B holds: TD 9S TS 8S 9H | 40 points, Two Pair, 10,9,8 high
+B Wins
+
+Different type of hands.
+Player A holds: QD TS 7D AS AC | 30 points, One Pair, 14,12,10 high
+Player B holds: 2C TD 6H 8H AH | 0 points, High Card, 14,10,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 6S AD 8C 4S 9H | 0 points, High Card, 14,9,8 high
+Player B holds: 8D 9D KH 8S 3C | 30 points, One Pair, 8,13,9 high
+B Wins
+
+Different type of hands.
+Player A holds: QS 4D 2D 7S KH | 0 points, High Card, 13,12,7 high
+Player B holds: JS JC AD 4C 3C | 30 points, One Pair, 11,14,4 high
+B Wins
+
+Different type of hands.
+Player A holds: QS 9S 7H KC TD | 0 points, High Card, 13,12,10 high
+Player B holds: TH 5H JS AC JH | 30 points, One Pair, 11,14,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 6D AC 2S QS 7C | 0 points, High Card, 14,12,7 high
+Player B holds: AS KS 6S KH 5S | 30 points, One Pair, 13,14,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 6D 8H KH 3C QS | 0 points, High Card, 13,12,8 high
+Player B holds: 2H 5C 9C 9D 6C | 30 points, One Pair, 9,6,5 high
+B Wins
+
+Same type of hand.
+Player A holds: JS 2C 4C 6H 7D | 0 points, High Card, 11,7,6 high
+Player B holds: JC AC QD TD 3H | 0 points, High Card, 14,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 4H QC 8H JD 4C | 30 points, One Pair, 4,12,11 high
+Player B holds: KD KS 5C KC 7S | 50 points, Three of a Kind, 13,7,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 6D 2D 3H 2S QD | 30 points, One Pair, 2,12,6 high
+Player B holds: 5S 7H AS TH 6S | 0 points, High Card, 14,10,7 high
+A Wins
+
+Different type of hands.
+Player A holds: AS 6D 8D 2C 8S | 30 points, One Pair, 8,14,6 high
+Player B holds: TD 8H QD JC AH | 0 points, High Card, 14,12,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 9C 9H 2D TD QH | 30 points, One Pair, 9,12,10 high
+Player B holds: 2H 5C TC 3D 8H | 0 points, High Card, 10,8,5 high
+A Wins
+
+Same type of hand.
+Player A holds: KC 8S 3D KH 2S | 30 points, One Pair, 13,8,3 high
+Player B holds: TS TC 6S 4D JH | 30 points, One Pair, 10,11,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 9H 9D QS AC KC | 30 points, One Pair, 9,14,13 high
+Player B holds: 6H 5D 4D 8D AH | 0 points, High Card, 14,8,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 9S 5C QS 4H 7C | 0 points, High Card, 12,9,7 high
+Player B holds: 7D 2H 8S AD JS | 0 points, High Card, 14,11,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 3D AC 9S AS 2C | 30 points, One Pair, 14,9,3 high
+Player B holds: 2D 2H 3H JC KH | 30 points, One Pair, 2,13,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 7H QH KH JD TC | 0 points, High Card, 13,12,11 high
+Player B holds: KS 5S 8H 4C 8D | 30 points, One Pair, 8,13,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 2H 7H 3S 2S 5H | 30 points, One Pair, 2,7,5 high
+Player B holds: QS 3C AS 9H KD | 0 points, High Card, 14,13,12 high
+A Wins
+
+Different type of hands.
+Player A holds: AD 3D JD 6H 5S | 0 points, High Card, 14,11,6 high
+Player B holds: 9C 6D AC 9S 3S | 30 points, One Pair, 9,14,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 3D 5D 9C 2D AC | 0 points, High Card, 14,9,5 high
+Player B holds: 4S 2S AD 6C 6S | 30 points, One Pair, 6,14,4 high
+B Wins
+
+Different type of hands.
+Player A holds: QC 4C 2D 3H 6S | 0 points, High Card, 12,6,4 high
+Player B holds: KC QH QD 2H JH | 30 points, One Pair, 12,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: QC 3C 8S 4D 9S | 0 points, High Card, 12,9,8 high
+Player B holds: 2H 5C 8H QS QD | 30 points, One Pair, 12,8,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 6D KD 6S 7H 3S | 30 points, One Pair, 6,13,7 high
+Player B holds: KH 2H 5C JC 6C | 0 points, High Card, 13,11,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 3S 9S TC 6S 8H | 0 points, High Card, 10,9,8 high
+Player B holds: 2D AD 7S 8S TS | 0 points, High Card, 14,10,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 3C 6H 9C 3H 5C | 30 points, One Pair, 3,9,6 high
+Player B holds: JC 8H QH TD QD | 30 points, One Pair, 12,11,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 3C JS QD 5D TD | 0 points, High Card, 12,11,10 high
+Player B holds: 2C KH 9H TH AS | 0 points, High Card, 14,13,10 high
+B Wins
+
+Same type of hand.
+Player A holds: 9S TC JD 3D 5C | 0 points, High Card, 11,10,9 high
+Player B holds: 5H AD QH 9H KC | 0 points, High Card, 14,13,12 high
+B Wins
+
+Same type of hand.
+Player A holds: TC 7H 4H 8H 3H | 0 points, High Card, 10,8,7 high
+Player B holds: TD 6S AC 7C 2S | 0 points, High Card, 14,10,7 high
+B Wins
+
+Same type of hand.
+Player A holds: QS 9D 5D 3C JC | 0 points, High Card, 12,11,9 high
+Player B holds: KS 4D 6C JH 2S | 0 points, High Card, 13,11,6 high
+B Wins
+
+Same type of hand.
+Player A holds: 9S 6S 3C 7H TS | 0 points, High Card, 10,9,7 high
+Player B holds: 4C KD 6D 3D 9C | 0 points, High Card, 13,9,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 2D 9H AH AC 7H | 30 points, One Pair, 14,9,7 high
+Player B holds: 2S JH 3S 7C QC | 0 points, High Card, 12,11,7 high
+A Wins
+
+Different type of hands.
+Player A holds: QD 9H 3C 2H AC | 0 points, High Card, 14,12,9 high
+Player B holds: AS 8S KD 8C KH | 40 points, Two Pair, 13,8,14 high
+B Wins
+
+Different type of hands.
+Player A holds: 2D 7S TD TH 6D | 30 points, One Pair, 10,7,6 high
+Player B holds: JD 8D 4D 2H 5S | 0 points, High Card, 11,8,5 high
+A Wins
+
+Different type of hands.
+Player A holds: 8S QH KD JD QS | 30 points, One Pair, 12,13,11 high
+Player B holds: JH 4D KC 5H 3S | 0 points, High Card, 13,11,5 high
+A Wins
+
+Same type of hand.
+Player A holds: 3C KH QC 6D 8H | 0 points, High Card, 13,12,8 high
+Player B holds: 3S AH 7D TD 2D | 0 points, High Card, 14,10,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 5S 9H QH 4S 6S | 0 points, High Card, 12,9,6 high
+Player B holds: 6C 6D TS TH 7S | 40 points, Two Pair, 10,6,7 high
+B Wins
+
+Same type of hand.
+Player A holds: 6C 4C 6D QS JS | 30 points, One Pair, 6,12,11 high
+Player B holds: 9C TS 3H 8D 8S | 30 points, One Pair, 8,10,9 high
+B Wins
+
+Different type of hands.
+Player A holds: JS 5C 7S AS 2C | 0 points, High Card, 14,11,7 high
+Player B holds: AH 2H AD 5S TC | 30 points, One Pair, 14,10,5 high
+B Wins
+
+Same type of hand.
+Player A holds: KD 6C 9C 9D TS | 30 points, One Pair, 9,13,10 high
+Player B holds: 2S JC 4H 2C QD | 30 points, One Pair, 2,12,11 high
+A Wins
+
+Same type of hand.
+Player A holds: QS 9H TC 3H KC | 0 points, High Card, 13,12,10 high
+Player B holds: KS 4H 3C AD TH | 0 points, High Card, 14,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: KH 9C 2H KD 9D | 40 points, Two Pair, 13,9,2 high
+Player B holds: TC 7S KC JH 2D | 0 points, High Card, 13,11,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 7C 3S KC AS 8C | 0 points, High Card, 14,13,8 high
+Player B holds: 5D 9C 9S QH 3H | 30 points, One Pair, 9,12,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 2D 8C TD 4C 2H | 30 points, One Pair, 2,10,8 high
+Player B holds: QC 5D TC 2C 7D | 0 points, High Card, 12,10,7 high
+A Wins
+
+Same type of hand.
+Player A holds: KS 4D 6C QH TD | 0 points, High Card, 13,12,10 high
+Player B holds: KH 5D 7C AD 8D | 0 points, High Card, 14,13,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 2S 9S 8S 4C 8C | 30 points, One Pair, 8,9,4 high
+Player B holds: 3D 6H QD 7C 7H | 30 points, One Pair, 7,12,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 6C 8S QH 5H TS | 0 points, High Card, 12,10,8 high
+Player B holds: 5C 3C 4S 2S 2H | 30 points, One Pair, 2,5,4 high
+B Wins
+
+Same type of hand.
+Player A holds: 8S 6S 2H JC 3S | 0 points, High Card, 11,8,6 high
+Player B holds: 3H 9D 8C 2S 7H | 0 points, High Card, 9,8,7 high
+A Wins
+
+Different type of hands.
+Player A holds: QC 2C 8H 9C AC | 0 points, High Card, 14,12,9 high
+Player B holds: JD 4C 4H 6S 3S | 30 points, One Pair, 4,11,6 high
+B Wins
+
+Different type of hands.
+Player A holds: 3H 3S 7D 4C 9S | 30 points, One Pair, 3,9,7 high
+Player B holds: 5H 8H JC 3D TC | 0 points, High Card, 11,10,8 high
+A Wins
+
+Same type of hand.
+Player A holds: QH 2S 2D 9S KD | 30 points, One Pair, 2,13,12 high
+Player B holds: QD 9H AD 6D 9C | 30 points, One Pair, 9,14,12 high
+B Wins
+
+Different type of hands.
+Player A holds: 8D 2D KS 9S JC | 0 points, High Card, 13,11,9 high
+Player B holds: 4C JD KC 4S TH | 30 points, One Pair, 4,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: KH TS 6D 4D 5C | 0 points, High Card, 13,10,6 high
+Player B holds: KD 5H AS 9H AD | 30 points, One Pair, 14,13,9 high
+B Wins
+
+Different type of hands.
+Player A holds: QD JS 7C 6D 5D | 0 points, High Card, 12,11,7 high
+Player B holds: 5C TH 5H QH QS | 40 points, Two Pair, 12,5,10 high
+B Wins
+
+Different type of hands.
+Player A holds: 9D QH KH 5H JH | 0 points, High Card, 13,12,11 high
+Player B holds: 4C 4D TC TH 6C | 40 points, Two Pair, 10,4,6 high
+B Wins
+
+Different type of hands.
+Player A holds: KH AS TS 9D KD | 30 points, One Pair, 13,14,10 high
+Player B holds: 9C 7S 4D 8H 5S | 0 points, High Card, 9,8,7 high
+A Wins
+
+Different type of hands.
+Player A holds: KH AS 2S 7D 9D | 0 points, High Card, 14,13,9 high
+Player B holds: 4C TS TH AH 7C | 30 points, One Pair, 10,14,7 high
+B Wins
+
+Same type of hand.
+Player A holds: KS 4D AC 8S 9S | 0 points, High Card, 14,13,9 high
+Player B holds: 8D TH QH 9D 5C | 0 points, High Card, 12,10,9 high
+A Wins
+
+Same type of hand.
+Player A holds: 5D 5C 8C QS TC | 30 points, One Pair, 5,12,10 high
+Player B holds: 4C 3D 3S 2C 8D | 30 points, One Pair, 3,8,4 high
+A Wins
+
+Different type of hands.
+Player A holds: 9D KS 2D 3C KC | 30 points, One Pair, 13,9,3 high
+Player B holds: 4S 8C KH 6C JC | 0 points, High Card, 13,11,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 8H AH 6H 7D 7S | 30 points, One Pair, 7,14,8 high
+Player B holds: QD 3C 4C 6C KC | 0 points, High Card, 13,12,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 3H 2C QH 8H AS | 0 points, High Card, 14,12,8 high
+Player B holds: 7D 4C 8C 4H KC | 30 points, One Pair, 4,13,8 high
+B Wins
+
+Same type of hand.
+Player A holds: QD 5S 4H 2C TD | 0 points, High Card, 12,10,5 high
+Player B holds: AH JH QH 4C 8S | 0 points, High Card, 14,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 3H QS 5S JS 8H | 0 points, High Card, 12,11,8 high
+Player B holds: 2S 9H 9C 3S 2C | 40 points, Two Pair, 9,2,3 high
+B Wins
+
+Same type of hand.
+Player A holds: 6H TS 7S JC QD | 0 points, High Card, 12,11,10 high
+Player B holds: AC TD KC 5S 3H | 0 points, High Card, 14,13,10 high
+B Wins
+
+Same type of hand.
+Player A holds: QH AS QS 7D JC | 30 points, One Pair, 12,14,11 high
+Player B holds: KC 2C 4C 5C 5S | 30 points, One Pair, 5,13,4 high
+A Wins
+
+Same type of hand.
+Player A holds: QH 3D AS JS 4H | 0 points, High Card, 14,12,11 high
+Player B holds: 8D 7H JC 2S 9C | 0 points, High Card, 11,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 5D 4D 2S 4S 9D | 30 points, One Pair, 4,9,5 high
+Player B holds: 9C 2D QS 8H 7H | 0 points, High Card, 12,9,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 6D 7H 3H JS TS | 0 points, High Card, 11,10,7 high
+Player B holds: AC 2D JH 7C 8S | 0 points, High Card, 14,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: JH 5H KC 3C TC | 0 points, High Card, 13,11,10 high
+Player B holds: 5S 9H 4C 8H 9D | 30 points, One Pair, 9,8,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 8S KC 5H 9H AD | 0 points, High Card, 14,13,9 high
+Player B holds: KS 9D KH 8D AH | 30 points, One Pair, 13,14,9 high
+B Wins
+
+Same type of hand.
+Player A holds: JC 2H 9H KS 6S | 0 points, High Card, 13,11,9 high
+Player B holds: 3H QC 5H AH 9C | 0 points, High Card, 14,12,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 5C KH 5S AD 6C | 30 points, One Pair, 5,14,13 high
+Player B holds: JC 9H QC 9C TD | 30 points, One Pair, 9,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: 5S 5D JC QH 2D | 30 points, One Pair, 5,12,11 high
+Player B holds: KS 8H QS 2H TS | 0 points, High Card, 13,12,10 high
+A Wins
+
+Different type of hands.
+Player A holds: JH 5H 5S AH 7H | 30 points, One Pair, 5,14,11 high
+Player B holds: 3C 8S AS TD KH | 0 points, High Card, 14,13,10 high
+A Wins
+
+Same type of hand.
+Player A holds: 6H 3D JD 2C 4C | 0 points, High Card, 11,6,4 high
+Player B holds: KC 7S AH 6C JH | 0 points, High Card, 14,13,11 high
+B Wins
+
+Same type of hand.
+Player A holds: 4C KS 9D AD 7S | 0 points, High Card, 14,13,9 high
+Player B holds: KC 7D 8H 3S 9C | 0 points, High Card, 13,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 7H 5C 5H 3C 8H | 30 points, One Pair, 5,8,7 high
+Player B holds: QC 3D KH 6D JC | 0 points, High Card, 13,12,11 high
+A Wins
+
+Different type of hands.
+Player A holds: 2D 4H 5D 7D QC | 0 points, High Card, 12,7,5 high
+Player B holds: AD AH 9H QH 8H | 30 points, One Pair, 14,12,9 high
+B Wins
+
+Different type of hands.
+Player A holds: KD 8C JS 9D 3S | 0 points, High Card, 13,11,9 high
+Player B holds: 3C 2H 5D 6D 2S | 30 points, One Pair, 2,6,5 high
+B Wins
+
+Different type of hands.
+Player A holds: 8S 6S TS 3C 6H | 30 points, One Pair, 6,10,8 high
+Player B holds: 8D 5S 3H TD 6C | 0 points, High Card, 10,8,6 high
+A Wins
+
+Same type of hand.
+Player A holds: KS 3D JH 9C 7C | 0 points, High Card, 13,11,9 high
+Player B holds: 9S QS 5S 4H 6H | 0 points, High Card, 12,9,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 7S 6S TH 4S KC | 0 points, High Card, 13,10,7 high
+Player B holds: KD 3S JC JH KS | 40 points, Two Pair, 13,11,3 high
+B Wins
+
+Same type of hand.
+Player A holds: 7C 3C 2S 6D QH | 0 points, High Card, 12,7,6 high
+Player B holds: 2C 7S 5H 8H AH | 0 points, High Card, 14,8,7 high
+B Wins
+
+Same type of hand.
+Player A holds: KC 8D QD 6D KH | 30 points, One Pair, 13,12,8 high
+Player B holds: 5C 7H 9D 3D 9C | 30 points, One Pair, 9,7,5 high
+A Wins
+
+Same type of hand.
+Player A holds: 6H 2D 8S JS 9S | 0 points, High Card, 11,9,8 high
+Player B holds: 2S 6D KC 7C TC | 0 points, High Card, 13,10,7 high
+B Wins
+
+Different type of hands.
+Player A holds: KD 9C JH 7H KC | 30 points, One Pair, 13,11,9 high
+Player B holds: 8S 2S 7S 3D 6H | 0 points, High Card, 8,7,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 4H 9H 2D 4C 8H | 30 points, One Pair, 4,9,8 high
+Player B holds: 7H 5S 8S 2H 8D | 30 points, One Pair, 8,7,5 high
+B Wins
+
+Different type of hands.
+Player A holds: AD 7C 3C 7S 5S | 30 points, One Pair, 7,14,5 high
+Player B holds: 4D 9H 3D JC KH | 0 points, High Card, 13,11,9 high
+A Wins
+
+Different type of hands.
+Player A holds: 5D AS 7D 6D 9C | 0 points, High Card, 14,9,7 high
+Player B holds: JC 4C QH QS KH | 30 points, One Pair, 12,13,11 high
+B Wins
+
+Different type of hands.
+Player A holds: KD JD 7D 3D QS | 0 points, High Card, 13,12,11 high
+Player B holds: QC 8S 6D JS QD | 30 points, One Pair, 12,11,8 high
+B Wins
+
+Different type of hands.
+Player A holds: 6S 8C 5S QH TH | 0 points, High Card, 12,10,8 high
+Player B holds: 9H AS AC 2C JD | 30 points, One Pair, 14,11,9 high
+B Wins
+
+Same type of hand.
+Player A holds: QC KS QH 7S 3C | 30 points, One Pair, 12,13,7 high
+Player B holds: 4C 5C KC 5D AH | 30 points, One Pair, 5,14,13 high
+A Wins
+
+Different type of hands.
+Player A holds: 6C 4H 9D AH 2C | 0 points, High Card, 14,9,6 high
+Player B holds: 3H KD 3D TS 5C | 30 points, One Pair, 3,13,10 high
+B Wins
+
+Different type of hands.
+Player A holds: TD 8S QS AS JS | 0 points, High Card, 14,12,11 high
+Player B holds: 3H KD AC 4H KS | 30 points, One Pair, 13,14,4 high
+B Wins
+
+Same type of hand.
+Player A holds: 7D 5D TS 9H 4H | 0 points, High Card, 10,9,7 high
+Player B holds: 4C 9C 2H 8C QC | 0 points, High Card, 12,9,8 high
+B Wins
+
+Same type of hand.
+Player A holds: 2C 7D 9H 4D KS | 0 points, High Card, 13,9,7 high
+Player B holds: 4C QH AD KD JS | 0 points, High Card, 14,13,12 high
+B Wins
+
+Same type of hand.
+Player A holds: QD AD AH KH 9D | 30 points, One Pair, 14,13,12 high
+Player B holds: JS 9H JC KD JD | 30 points, One Pair, 11,13,11 high
+A Wins
+
+Same type of hand.
+Player A holds: 8S 3C 4S TS 7S | 0 points, High Card, 10,8,7 high
+Player B holds: 4D 5C 2S 6H 7C | 0 points, High Card, 7,6,5 high
+A Wins
+
+Same type of hand.
+Player A holds: JS 7S 5C KD 6D | 0 points, High Card, 13,11,7 high
+Player B holds: QH 8S TD 2H 6S | 0 points, High Card, 12,10,8 high
+A Wins
+
+Different type of hands.
+Player A holds: QH 6C TC 6H TD | 40 points, Two Pair, 10,6,12 high
+Player B holds: 4C 9D 2H QC 8H | 0 points, High Card, 12,9,8 high
+A Wins
+
+Different type of hands.
+Player A holds: 3D TS 4D 2H 6H | 0 points, High Card, 10,6,4 high
+Player B holds: 6S 2C 7H 8S 6C | 30 points, One Pair, 6,8,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 9H 9D JD JH 3S | 40 points, Two Pair, 11,9,3 high
+Player B holds: AH 2C 6S 3H 8S | 0 points, High Card, 14,8,6 high
+A Wins
+
+Same type of hand.
+Player A holds: 2C QS 8C 5S 3H | 0 points, High Card, 12,8,5 high
+Player B holds: 2S 7D 3C AD 4S | 0 points, High Card, 14,7,4 high
+B Wins
+
+Same type of hand.
+Player A holds: 5C QC QH AS TS | 30 points, One Pair, 12,14,10 high
+Player B holds: 4S 6S 4C 5H JS | 30 points, One Pair, 4,11,6 high
+A Wins
+
+Different type of hands.
+Player A holds: JH 5C TD 4C 6H | 0 points, High Card, 11,10,6 high
+Player B holds: JS KD KH QS 4H | 30 points, One Pair, 13,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: TC KH JC 4D 9H | 0 points, High Card, 13,11,10 high
+Player B holds: 9D 8D KC 3C 8H | 30 points, One Pair, 8,13,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 2H TC 8S AD 9S | 0 points, High Card, 14,10,9 high
+Player B holds: 4H TS 7H 2C 5C | 0 points, High Card, 10,7,5 high
+A Wins
+
+Same type of hand.
+Player A holds: 4H 2S 6C 5S KS | 0 points, High Card, 13,6,5 high
+Player B holds: AH 9C 7C 8H KD | 0 points, High Card, 14,13,9 high
+B Wins
+
+Different type of hands.
+Player A holds: TS QH TD QS 3C | 40 points, Two Pair, 12,10,3 high
+Player B holds: JH AH 2C 8D 7D | 0 points, High Card, 14,11,8 high
+A Wins
+
+Same type of hand.
+Player A holds: 5D KC 3H 5S AC | 30 points, One Pair, 5,14,13 high
+Player B holds: 4S 7H QS 4C 2H | 30 points, One Pair, 4,12,7 high
+A Wins
+
+Different type of hands.
+Player A holds: 3D 7D QC KH JH | 0 points, High Card, 13,12,11 high
+Player B holds: 6D 6C TD TH KD | 40 points, Two Pair, 10,6,13 high
+B Wins
+
+Same type of hand.
+Player A holds: 5S 8D TH 6C 9D | 0 points, High Card, 10,9,8 high
+Player B holds: 7D KH 8C 9S 6D | 0 points, High Card, 13,9,8 high
+B Wins
+
+Different type of hands.
+Player A holds: JD QS 7S QC 2S | 30 points, One Pair, 12,11,7 high
+Player B holds: QH JC 4S KS 8D | 0 points, High Card, 13,12,11 high
+A Wins
+
+Same type of hand.
+Player A holds: 7S 5S 9S JD KD | 0 points, High Card, 13,11,9 high
+Player B holds: 9C JC AD 2D 7C | 0 points, High Card, 14,11,9 high
+B Wins
+
+Same type of hand.
+Player A holds: 4S 5H AH JH 9C | 0 points, High Card, 14,11,9 high
+Player B holds: 5D TD 7C 2D 6S | 0 points, High Card, 10,7,6 high
+A Wins
+
+Different type of hands.
+Player A holds: KC 6C 7H 6S 9C | 30 points, One Pair, 6,13,9 high
+Player B holds: QD 5S 4H KS TD | 0 points, High Card, 13,12,10 high
+A Wins
+
+Different type of hands.
+Player A holds: 6S 8D KS 2D TH | 0 points, High Card, 13,10,8 high
+Player B holds: TD 9H JD TS 3S | 30 points, One Pair, 10,11,9 high
+B Wins
+
+Different type of hands.
+Player A holds: KH JS 4H 5D 9D | 0 points, High Card, 13,11,9 high
+Player B holds: TC TD QC JD TS | 50 points, Three of a Kind, 10,12,11 high
+B Wins
+
+Different type of hands.
+Player A holds: QS QD AC AD 4C | 40 points, Two Pair, 14,12,4 high
+Player B holds: 6S 2D AS 3H KC | 0 points, High Card, 14,13,6 high
+A Wins
+
+Different type of hands.
+Player A holds: 4C 7C 3C TD QS | 0 points, High Card, 12,10,7 high
+Player B holds: 9C KC AS 8D AD | 30 points, One Pair, 14,13,9 high
+B Wins
+
+Same type of hand.
+Player A holds: KC 7H QC 6D 8H | 0 points, High Card, 13,12,8 high
+Player B holds: 6S 5S AH 7S 8C | 0 points, High Card, 14,8,7 high
+B Wins
+
+Different type of hands.
+Player A holds: 3S AD 9H JC 6D | 0 points, High Card, 14,11,9 high
+Player B holds: JD AS KH 6S JH | 30 points, One Pair, 11,14,13 high
+B Wins
+
+Different type of hands.
+Player A holds: AD 3D TS KS 7H | 0 points, High Card, 14,13,10 high
+Player B holds: JH 2D JS QD AC | 30 points, One Pair, 11,14,12 high
+B Wins
+
+Different type of hands.
+Player A holds: 9C JD 7C 6D TC | 0 points, High Card, 11,10,9 high
+Player B holds: 6H 6C JC 3D 3S | 40 points, Two Pair, 6,3,11 high
+B Wins
+
+Different type of hands.
+Player A holds: QC KC 3S JC KD | 30 points, One Pair, 13,12,11 high
+Player B holds: 2C 8D AH QS TS | 0 points, High Card, 14,12,10 high
+A Wins
+
+Same type of hand.
+Player A holds: AS KD 3D JD 8H | 0 points, High Card, 14,13,11 high
+Player B holds: 7C 8C 5C QD 6C | 0 points, High Card, 12,8,7 high
+A Wins
+
