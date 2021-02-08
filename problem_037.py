@@ -97,6 +97,13 @@ for p in primes:
 
 p_trunc =[]
 
+# learn to handle variable names better
+# would be nice to call 
+# for i in range(0,6):
+#     for p in primes_i
+#     ...
+
+
 for p in primes6:
     if rightTrunc(p,1) in primes5:
         if leftTrunc(p,1) in primes5:
