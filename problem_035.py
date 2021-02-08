@@ -7,6 +7,7 @@
 
 # How many circular primes are there below one million?
 '''
+
 from math import floor
 import time
 
@@ -38,6 +39,19 @@ print('Primes generated')
 
 # rotate primes
 # check for rotation in list of primes...
+
+def hasEven(candidate):
+    if str(candidate).find(0)>0:
+        return True
+    if str(candidate).find(2)>0:
+        return True
+    if str(candidate).find(4)>0:
+        return True
+    if str(candidate).find(6)>0:
+        return True
+    if str(candidate).find(8)>0:
+        return True
+    else return False
 
 def checkPrime(candidate):
     if candidate in primes:
