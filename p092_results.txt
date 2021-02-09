@@ -1,0 +1,2 @@
+There were 145 samples run. 119 samples resulted in 89 and 26 resulted in 1.
+119 + 26 = 145
