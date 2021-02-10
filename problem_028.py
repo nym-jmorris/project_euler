@@ -20,6 +20,8 @@ size = 1001
 size = 3
 spiral = [[0 for i in range(size)] for j in range(size)]
 
+# spiral [y][x]
+
 # for i in range(0,size):
 #     print(spiral[i][:])
 # print('\n')

@@ -1,0 +1,2 @@
+There were 100 samples run. 80 samples resulted in 89 and 20 resulted in 1.
+80 + 20 = 100
