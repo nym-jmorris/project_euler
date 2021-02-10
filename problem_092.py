@@ -103,8 +103,3 @@ g.write('\n{} + {} = {}'.format(eighty9s,ones,eighty9s+ones))
 
 g.close
 h.close
-
-
-g = open('p092_final.txt','w')
-g.write('nothing to see here.')
-g.close()
