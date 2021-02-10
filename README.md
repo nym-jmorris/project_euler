@@ -9,3 +9,4 @@ I'm accomplishing a few things:
 2.  Thinking about math again
 3.  Learning git [at least the basics]
 4.  Learning markdown
+5.  Other things, I'm sure
