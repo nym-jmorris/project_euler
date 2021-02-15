@@ -34,8 +34,38 @@ def decimalize(num,denom):
     i = 0
     while num < denom:
         num = num * 10
-        i+=1
-    dvnd = int(floor(num/denom))
-    rmdr = num%denom
-
+        i += 1
+    dvnd = num // denom
+    rmdr = num % denom
+ 
     return i,dvnd,rmdr
+
+n = 1
+d = 6
+
+maxloop = 1
+maxn = 1
+
+for number in range(1,1000):
+    numdict ={}
+    i = 0
+    while True:
+        output = decimalize(n,d)
+        if output in numdict.values():
+            #print('Looped through {} times'.format(i))
+            if i > maxloop:
+                maxloop = i
+                maxn = number
+            break
+        else: numdict.update({i:output})
+        if output[2]==0:
+            break
+        i+=1
+        n = output[2]
+    number+=1
+    d = number
+
+print('Saw the longest number of steps to get to a loop with {}, which has {} steps.'.format(maxn,maxloop))
+# This finds the longest recurring cycle *INCLUDING THE PROLOGUE*
+# 1/6 shows as having a cycle length of 2, not one.
+# Solution is revealed to be 983, but this code is not clean.
