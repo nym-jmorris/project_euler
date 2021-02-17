@@ -1,66 +1,55 @@
-#Problem 54
-# In the card game poker, a hand consists of five cards and are ranked, 
-# from lowest to highest, in the following way:
+'''
+Problem 54
+In the card game poker, a hand consists of five cards and are ranked, 
+from lowest to highest, in the following way:
 
-#     High Card: Highest value card.
-#     One Pair: Two cards of the same value.
-#     Two Pairs: Two different pairs.
-#     Three of a Kind: Three cards of the same value.
-#     Straight: All cards are consecutive values.
-#     Flush: All cards of the same suit.
-#     Full House: Three of a kind and a pair.
-#     Four of a Kind: Four cards of the same value.
-#     Straight Flush: All cards are consecutive values of same suit.
-#     Royal Flush: Ten, Jack, Queen, King, Ace, in same suit.
+    High Card: Highest value card.
+    One Pair: Two cards of the same value.
+    Two Pairs: Two different pairs.
+    Three of a Kind: Three cards of the same value.
+    Straight: All cards are consecutive values.
+    Flush: All cards of the same suit.
+    Full House: Three of a kind and a pair.
+    Four of a Kind: Four cards of the same value.
+    Straight Flush: All cards are consecutive values of same suit.
+    Royal Flush: Ten, Jack, Queen, King, Ace, in same suit.
 
-# The cards are valued in the order:
-# 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King, Ace.
+The cards are valued in the order:
+2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King, Ace.
 
-# If two players have the same ranked hands then the rank made up of the highest value wins; 
-# for example, a pair of eights beats a pair of fives (see example 1 below). 
-# But if two ranks tie, for example, both players have a pair of queens, 
-# then highest cards in each hand are compared (see example 4 below); 
-# if the highest cards tie then the next highest cards are compared, and so on.
+If two players have the same ranked hands then the rank made up of the highest value wins; 
+for example, a pair of eights beats a pair of fives (see example 1 below). 
+But if two ranks tie, for example, both players have a pair of queens, 
+then highest cards in each hand are compared (see example 4 below); 
+if the highest cards tie then the next highest cards are compared, and so on.
 
-# Consider the following five hands dealt to two players:
-# Hand	 	Player 1	 	Player 2	 	Winner
-# 1	 	5H 5C 6S 7S KD
-# Pair of Fives
-# 	 	2C 3S 8S 8D TD
-# Pair of Eights
-# 	 	Player 2
-# 2	 	5D 8C 9S JS AC
-# Highest card Ace
-# 	 	2C 5C 7D 8S QH
-# Highest card Queen
-# 	 	Player 1
-# 3	 	2D 9C AS AH AC
-# Three Aces
-# 	 	3D 6D 7D TD QD
-# Flush with Diamonds
-# 	 	Player 2
-# 4	 	4D 6S 9H QH QC
-# Pair of Queens
-# Highest card Nine
-# 	 	3D 6D 7H QD QS
-# Pair of Queens
-# Highest card Seven
-# 	 	Player 1
-# 5	 	2H 2D 4C 4D 4S
-# Full House
-# With Three Fours
-# 	 	3C 3D 3S 9S 9D
-# Full House
-# with Three Threes
-# 	 	Player 1
+Consider the following five hands dealt to two players:
+Hand	 	Player 1	 	Player 2	 	    Winner
+1	 	5H 5C 6S 7S KD  	2C 3S 8S 8D TD      Player 2
+        Pair of Fives       Pair of Eights
 
-# The file, poker.txt, contains one-thousand random hands dealt to two players. 
-# Each line of the file contains ten cards (separated by a single space): the first five 
-# are Player 1's cards and the last five are Player 2's cards. 
-# You can assume that all hands are valid (no invalid characters or repeated cards), 
-# each player's hand is in no specific order, and in each hand there is a clear winner.
+2	 	5D 8C 9S JS AC	 	2C 5C 7D 8S QH      
+        Highest card Ace    Highest card Queen  Player 1
+	 	
+3	 	2D 9C AS AH AC      3D 6D 7D TD QD
+        Three Aces          Flush with Diamonds Player 2
+	 	
+4	 	4D 6S 9H QH QC      3D 6D 7H QD QS
+        Pair of Queens      Pair of Queens      
+        Highest card Nine   Highest card Seven  Player 1
 
-# How many hands does Player 1 win?
+5	 	2H 2D 4C 4D 4S      3C 3D 3S 9S 9D
+        Full House          Full House
+        With Three Fours    with Three Threes   Player 1
+
+The file, poker.txt, contains one-thousand random hands dealt to two players. 
+Each line of the file contains ten cards (separated by a single space): the first five 
+are Player 1's cards and the last five are Player 2's cards. 
+You can assume that all hands are valid (no invalid characters or repeated cards), 
+each player's hand is in no specific order, and in each hand there is a clear winner.
+
+How many hands does Player 1 win?
+'''
 
 #what we need:
     # Split hands
@@ -95,6 +84,8 @@
 # Two Pair = 40
 # Pair = 30
 # Nothing = 0
+
+#full house is not being detected...
 
 import csv
 
@@ -265,7 +256,7 @@ def evalHand(hand):
         return [70,'Flush']
     if evalStraight(hand)=='Straight':
         return [60,'Straight']
-    if evalFullHouse(hand) == 'FullHouse':
+    if evalFullHouse(hand) == 'Full House':
         return [80,'Full House']
     kindHand = evalofKind(hand)
     if kindHand in ('Four of a Kind', 'Three of a Kind','Two Pair','One Pair'):
@@ -278,13 +269,23 @@ def evalHand(hand):
         else: return [30,'One Pair']
     else: return [0,'High Card']
 
+data = [['5H 5C 6S 7S KD 2C 3S 8S 8D TD'],
+['5D 8C 9S JS AC 2C 5C 7D 8S QH'],
+['2D 9C AS AH AC 3D 6D 7D TD QD'],
+['4D 6S 9H QH QC 3D 6D 7H QD QS'],
+['2H 2D 4C 4D 4S 3C 3D 3S 9S 9D'],
+['2C 3D 4C 5C 6C 2H 5H 6H 7H 8H'],
+['2C 2D 3C 3D AS 2S 3H 7D 8S 9C'],
+['2C 3C 4C 5C 6C 2S 3H 7D 8S 9C'],
+['AD AC AH AS KS 2C 3C 4C 5C 6C']
+]
+
 for d in data:
     hand1 = str(d)[2:16]
     hand2 = str(d)[17:31]
 
     handStatus1 = evalHand(hand1)
     handStatus2 = evalHand(hand2)
-
 
     high1 = highCard(hand1,handStatus1)
     high2 = highCard(hand2,handStatus2)
