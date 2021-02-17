@@ -43,3 +43,8 @@ Player A holds: AD AC AH AS KS | 90 points, Four of a Kind, 14,13,0 high
 Player B holds: 2C 3C 4C 5C 6C | 100 points, Straight Flush, 6,5,4 high
 B Wins
 
+Different type of hands.
+Player A holds: AD AC AH AS KS | 90 points, Four of a Kind, 14,13,0 high
+Player B holds: 3D 3H 3C QD QH | 80 points, Full House, 3,12,0 high
+A Wins
+
