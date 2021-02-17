@@ -269,7 +269,8 @@ def evalHand(hand):
         else: return [30,'One Pair']
     else: return [0,'High Card']
 
-data = [['5H 5C 6S 7S KD 2C 3S 8S 8D TD'],
+data = [
+['5H 5C 6S 7S KD 2C 3S 8S 8D TD'],
 ['5D 8C 9S JS AC 2C 5C 7D 8S QH'],
 ['2D 9C AS AH AC 3D 6D 7D TD QD'],
 ['4D 6S 9H QH QC 3D 6D 7H QD QS'],
@@ -277,7 +278,8 @@ data = [['5H 5C 6S 7S KD 2C 3S 8S 8D TD'],
 ['2C 3D 4C 5C 6C 2H 5H 6H 7H 8H'],
 ['2C 2D 3C 3D AS 2S 3H 7D 8S 9C'],
 ['2C 3C 4C 5C 6C 2S 3H 7D 8S 9C'],
-['AD AC AH AS KS 2C 3C 4C 5C 6C']
+['AD AC AH AS KS 2C 3C 4C 5C 6C'],
+['AD AC AH AS KS 3D 3H 3C QD QH']
 ]
 
 for d in data:
