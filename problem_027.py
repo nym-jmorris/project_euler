@@ -22,7 +22,7 @@ Find the product of the coefficients, a and b, for the quadratic expression
 that produces the maximum number of primes for consecutive values of n, starting with n=0.
 '''
 
-from time import time
+
 
 # how do I bind n?  Let's see what brute force gets us...
 # brute force yields a = -61, b = 971 for ab = -59231
@@ -30,7 +30,8 @@ from time import time
 # One solution in the forums has a function to test if prime
 # is it faster than searching the giant list?  Hopefully?
 
-ceiling = 200000
+'''
+#ceiling = 200000
 
 #  Find all primes below the ceiling via Sieve of Eratosthenes:
 nmax = ceiling
@@ -52,6 +53,7 @@ for i in range(2,nmax):
     if candidates[i] == True:
         primes.append(i)
         updateSieve(i)
+'''
 
 alimit = 1000
 blimit = 1000
@@ -61,6 +63,7 @@ maxlen = 0
 
 # SUPER SLOW
 
+# from time import time
 # time0 = time()
 # for a in range(-alimit+1,alimit):
 #     if abs(a)%((alimit)//10)==0:
