@@ -95,6 +95,7 @@ with open('p054_poker.txt', newline='') as f:
     data = list(reader)
 
 f = open('p54_output.txt','w')
+f.write('Round\tOutcome\tHolding\tHand\tPoints\tpts\tStatus\tHigh1\tHigh2\tHigh3\thigh\n')
 
 def evalofKind(hand):
     khand = []
@@ -147,8 +148,6 @@ def evalFullHouse(hand):
         return 'Full House'
     else: return 'Not Full House'
 
-
-
 def evalFlush(hand):
     suit = []
     for i in range(0,5):
@@ -180,6 +179,7 @@ def evalStraight(hand):
     if strt[1] == strt[0]+1 and strt[2] == strt[0]+2 and strt[3] == strt[0]+3 and strt[4] == strt[0]+4:
         return 'Straight'
     else: return 'Not Straight'
+
 
 # need to return 3 high cards [two pair and tie-breaker]
 def highCard(hand,status):
@@ -231,7 +231,6 @@ def highCard(hand,status):
             return [hhand[4],hhand[1],hhand[2]]
         else: 
             return[hhand[3],hhand[1],hhand[4]]
-    
 
     elif status[1] == 'One Pair':
         if hhand[4]==hhand[3]:
@@ -246,7 +245,6 @@ def highCard(hand,status):
     #high cards here
     else: 
         return [hhand[4],hhand[3],hhand[2]]
-    
 
 def evalHand(hand):
     if evalFlush(hand) == 'Flush' and evalStraight(hand) == 'Straight':
@@ -268,19 +266,23 @@ def evalHand(hand):
         else: return [30,'One Pair']
     else: return [0,'High Card']
 
-# data = [
+data = [
 # ['5H 5C 6S 7S KD 2C 3S 8S 8D TD'],
 # ['5D 8C 9S JS AC 2C 5C 7D 8S QH'],
 # ['2D 9C AS AH AC 3D 6D 7D TD QD'],
 # ['4D 6S 9H QH QC 3D 6D 7H QD QS'],
 # ['2H 2D 4C 4D 4S 3C 3D 3S 9S 9D'],
-# ['2C 3D 4C 5C 6C 2H 5H 6H 7H 8H'],
-# ['2C 2D 3C 3D AS 2S 3H 7D 8S 9C'],
-# ['2C 3C 4C 5C 6C 2S 3H 7D 8S 9C'],
-# ['AD AC AH AS KS 2C 3C 4C 5C 6C'],
-# ['AD AC AH AS KS 3D 3H 3C QD QH']
-# ]
+['3C 2D 4C 5C 6C 2H 5H 6H 7H 8H'],
+['2C 2D AC 3D AS 2S 3H 7D 8S 9C'],
+['2C 3C 4C 5C 6C 2S 3H 7D 8S 9C'],
+['AD AC AH AS KS 2C 3C 4C 5C 6C'],
+['AD AC AH AS KS 3D 3H 3C QD QH']
+]
 
+# data = [
+# ['6H 2C 3H 4C 5H 6H 6H 6H 9D 9S']
+# ]
+deal = 1
 for d in data:
     hand1 = str(d)[2:16]
     hand2 = str(d)[17:31]
@@ -291,56 +293,67 @@ for d in data:
     high1 = highCard(hand1,handStatus1)
     high2 = highCard(hand2,handStatus2)
 
+    # if handStatus1 == handStatus2:
+    #     f.write('Same type of hand.\n')
+    # else: f.write('Different type of hands.\n')
+
     if handStatus1 == handStatus2:
-        f.write('Same type of hand.\n')
-    else: f.write('Different type of hands.\n')
+        f.write('Round {}\tSame type of hand.\t'.format(deal))
+        deal+=1
+
+    else: 
+        f.write('Round {}\tDifferent type of hands.\t'.format(deal))
+        deal+=1
+
 
     
-    print('Player A holds: {} | {:2d} points, {}, {},{},{} high'.format(hand1,handStatus1[0],handStatus1[1],high1[0],high1[1],high1[2]))
-    print('Player B holds: {} | {:2d} points, {}, {},{},{} high'.format(hand2,handStatus2[0],handStatus2[1],high2[0],high2[1],high2[2]))
+    print('Player A holds: {} | {:2d} points, {}, {}, {}, {} high'.format(hand1,handStatus1[0],handStatus1[1],high1[0],high1[1],high1[2]))
+    print('Player B holds: {} | {:2d} points, {}, {}, {}, {} high'.format(hand2,handStatus2[0],handStatus2[1],high2[0],high2[1],high2[2]))
 
-    f.write('Player A holds: {} | {:2d} points, {}, {},{},{} high\n'.format(hand1,handStatus1[0],handStatus1[1],high1[0],high1[1],high1[2]))
-    f.write('Player B holds: {} | {:2d} points, {}, {},{},{} high\n'.format(hand2,handStatus2[0],handStatus2[1],high2[0],high2[1],high2[2]))
+    # f.write('Player A holds: {} | {:2d} points, {}, {},{},{} high\n'.format(hand1,handStatus1[0],handStatus1[1],high1[0],high1[1],high1[2]))
+    # f.write('Player B holds: {} | {:2d} points, {}, {},{},{} high\n'.format(hand2,handStatus2[0],handStatus2[1],high2[0],high2[1],high2[2]))
+    f.write('Player A holds:\t{}\t{:2d}\tpoints\t{}\t{}\t{}\t{}\thigh\n'.format(hand1,handStatus1[0],handStatus1[1],high1[0],high1[1],high1[2]))
+    f.write('\t\tPlayer B holds:\t{}\t{:2d}\tpoints\t{}\t{}\t{}\t{}\thigh\n'.format(hand2,handStatus2[0],handStatus2[1],high2[0],high2[1],high2[2]))
 
     if handStatus1[0] > handStatus2[0]:
         print('Player A wins')
-        f.write('A Wins\n\n')
+        #f.write('A Wins\n\n')
         wins_a += 1
     
     if handStatus1[0] < handStatus2[0]:
         print('Player B wins')
-        f.write('B Wins\n\n')
+        #f.write('B Wins\n\n')
         wins_b += 1
 
     if handStatus1[0] == handStatus2[0]:
         if high1[0] > high2[0]:
             print('Player A wins')
-            f.write('A Wins\n\n')
+        #    f.write('A Wins\n\n')
             wins_a += 1
         elif high1[0] < high2[0]:
             print('Player B wins')
-            f.write('B Wins\n\n')
+        #    f.write('B Wins\n\n')
             wins_b += 1
         elif high1[1] > high2[1]:
             print('Player A wins')
-            f.write('A Wins\n\n')
+        #    f.write('A Wins\n\n')
             wins_a += 1
         elif high1[1] < high2[1]:
             print('Player B wins')
-            f.write('B Wins\n\n')
+        #    f.write('B Wins\n\n')
             wins_b += 1
         elif high1[2] > high2[2]:
             print('Player A wins')
-            f.write('A Wins\n\n')
+        #    f.write('A Wins\n\n')
             wins_a += 1
 
         elif high1[2] < high2[2]:
             print('Player B wins')
-            f.write('B Wins\n\n')
+        #    f.write('B Wins\n\n')
             wins_b += 1
         else: 
             print('No Winners')
-            f.write('No one Wins\n\n')
+        #    f.write('No one Wins\n\n')
 
     print('\n')
 
