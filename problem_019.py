@@ -14,9 +14,9 @@ You are given the following information, but you may prefer to do some research 
 
 How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?
 '''
-day = 1
-monthday = 1
 weekday = 2
+monthday = 1
+day = 1
 month = 1
 year = 1900
 
@@ -68,11 +68,11 @@ def getStrMonth(month):
 
 
 while True:
-#    print('Today is {}, {} {}, {}'.format(getStrWkDay(monthday),getStrMonth(month),monthday,year))
-    print('Today is {}, {} {}, {}'.format(getStrWkDay(monthday%7),getStrMonth(month),monthday,year))
-#    print('---')
 
-    if monthday == 1 and  getStrWkDay(weekday%7)=='Sunday':
+    # if day >= 1 and day < 10:
+    #     print('Today is {}, {} {}, {}'.format(getStrWkDay((day+1)%7),getStrMonth(month),monthday,year))
+
+    if monthday == 1 and  getStrWkDay(weekday%7)=='Sunday' and year > 1900:
         firstsundays +=1
 
     day += 1
