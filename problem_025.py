@@ -26,6 +26,8 @@
 # What is the index of the first term in the Fibonacci sequence to contain 1000 digits?
 
 '''
+
+# doing this recursively is too expensive.  It has to call the fib for every number and has no memory.
 def fib(n):
     if n ==0:
         return 1
@@ -34,11 +36,18 @@ def fib(n):
     else:
         return fib(n-1)+fib(n-2)
 
-flen = 1
-i = 2
-limit = 3
-while flen < limit:
-    fibi = fib(i)
-    flen = len(str(fibi))
+# computing this directly inside a while loop allows for only one new term to be computed
+# during each iteration.
+
+fib0 = 1
+fib1 = 1
+i = 1
+
+while len(str(fib0))<1000:
+    fib2 = fib0+fib1
+    fib0 = fib1
+    fib1 = fib2
     i += 1
-print('First term with more than {} digits is {}. The fibonacci number is {}'.format(limit-1,i,fibi))
+
+print('{} is the first term with {} digits'.format(i,len(str(fib0))))
+
