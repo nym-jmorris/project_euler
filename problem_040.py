@@ -20,7 +20,8 @@ product = 1
 
 for i in range (0,7):
     try:
-        print('d{}:\t{}'.format(10**i,string[10**i]))
+        dstr = 'd'+str(10**i)
+        print('{:>8}:\t{}'.format(dstr,string[10**i]))
         product = product * int(string[10**i])
     except IndexError:
         print('Busted')
