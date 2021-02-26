@@ -117,3 +117,50 @@ print('Hexs:\t\t{}'.format(len(hexs)))
 print('Hepts:\t\t{}'.format(len(hepts)))
 print('Octs:\t\t{}'.format(len(octs)))
 
+fronts3 = {}
+backs3 = {}
+
+fronts4 = {}
+backs4 = {}
+
+fronts5 = {}
+backs5 = {}
+
+fronts6 = {}
+backs6 = {}
+
+fronts7 = {}
+backs7 = {}
+
+fronts8 = {}
+backs8 = {}
+
+for i in tris:
+    fronts3.update({i:str(i)[0:2]})
+    backs3.update({i:str(i)[2:4]})
+
+for i in squares:
+    fronts4.update({i:str(i)[0:2]})
+    backs4.update({i:str(i)[2:4]})
+
+for i in pents:
+    fronts5.update({i:str(i)[0:2]})
+    backs5.update({i:str(i)[2:4]})
+
+for i in hexs:
+    fronts6.update({i:str(i)[0:2]})
+    backs6.update({i:str(i)[2:4]})
+
+for i in hepts:
+    fronts7.update({i:str(i)[0:2]})
+    backs7.update({i:str(i)[2:4]})
+
+for i in octs:
+    fronts8.update({i:str(i)[0:2]})
+    backs8.update({i:str(i)[2:4]})
+
+for t in tris:
+    for p in pents:
+        for s in squares:
+            if str(t)[2:4]==str(p)[0:2] and str(p)[2:4]==str(s)[0:2] and str(s)[2:4]==str(t)[0:2]:
+                print('Tri: {}\tPent: {}\tSquare: {}'.format(t,p,s))
