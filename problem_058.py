@@ -69,4 +69,4 @@ while go:
         size += 2
     else: break
 
-print('A spiral of size {} has a ratio of {:.2f}, which is lower than our limit of {:.2f}'.format(size,ratio,limit))
+print('A spiral of size {} has a ratio of {:.4f}, which is lower than our limit of {:.2f}'.format(size,ratio,limit))
