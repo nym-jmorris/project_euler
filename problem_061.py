@@ -17,6 +17,12 @@ The ordered set of three 4-digit numbers: 8128, 2882, 8281, has three interestin
 Find the sum of the only ordered set of six cyclic 4-digit numbers for which each polygonal type: triangle, square, pentagonal, hexagonal, heptagonal, and octagonal, is represented by a different number in the set.
 '''
 
+# there are 6! possible orders for the functions to be arranged
+# Reduces to 5! once we realize 654321 is the same as 543216
+# Still, too many to brute force.
+# Knowing the solution for Tri/Pent/Square gives a generalized form for the solution.
+# Until next time...
+
 def makeTri(n):
     return int(n*(n+1)/2)
 
