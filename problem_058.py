@@ -21,6 +21,7 @@ If this process is continued, what is the side length of the square spiral for w
 # don't need to build a new spiral every time, just layer in the new numbers
 # don't even need that; just layer in the new corners.
 
+# don't even need a spiral!
 
 def isPrime(n):
     p = 2
@@ -32,87 +33,40 @@ def isPrime(n):
         p+=1
     return True
 
+limit = 0.10
 go = True
-size = 7
+lastd = 1
 
+diags = [1]
+pdiags = []
 
-
+size = 3
 while go:
-    spiral = [[0 for i in range(size)] for j in range(size)]
 
-    pos_x = size//2
-    pos_y = size//2
+    d1 = lastd + (size-1)
+    d2 = lastd + 2*(size-1)
+    d3 = lastd + 3*(size-1)
+    d4 = lastd + 4*(size-1)
 
-    spiral[pos_x][pos_y]=1
-    move_last = 'left'
+    if isPrime(d1):
+        pdiags.append(d1)
+    if isPrime(d2):
+        pdiags.append(d2)
+    if isPrime(d3):
+        pdiags.append(d3)
+    if isPrime(d4):
+        pdiags.append(d4)
+    
+    diags.append(d1)
+    diags.append(d2)
+    diags.append(d3)
+    diags.append(d4)
 
-    for i in range(2,size*size+1):
+    lastd = d4
+    ratio = len(pdiags)/len(diags)
 
-        if move_last == 'up' and spiral[pos_x+1][pos_y]==0:
-            spiral[pos_x+1][pos_y]=i
-            pos_x = pos_x + 1
-            move_last = 'right'
-            
-            continue
-        if move_last == 'up' and spiral[pos_x+1][pos_y]!=0:
-            spiral[pos_x][pos_y+1]=i
-            pos_y = pos_y+1
-            move_last = 'up'
-            
-            continue
+    if ratio > limit:
+        size += 2
+    else: break
 
-        if move_last == 'right' and spiral[pos_x][pos_y-1]==0:
-            spiral[pos_x][pos_y-1]=i
-            pos_y = pos_y-1
-            move_last = 'down'
-            
-            continue
-        if move_last == 'right' and spiral[pos_x][pos_y-1]!=0:
-            spiral[pos_x+1][pos_y]=i
-            pos_x = pos_x+1
-            move_last = 'right'
-            
-            continue
-
-        if move_last == 'down' and spiral[pos_x-1][pos_y]==0:
-            spiral[pos_x-1][pos_y]=i
-            pos_x = pos_x-1
-            move_last = 'left'
-            
-            continue
-        if move_last == 'down' and spiral[pos_x-1][pos_y]!=0:
-            spiral[pos_x][pos_y-1]=i
-            pos_y = pos_y-1
-            move_last = 'down'
-            
-            continue
-
-        if move_last == 'left' and spiral[pos_x][pos_y+1]==0:
-            spiral[pos_x][pos_y+1]=i
-            pos_y = pos_y+1
-            move_last = 'up'
-            
-            continue
-        if move_last == 'left' and spiral[pos_x][pos_y+1]!=0:
-            spiral[pos_x-1][pos_y]=i
-            pos_x = pos_x-1
-            move_last = 'left'
-            
-            continue
-
-    primes = 0
-    for i in range(0,size):
-        if isPrime(spiral[i][i]):
-            primes += 1
-        if isPrime(spiral[i][size-i-1]):
-            primes += 1
-        if isPrime(spiral[size//2][size//2]):
-            primes -= 1
-
-    ratio = primes / (2 * size - 1)
-    #print('Side size of {} yields ratio of {}'.format(size,ratio))
-    if ratio < 0.10:
-        break
-    size += 2
-
-print('The prime diagonal ratio drops below 10% when the spiral has a side of length {}'.format(size))
+print('A spiral of size {} has a ratio of {:.2f}, which is lower than our limit of {:.2f}'.format(size,ratio,limit))
