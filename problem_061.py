@@ -19,30 +19,28 @@ Find the sum of the only ordered set of six cyclic 4-digit numbers for which eac
 
 # there are 6! possible orders for the functions to be arranged
 # Reduces to 5! once we realize 654321 is the same as 543216
-# Still, too many to brute force.
-# Knowing the solution for Tri/Pent/Square gives a generalized form for the solution.
-# Until next time...
 
-def makeTri(n):
-    return int(n*(n+1)/2)
+# a method for creating permutations! How useful!
+from itertools import permutations
 
-def makeSqare(n):
-    return n**2
+# def makeTri(n):
+#     return int(n*(n+1)/2)
 
-def makePent(n):
-    return int(n*(3*n-1)/2)
+# def makeSqare(n):
+#     return n**2
 
-def makeHex(n):
-    return n*(2*n-1)
+# def makePent(n):
+#     return int(n*(3*n-1)/2)
 
-def makeHept(n):
-    return int(n*(5*n-3)/2)
+# def makeHex(n):
+#     return n*(2*n-1)
 
-def makeOct(n):
-    return n*(3*n-2)
+# def makeHept(n):
+#     return int(n*(5*n-3)/2)
 
-# for i in range(0,4):
-#     print('{}|{}|{}|{}|{}|{}'.format(makeTri(i),makeSqare(i),makePent(i),makeHex(i),makeHept(i),makeOct(i)))
+# def makeOct(n):
+#     return n*(3*n-2)
+
 
 def isTri(n):
     test = is_square(n*8+1)
@@ -116,57 +114,28 @@ for i in range(1000,10000):
     if isOct(i):
         octs.append(i)
 
-print('Tris:\t\t{}'.format(len(tris)))
-print('Squares:\t{}'.format(len(squares)))
-print('Pents:\t\t{}'.format(len(pents)))
-print('Hexs:\t\t{}'.format(len(hexs)))
-print('Hepts:\t\t{}'.format(len(hepts)))
-print('Octs:\t\t{}'.format(len(octs)))
+megalist = [tris,squares,pents,hexs,hepts,octs]
 
-fronts3 = {}
-backs3 = {}
+perms = list(permutations(megalist))
 
-fronts4 = {}
-backs4 = {}
+z=0
+for perm in perms:
+    for i in perm[0]:
+        for j in perm[1]:
+            if str(i)[2:4] == str(j)[0:2]:
 
-fronts5 = {}
-backs5 = {}
+                for k in perm[2]:
+                    if str(j)[2:4] == str(k)[0:2]:
 
-fronts6 = {}
-backs6 = {}
+                        for l in perm[3]:
+                            if str(k)[2:4]==str(l)[0:2]:
 
-fronts7 = {}
-backs7 = {}
+                                for m in perm[4]:
+                                    if str(l)[2:4] == str(m)[0:2]:
 
-fronts8 = {}
-backs8 = {}
-
-for i in tris:
-    fronts3.update({i:str(i)[0:2]})
-    backs3.update({i:str(i)[2:4]})
-
-for i in squares:
-    fronts4.update({i:str(i)[0:2]})
-    backs4.update({i:str(i)[2:4]})
-
-for i in pents:
-    fronts5.update({i:str(i)[0:2]})
-    backs5.update({i:str(i)[2:4]})
-
-for i in hexs:
-    fronts6.update({i:str(i)[0:2]})
-    backs6.update({i:str(i)[2:4]})
-
-for i in hepts:
-    fronts7.update({i:str(i)[0:2]})
-    backs7.update({i:str(i)[2:4]})
-
-for i in octs:
-    fronts8.update({i:str(i)[0:2]})
-    backs8.update({i:str(i)[2:4]})
-
-for t in tris:
-    for p in pents:
-        for s in squares:
-            if str(t)[2:4]==str(p)[0:2] and str(p)[2:4]==str(s)[0:2] and str(s)[2:4]==str(t)[0:2]:
-                print('Tri: {}\tPent: {}\tSquare: {}'.format(t,p,s))
+                                        for n in perm[5]:
+                                            if str(m)[2:4] == str(n)[0:2] and str(n)[2:4] == str(i)[0:2]:
+                                                z+=1
+                                                print('{} | {} | {} | {} | {} | {} | {}'.format(i,j,k,l,m,n,z))
+                                                print('Sum of permutations = {}\n'.format(i+j+k+l+m+n))
+            
