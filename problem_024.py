@@ -11,50 +11,25 @@ What is the millionth lexicographic permutation of the digits 0, 1, 2, 3, 4, 5, 
 '''
 
 digits = [0,1,2,3,4,5,6,7,8,9]
-d1 = digits.copy()
 
-perms =[]
+from itertools import permutations
+from time import time
 
-for i in d1:
-    d2 = d1.copy()
-    d2.remove(i)
-    
-    for j in d2:
-        d3 = d2.copy()
-        d3.remove(j)
+t0 = time()
 
-        for k in d3:
-            d4 = d3.copy()
-            d4.remove(k)
+perms = list(permutations(digits))
 
-            for l in d4:
-                d5 = d4.copy()
-                d5.remove(l)
+strings = []
+i = 0
+for p in perms:
+    string = ''
+    for s in p:
+        string = string + str(s)
+    strings.append(int(string))
+    i +=1
+    if i>1000000:
+        break
 
-                for m in d5:
-                    d6 = d5.copy()
-                    d6.remove(m)
-
-                    for n in d6:
-                        d7 = d6.copy()
-                        d7.remove(n)
-
-                        for o in d7:
-                            d8 = d7.copy()
-                            d8.remove(o)
-
-                            for p in d8:
-                                d9 = d8.copy()
-                                d9.remove(p)
-                                
-                                for q in d9:
-                                    d10 = d9.copy()
-                                    d10.remove(q)
-
-                                    for r in d10:
-                                        perm = str(i)+str(j)+str(k)+str(l)+str(m)+str(n)+str(o)+str(p)+str(q)+str(r)
-                                        perms.append(perm)
-
-perms.sort()
-print(perms[999999])
-
+strings.sort()
+t1 = time()
+print('The millionth string is {}.\nWe got here in {:.2f} seconds'.format(strings[999999],t1-t0))
