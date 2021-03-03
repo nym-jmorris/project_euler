@@ -9,11 +9,11 @@ The lexicographic permutations of 0, 1 and 2 are:
 
 What is the millionth lexicographic permutation of the digits 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9?
 '''
-
-digits = [0,1,2,3,4,5,6,7,8,9]
-
 from itertools import permutations
 from time import time
+
+digits = [0,1,2,3,4,5,6,7,8,9]
+limit = 1000000
 
 t0 = time()
 
@@ -27,9 +27,9 @@ for p in perms:
         string = string + str(s)
     strings.append(int(string))
     i +=1
-    if i>1000000:
+    if i>limit:
         break
 
 strings.sort()
 t1 = time()
-print('The millionth string is {}.\nWe got here in {:.2f} seconds'.format(strings[999999],t1-t0))
+print('The millionth string is {}.\nWe got here in {:.2f} seconds'.format(strings[limit-1],t1-t0))
