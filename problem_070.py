@@ -12,6 +12,8 @@ Find the value of n, 1 < n < 10**7, for which φ(n) is a permutation of n and th
 
 from time import time
 
+t1 = time()
+
 def isPerm(number1, number2):
     str1 = sorted(str(number1))
     str2 = sorted(str(number2))
@@ -52,25 +54,4 @@ def updateSieve(prime):
             None       
     return
 
-for n in range(2,ceiling):
-
-    factors = factorize(n)
-    f_count = {f:factors.count(i) for f in factors}
-    phi = 1
-    for k in f_count.keys():
-        phi = phi * k ** (f_count[k]-1) * (k-1)
-    phi = phi * n
-
-    tot = n / phi
-    if tot > maxtot:
-        maxtot = tot
-        maxi = n
-
-    if n % (ceiling // 10) == 0:
-        progress = progress + 0.1
-        print('{:7,d} integers ({:3.2%}) factorized and totiented in {:.2f} seconds'.format(n,progress,time()-t1))
-        print('{} returns the highest totient so far, {:.2f}.'.format(maxi,maxtot))
-
-print('{:7,d} integers ({:3.2%}) factorized and totiented in {:.2f} seconds'.format(nmax,1,time()-t1))
-
-print('{} returns the highest totient, {:2f}.'.format(maxi,maxtot))
+print('Help!')
