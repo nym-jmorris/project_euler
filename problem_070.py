@@ -13,7 +13,7 @@ Find the value of n, 1 < n < 10**7, for which φ(n) is a permutation of n and th
 # https://www.mathblog.dk/project-euler-70-investigate-values-of-n-for-which-%CF%86n-is-a-permutation-of-n/
 # need the final number to be the product of two large-ish primes.
 
-#from time import time
+from time import time
 
 def isPerm(number1, number2):
     str1 = sorted(str(number1))
@@ -40,13 +40,14 @@ def updateSieve(prime):
     return
 
 print('Calculating primes...')
+t0 = time()
 
 for i in range(2,nmax):
     if candidates[i] == True:
         primes.append(i)
         updateSieve(i)    
-
-print('Prime list completed...')
+t1 = time()
+print('Prime list completed in {:.2f} seconds'.format(t1-t0))
 
 # Find the prime factors of an integer:
 def factorize(n):
@@ -109,10 +110,8 @@ for p in primes:
     if p>2000 and p<5000:
         cprimes.append(p)
 
-bratio = 100
-bnum = 0
-
-
+bestratio = 100
+bestnum = 0
 
 for c1 in range(0,len(cprimes)):
     for c2 in range(c1+1,len(cprimes)):
@@ -120,7 +119,7 @@ for c1 in range(0,len(cprimes)):
         if n>ceiling:
             break
         phi = (cprimes[c1]-1)*(cprimes[c2]-1)
-        if n/phi < bratio and isPerm(n,phi):
-            bratio = n/phi
-            bnum = n
+        if n/phi < bestratio and isPerm(n,phi):
+            bestratio = n/phi
+            bestnum = n
 print('Best ratio is for {}, with ratio {}'.format(bnum,bratio))
