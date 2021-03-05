@@ -21,24 +21,8 @@ def isPerm(number1, number2):
         return True
     else: return False
 
-# Find the prime factors of an integer:
-def factorize(n):
-    factors = []
-    i = 0
-    p = primes[i]
-    while p <= n:
-        while n % p == 0:
-            factors.append(p)
-            n = n // p
-        if n == 1:
-            break
-        i += 1
-        p = primes[i]
-    return factors
-
-ceiling = 10000
-
 #  Find all primes below the ceiling via Sieve of Eratosthenes:
+ceiling = 1000000
 nmax = ceiling
 
 primes = []
@@ -54,4 +38,35 @@ def updateSieve(prime):
             None       
     return
 
-print('Help!')
+for i in range(2,nmax):
+    if candidates[i] == True:
+        primes.append(i)
+        updateSieve(i)    
+
+# Find the prime factors of an integer:
+def factorize(n):
+    factors = []
+    i = 0
+    p = primes[i]
+    while p <= n:
+        while n % p == 0:
+            factors.append(p)
+            n = n // p
+        if n == 1:
+            break
+        i += 1
+        p = primes[i]
+    return factors
+
+maxtot =0
+maxi = 0
+
+for n in range(2,10):
+    factors = factorize(n)
+    f_count = {f:factors.count(f) for f in factors}
+    phi = 1
+    for k in f_count.keys():
+        phi = phi * (k ** (f_count[k]-1)) * (k-1)
+    print('n = {}, φ(n) = {}'.format(n,phi))
+
+#    print('n = {}. {} has {} factors. They are {}. φ(n) = {}'.format(n,n,len(factors),factors,phi))

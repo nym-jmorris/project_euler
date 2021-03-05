@@ -80,11 +80,11 @@ maxi = 0
 # progress = 0.0
 # for n in range(2,nmax):
 #     factors = factorize(n)
-#     f_count = {f:factors.count(i) for f in factors}
+#     f_count = {f:factors.count(f) for f in factors}
 #     phi = 1
 #     for k in f_count.keys():
 #         phi = phi * k ** (f_count[k]-1) * (k-1)
-#     phi = phi * n
+
 
 #     tot = n / phi
 #     if tot > maxtot:
