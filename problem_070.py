@@ -9,10 +9,11 @@ Interestingly, φ(87109)=79180, and it can be seen that 87109 is a permutation o
 
 Find the value of n, 1 < n < 10**7, for which φ(n) is a permutation of n and the ratio n/φ(n) produces a minimum.
 '''
+# research here
+# https://www.mathblog.dk/project-euler-70-investigate-values-of-n-for-which-%CF%86n-is-a-permutation-of-n/
+# need the final number to be the product of two large-ish primes.
 
-from time import time
-
-t1 = time()
+#from time import time
 
 def isPerm(number1, number2):
     str1 = sorted(str(number1))
@@ -22,7 +23,7 @@ def isPerm(number1, number2):
     else: return False
 
 #  Find all primes below the ceiling via Sieve of Eratosthenes:
-ceiling = 1000000
+ceiling = 10000000
 nmax = ceiling
 
 primes = []
@@ -38,10 +39,14 @@ def updateSieve(prime):
             None       
     return
 
+print('Calculating primes...')
+
 for i in range(2,nmax):
     if candidates[i] == True:
         primes.append(i)
         updateSieve(i)    
+
+print('Prime list completed...')
 
 # Find the prime factors of an integer:
 def factorize(n):
@@ -58,15 +63,64 @@ def factorize(n):
         p = primes[i]
     return factors
 
+def isPrime(n):
+    p = 2
+    if n<2:
+        return False
+    while p * p <= n:
+        if n%p==0:
+            return False
+        p+=1
+    return True    
+
+def makephi(n):
+    y = n
+    for i in range(2,n+1):
+        if isPrime(i) and n % i == 0:
+            y *= 1 - 1.0/i
+    return int(y)
+
+
 maxtot =0
 maxi = 0
 
-for n in range(2,10):
-    factors = factorize(n)
-    f_count = {f:factors.count(f) for f in factors}
-    phi = 1
-    for k in f_count.keys():
-        phi = phi * (k ** (f_count[k]-1)) * (k-1)
-    print('n = {}, φ(n) = {}'.format(n,phi))
 
-#    print('n = {}. {} has {} factors. They are {}. φ(n) = {}'.format(n,n,len(factors),factors,phi))
+
+# for n in range(floor,ceiling):
+#     factors = factorize(n)
+#     f_count = {f:factors.count(f) for f in factors}
+
+#     phi = 1
+#     for k in f_count.keys():
+#         phi = phi * (k ** (f_count[k]-1)) * (k-1)
+    
+#     if isPerm(n,phi):
+#         if n/phi<ratio:
+#             ratio = n/phi
+#             print('Found a new low ratio permutation!\nφ({}) = {}. Ratio is {:.4f}'.format(n,phi,ratio))
+    
+#     if n % ((ceiling-floor)//10) == 0:
+#         print('Just evaluated {}'.format(n))
+
+
+cprimes = []
+
+for p in primes:
+    if p>2000 and p<5000:
+        cprimes.append(p)
+
+bratio = 100
+bnum = 0
+
+
+
+for c1 in range(0,len(cprimes)):
+    for c2 in range(c1+1,len(cprimes)):
+        n = cprimes[c1]*cprimes[c2]
+        if n>ceiling:
+            break
+        phi = (cprimes[c1]-1)*(cprimes[c2]-1)
+        if n/phi < bratio and isPerm(n,phi):
+            bratio = n/phi
+            bnum = n
+print('Best ratio is for {}, with ratio {}'.format(bnum,bratio))
