@@ -13,6 +13,19 @@ Find the value of n, 1 < n < 10**7, for which φ(n) is a permutation of n and th
 # https://www.mathblog.dk/project-euler-70-investigate-values-of-n-for-which-%CF%86n-is-a-permutation-of-n/
 # need the final number to be the product of two large-ish primes.
 
+# Thinking here is
+# 1.  Low ratios result from having as few factors as possible
+# 2.  We should have a large n
+#
+# from the web:
+# The obvious best choice would be to find a prime number close to 10.000.000. 
+# However, that is not possible since a prime must end in 1,3,7,9 and φ(n) = n-1 would only change the last digit. 
+# So they cannot be permutations of each other.
+#
+# To that end, we should look at numbers with two factors
+# SQRT(10000000) ~~ 3250, so look at primes between 2000 and 5000.
+
+
 from time import time
 
 def isPerm(number1, number2):
@@ -24,7 +37,7 @@ def isPerm(number1, number2):
 
 #  Find all primes below the ceiling via Sieve of Eratosthenes:
 ceiling = 10000000
-nmax = ceiling
+nmax = 5000
 
 primes = []
 
@@ -39,16 +52,14 @@ def updateSieve(prime):
             None       
     return
 
-print('Calculating primes...')
-t0 = time()
-
 for i in range(2,nmax):
     if candidates[i] == True:
         primes.append(i)
         updateSieve(i)    
 t1 = time()
-print('Prime list completed in {:.2f} seconds'.format(t1-t0))
 
+# don't need this
+'''
 # Find the prime factors of an integer:
 def factorize(n):
     factors = []
@@ -80,29 +91,10 @@ def makephi(n):
         if isPrime(i) and n % i == 0:
             y *= 1 - 1.0/i
     return int(y)
-
+'''
 
 maxtot =0
 maxi = 0
-
-
-
-# for n in range(floor,ceiling):
-#     factors = factorize(n)
-#     f_count = {f:factors.count(f) for f in factors}
-
-#     phi = 1
-#     for k in f_count.keys():
-#         phi = phi * (k ** (f_count[k]-1)) * (k-1)
-    
-#     if isPerm(n,phi):
-#         if n/phi<ratio:
-#             ratio = n/phi
-#             print('Found a new low ratio permutation!\nφ({}) = {}. Ratio is {:.4f}'.format(n,phi,ratio))
-    
-#     if n % ((ceiling-floor)//10) == 0:
-#         print('Just evaluated {}'.format(n))
-
 
 cprimes = []
 
@@ -116,10 +108,10 @@ bestnum = 0
 for c1 in range(0,len(cprimes)):
     for c2 in range(c1+1,len(cprimes)):
         n = cprimes[c1]*cprimes[c2]
-        if n>ceiling:
+        if n > ceiling:
             break
         phi = (cprimes[c1]-1)*(cprimes[c2]-1)
         if n/phi < bestratio and isPerm(n,phi):
             bestratio = n/phi
             bestnum = n
-print('Best ratio is for {}, with ratio {}'.format(bnum,bratio))
+print('Best ratio is for {}, with ratio {}'.format(bestnum,bestratio))
