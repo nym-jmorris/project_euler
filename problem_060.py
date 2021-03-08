@@ -22,7 +22,7 @@ import time
 
 time0 = time.time()
 nmax = 1000000
-nmax = 1000
+nmax = 10000
 
 primes = []
 
@@ -51,72 +51,92 @@ def getSum(n):
     for digit in str(n):   
       sum += int(digit)        
     return sum
-    
+
+def isPrime(n):
+    p = 2
+    if n<2:
+        return False
+    while p * p <= n:
+        if n%p==0:
+            return False
+        p+=1
+    return True
+
+def concat(n,m):
+    return int(str(n)+str(m))
+
 time2 = time.time()
 
 for p1 in range(0,len(primes)):
     
     for p2 in range(p1+1,len(primes)):
         
-        if getSum(int(str(primes[p1])+str(primes[p2]))) % 3 == 0:
+        if getSum(concat(primes[p1],primes[p2])) % 3 == 0:
             continue
         
-        if int(str(primes[p1])+str(primes[p2])) in primes and \
-            int(str(primes[p2])+str(primes[p1])) in primes:
+        if isPrime(concat(primes[p1],primes[p2])) and \
+            isPrime(concat(primes[p2],primes[p1])):
             
-            print('2 Primes found: {} | {}'.format(primes[p1],primes[p2]))
-            print('Time elapsed: {:.2f} seconds\n'.format(time.time()-time2))
+            # print('2 Primes found: {} | {}'.format(primes[p1],primes[p2]))
+            # print('Time elapsed: {:.2f} seconds\n'.format(time.time()-time2))
 
             for p3 in range(p2+1,len(primes)):
-                if getSum(int(str(primes[p1])+str(primes[p3]))) % 3 == 0:
+                if getSum(concat(primes[p1],primes[p3])) % 3 == 0:
                     continue
-                if getSum(int(str(primes[p2])+str(primes[p3]))) % 3 == 0:
+                if getSum(concat(primes[p2],primes[p3])) % 3 == 0:
                     continue
-                if int(str(primes[p1])+str(primes[p3])) in primes and \
-                    int(str(primes[p3])+str(primes[p1])) in primes and \
-                        int(str(primes[p2])+str(primes[p3])) in primes and \
-                            int(str(primes[p3])+str(primes[p2])) in primes :
+                if isPrime(concat(primes[p1],primes[p3])) and \
+                    isPrime(concat(primes[p3],primes[p1])) and \
+                        isPrime(concat(primes[p2],primes[p3])) and \
+                            isPrime(concat(primes[p3],primes[p2])):
 
-                            print('3 Primes found: {} | {} | {}'.format(primes[p1],primes[p2],primes[p3]))
-                            print('Time elapsed: {:.2f} seconds\n'.format(time.time()-time2))
+                            # print('3 Primes found: {} | {} | {}'.format(primes[p1],primes[p2],primes[p3]))
+                            # print('Time elapsed: {:.2f} seconds\n'.format(time.time()-time2))
 
                             for p4 in range(p3+1,len(primes)):
-                                if getSum(int(str(primes[p1])+str(primes[p4]))) % 3 == 0:
+                                if getSum(concat(primes[p1],primes[p4])) % 3 == 0:
                                     continue
-                                if getSum(int(str(primes[p2])+str(primes[p4]))) % 3 == 0:
+                                if getSum(concat(primes[p2],primes[p4])) % 3 == 0:
                                     continue
-                                if getSum(int(str(primes[p3])+str(primes[p4]))) % 3 == 0:
+                                if getSum(concat(primes[p3],primes[p4])) % 3 == 0:
                                     continue
-                                if int(str(primes[p1])+str(primes[p4])) in primes and \
-                                    int(str(primes[p4])+str(primes[p1])) in primes and \
-                                        int(str(primes[p2])+str(primes[p4])) in primes and \
-                                            int(str(primes[p4])+str(primes[p2])) in primes and \
-                                                int(str(primes[p3])+str(primes[p4])) in primes and \
-                                                    int(str(primes[p4])+str(primes[p3])) in primes:
-
+                                if isPrime(concat(primes[p1],primes[p4])) and \
+                                    isPrime(concat(primes[p4],primes[p1])) and \
+                                        isPrime(concat(primes[p2],primes[p4])) and \
+                                            isPrime(concat(primes[p4],primes[p2])) and \
+                                                isPrime(concat(primes[p3],primes[p4])) and \
+                                                    isPrime(concat(primes[p4],primes[p3])):
+                                                    
                                                     print('4 Primes found: {} | {} | {} | {}'.format(primes[p1],primes[p2],primes[p3],primes[p4]))
                                                     print('Time elapsed: {:.2f} seconds\n'.format(time.time()-time2))
 
                                                     for p5 in range(p4+1,len(primes)):
                                                         
-                                                        if getSum(int(str(primes[p1])+str(primes[p5]))) % 3 == 0:
+                                                        if getSum(concat(primes[p1],primes[p5])) % 3 == 0:
                                                             continue
-                                                        if getSum(int(str(primes[p2])+str(primes[p5]))) % 3 == 0:
+                                                        if getSum(concat(primes[p2],primes[p5])) % 3 == 0:
                                                             continue
-                                                        if getSum(int(str(primes[p3])+str(primes[p5]))) % 3 == 0:
+                                                        if getSum(concat(primes[p3],primes[p5])) % 3 == 0:
                                                             continue
-                                                        if getSum(int(str(primes[p4])+str(primes[p5]))) % 3 == 0:
+                                                        if getSum(concat(primes[p4],primes[p5])) % 3 == 0:
                                                             continue
                                                         
-                                                        if int(str(primes[p1])+str(primes[p5])) in primes and \
-                                                            int(str(primes[p5])+str(primes[p1])) in primes and \
-                                                                int(str(primes[p2])+str(primes[p5])) in primes and \
-                                                                    int(str(primes[p5])+str(primes[p2])) in primes and \
-                                                                        int(str(primes[p3])+str(primes[p5])) in primes and \
-                                                                            int(str(primes[p5])+str(primes[p3])) in primes and \
-                                                                                int(str(primes[p4])+str(primes[p5])) in primes:
-                                                                                print('{}, {}, {}, {} and {} meet this condition.'.format(primes[p1],primes[p2],primes[p3],primes[p4],primes[p5]))
-                                                                                print('Primes sum to {}'.format(primes[p1]+primes[p2]+primes[p3]+primes[p4]+primes[p5]))
-                                                                                print('Computation took {:.2f} seconds'.format(time.time()-time2))
-                                                                                break
-
+                                                        if isPrime(concat(primes[p1],primes[p5])) and \
+                                                            isPrime(concat(primes[p5],primes[p1])) and \
+                                                                isPrime(concat(primes[p2],primes[p5])) and \
+                                                                    isPrime(concat(primes[p5],primes[p2])) and \
+                                                                        isPrime(concat(primes[p3],primes[p5])) and \
+                                                                            isPrime(concat(primes[p5],primes[p3])) and \
+                                                                                isPrime(concat(primes[p4],primes[p5])) and \
+                                                                                    isPrime(concat(primes[p5],primes[p4])):
+                                                                                    print('{}, {}, {}, {} and {} meet this condition.'.format(primes[p1],primes[p2],primes[p3],primes[p4],primes[p5]))
+                                                                                    print('Primes sum to {}'.format(primes[p1]+primes[p2]+primes[p3]+primes[p4]+primes[p5]))
+                                                                                    print('Computation took {:.2f} seconds'.format(time.time()-time2))
+                                                                                    break
+# this break doesn't exit all the loops
+# The first answer is the right answer. 
+# How to stop once we get there?
+# 
+# 13, 5197, 5701, 6733 and 8389 meet this condition.
+# Primes sum to 26033
+# Computation took 66.06 seconds                                                                                
